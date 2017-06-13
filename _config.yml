@@ -1,7 +1,7 @@
-title:            Notepad
-description:      "Blogging is fun"
+title:            The Friendly Tester
+description:      My Thoughts on Software Testing
 logo:             logo.png
-disqus_shortname: hmfaysal
+disqus_shortname: 
 share:            true
 dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
