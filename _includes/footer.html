@@ -45,6 +45,33 @@
             </span>
         </a>
         {% endif %}
+        {% if site.owner.linkedin %}
+        <a href="mailto:{{ site.owner.linkedin }}">
+            <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-email fa-stack-1x"></i>
+            </span>
+        </a>
+        {% endif %}
+
+        {% if site.owner.rss %}
+        <a href="{{ site.baseurl }}/feed.xml">
+            <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-rss fa-stack-1x"></i>
+            </span>
+        </a>
+        {% endif %}
+
+        {% if site.owner.youtube %}
+        <a href="https://youtube.com/{{site.owner.youtube}}">
+            <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-youtube fa-stack-1x"></i>
+            </span>
+        </a>
+        {% endif %}
+
         {% if site.owner.facebook %}
         <a href="http://facebook.com/{{ site.owner.facebook }}">
             <span class="fa-stack fa-lg">
