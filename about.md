@@ -3,7 +3,6 @@ layout: page
 permalink: /about/index.html
 title: Richard Bradshaw
 tags: []
-imagefeature: richard.jpg
 chart: true
 ---
 <figure>
