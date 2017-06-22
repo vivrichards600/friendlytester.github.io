@@ -125,13 +125,13 @@ main, .notepad-share-icons, .notepad-disqus {
           text-align: left;
           padding: 0; }
           .notepad-blog-menu ul li a {
-            color: #679ACB;
+            color: #F79868;
             display: inline-block;
             border-bottom: 0.1875rem solid transparent;
             width: auto;
             height: auto; }
             .notepad-blog-menu ul li a:hover {
-              border-bottom: 0.1875rem solid #679ACB; } }
+              border-bottom: 0.1875rem solid #F79868; } }
 
 .notepad-site-head .notepad-site-head-menu {
   background: white; }
