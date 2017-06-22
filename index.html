@@ -5,7 +5,6 @@ description: "The personal blog of Richard Bradshaw, aka The Friendly Tester, a 
 headline: My Thoughts on Software Testing
 tags: []
 ---
-{% if site.paginate %}
 	{% for post in paginator.posts %}
     <article class="notepad-index-post post row">
         <div class="small-12 medium-3 large-2 columns datetime">
@@ -39,3 +38,4 @@ tags: []
 
         </div>
     </article>
+{% endfor %}
