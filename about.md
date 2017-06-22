@@ -7,7 +7,7 @@ chart: true
 ---
 <figure>
   <img src="{{ site.url }}/images/richardAbout.jpg" alt="Richard Bradshaw">
-  <figcaption>Richard Bradshaw</figcaption>
+  <figcaption>Richard Bradshaw, taken at Glenorchy the gateway to paradise.</figcaption>
 </figure>
 
 {% assign total_words = 0 %}
