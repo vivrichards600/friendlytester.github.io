@@ -27,72 +27,16 @@ chart: true
 {% endfor %}
 
 
-My name is **Hossain Mohd. Faysal**, and this is my personal blog. It currently has {{ site.posts | size }} posts in {{ site.categories | size }} categories which combinedly have {{ total_words }} words, which will take an average reader ({{ site.wpm }} WPM) approximately <span class="time">{{ total_readtime }}</span> minutes to read. {% if featuredcount != 0 %}There are <a href="{{ site.url }}/featured">{{ featuredcount }} featured posts</a>, you should definitely check those out.{% endif %} The most recent post is {% for post in site.posts limit:1 %}{% if post.description %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}">"{{ post.title }}"</a>{% else %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}" title="Read more about {{ post.title }}">"{{ post.title }}"</a>{% endif %}{% endfor %} which was published on {% for post in site.posts limit:1 %}{% assign modifiedtime = post.modified | date: "%Y%m%d" %}{% assign posttime = post.date | date: "%Y%m%d" %}<time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>{% if post.modified %}{% if modifiedtime != posttime %} and last modified on <time datetime="{{ post.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ post.modified | date: "%d %b %Y" }}</time>{% endif %}{% endif %}{% endfor %}. The last commit was on {{ site.time | date: "%A, %d %b %Y" }} at {{ site.time | date: "%I:%M %p" }} [UTC](http://en.wikipedia.org/wiki/Coordinated_Universal_Time "Temps Universel Coordonné").
+My name is **Richard Bradshaw**, and this is my personal blog. It currently has {{ site.posts | size }} posts in {{ site.categories | size }} categories which combinedly have {{ total_words }} words, which will take an average reader ({{ site.wpm }} WPM) approximately <span class="time">{{ total_readtime }}</span> minutes to read. {% if featuredcount != 0 %}There are <a href="{{ site.url }}/featured">{{ featuredcount }} featured posts</a>, you should definitely check those out.{% endif %} The most recent post is {% for post in site.posts limit:1 %}{% if post.description %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}">"{{ post.title }}"</a>{% else %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}" title="Read more about {{ post.title }}">"{{ post.title }}"</a>{% endif %}{% endfor %} which was published on {% for post in site.posts limit:1 %}{% assign modifiedtime = post.modified | date: "%Y%m%d" %}{% assign posttime = post.date | date: "%Y%m%d" %}<time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>{% if post.modified %}{% if modifiedtime != posttime %} and last modified on <time datetime="{{ post.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ post.modified | date: "%d %b %Y" }}</time>{% endif %}{% endif %}{% endfor %}. The last commit was on {{ site.time | date: "%A, %d %b %Y" }} at {{ site.time | date: "%I:%M %p" }} [UTC](http://en.wikipedia.org/wiki/Coordinated_Universal_Time "Temps Universel Coordonné").
 
-I am an PhD candidate in *ESE* at the [SEAS](http://www.seas.upenn.edu/) at **UPENN**. I am licensed as a Professional Engineer (P.E) to practice in the states of Texas, Massachusetts and California. I double majored in EECS and Mathematics during my undergraduate life at [MIT](http://www.mit.edu/), and currently focusing on Electrical Engineering for my post-graduate studies.
+I'm a director and tester at FriendlyTesting, a company I started in back in 2014. FriendlyTesting offers independent Testing Services, Consulting, Coaching and Training within Software Testing. I'm also a well travelled public speaker, I've spoken at many events all over the world, and thus far done two keynotes. You can see where I've presented at [here](http://www.thefriendlytester.co.uk/p/talks-workshops.html).
 
-*[ESE]: Electrical and Systems Engineering
-*[SEAS]: School of Engineering and Applied Science
-*[MIT]: Massachusetts Institute of Technology
-*[EECS]: Electrical and Computer Engineering
-*[UPENN]: University of Pennsylvania
+I'm also the FriendlyBoss over at the [Ministry of Testing](https://www.ministryoftesting.com/). The Ministry of Testing is a professional learning network. We've created a safe, exciting community about all things testing. You can get a feel about what we do by subscribing to our [newsletter](https://www.ministryoftesting.com/subscribe/), or join our Slack [channel](https://www.ministryoftesting.com/slack). My main focus there is to be an evangelist for Ministry of Testing, trying to make more and more people aware of this fantastic community. I'm also trying to growth our e-learning platform dedicated to testing called [The Dojo](http://dojo.ministryoftesting.com/). The Dojo is packed full or paid and free material on testing, I encourage you to check it out. We also have a vast network of [meetups](http://ministryoftesting.com/meetups) around the world and host numerous conferences on both sides of the pond, all our events are here.
 
-<figure>
-	<img src="{{ site.url }}/images/Hossain-Mohd-Faysal.jpg" alt="Hossain Mohammad Faysal">
-	<figcaption>At Bates Linear Accelerator Center</figcaption>
-</figure>
+In terms of Richard the tester, I'm a strong believer in automation in testing, this being the use of automation to support testing, not test automation. I don't believe testing can be automated. I do believe automation can play a big part within testing though, when viewed as a tool. We can build tools to do automated checking, as well as building custom tools to assist testing, such as data creation, log parsers and evidence collecting.
 
-I was born and brought up in Doha. Yes, its a desert peninsula, yes we have camels and falcons and all the other Middle Eastern traits/stereotypes you can think of.
+I'm very active in the testing community, I tweet regularly as [@FriendlyTester](https://twitter.com/friendlytester) and I'm a regular attendee at meetups throughout the U.K.
 
-<figure class="third">
-	<a href="{{ site.url }}/images/about/1.jpg"><img src="{{ site.url }}/images/about/1-001.jpg"></a>
-	<a href="{{ site.url }}/images/about/2.jpg"><img src="{{ site.url }}/images/about/2-001.jpg"></a>
-	<a href="{{ site.url }}/images/about/3.jpg"><img src="{{ site.url }}/images/about/3-001.jpg"></a>
-</figure>
-<figure class="half">
-	<a href="{{ site.url }}/images/about/4.jpg"><img src="{{ site.url }}/images/about/4-001.jpg"></a>
-	<a href="{{ site.url }}/images/about/5.jpg"><img src="{{ site.url }}/images/about/5-001.jpg"></a>
-</figure>
-<figure class="third">
-	<a href="{{ site.url }}/images/about/6.jpg"><img src="{{ site.url }}/images/about/6-001.jpg"></a>
-	<a href="{{ site.url }}/images/about/7.jpg"><img src="{{ site.url }}/images/about/7-001.jpg"></a>
-	<a href="{{ site.url }}/images/about/8.jpg"><img src="{{ site.url }}/images/about/8-001.jpg"></a>
-	<figcaption>Doha at its full glory.</figcaption>
-</figure>
+I'm also a founding member of the Midlands Exploratory Workshop on Testing ([#MEWT](https://twitter.com/search?q=%23MEWT&src=typd)). MEWT is a peer conference, you can read more about it on the [MEWT blog](https://mewtblog.wordpress.com/). We haven't had one for a while but have been inspiration for others to start their own workshops, which is great. We'll have another at some point.
 
-At some point in the not-terribly-distant future, I hope to found a self-sustaining collective of clever people, for fun, profit(?), and the promotion of human life in the universe. This might wind up in Qatar, Bangladesh, Scandinavia, the Massachusetts Bay Area, the SF Bay Area, Japan, Germany, or the dustbin of overly idealistic plans. (Yes, I have a special bin for overly idealistic plans. In my district they can't be recycled with residential mixed paper.) The most challenging aspect of this concept is to curtail unproductive competition with other people who will inevitably have the same idea. (Some sort of cooperative federation...) I'm presently looking for people who might be interested in being a part of such an organization.
-
-Anyways, for now I'm just working toward changing the face of Electrical Engineering forever. Not that I necessarily expect to succeed, but it's something to strive for, and it's a fun problem to work on.
-
-
-Entrepreneur  
-Designer  
-***Engineer***  
-Inventor  
-
-I
-make
-stuff.
-
-
-*Beautiful, practical, meaningful stuff.*
-
-
-I make what I love.
-
-*I love what I do.*
-
-
-But over the years, I noticed that somehow, along the way, software designed to help us be creative, actually made us less creative. That's because we believe our best ideas emerge when we use pencils and paper.
-So I set out to build tools that work the way I do.
-
-
-Tools for the creative space — the 53 centimeters that magically link head, heart, and hand. Tools as simple as pencil and paper. Tools so essential, I  really can't imagine work without them.
-
-
-For
-the makers,  
-the creators,  
-the discoverers,  
-the original thinkers,  
-***This is the space to create.***
+I'm also the creator of Whiteboard Testing, a YouTube channel dedicated to short informative videos on Software Testing. You can view the talks [here](https://www.youtube.com/channel/UC0QZWhi0ojqNte3ey7RD0qQ) and I encourage you to subscribe.
