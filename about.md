@@ -7,8 +7,8 @@ imagefeature: richard.jpg
 chart: true
 ---
 <figure>
-  <img src="{{ site.url }}/images/hossain-faysal.jpg" alt="Hossain Mohammad Faysal">
-  <figcaption>Hossain Mohammad Faysal</figcaption>
+  <img src="{{ site.url }}/images/richard.jpg" alt="Richard Bradshaw">
+  <figcaption>Richard Bradshaw</figcaption>
 </figure>
 
 {% assign total_words = 0 %}
