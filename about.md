@@ -6,7 +6,7 @@ tags: []
 chart: true
 ---
 <figure>
-  <img src="{{ site.url }}/images/richard.jpg" alt="Richard Bradshaw">
+  <img src="{{ site.url }}/images/richardAbout.jpg" alt="Richard Bradshaw">
   <figcaption>Richard Bradshaw</figcaption>
 </figure>
 
