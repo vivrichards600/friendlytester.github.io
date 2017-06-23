@@ -13,10 +13,11 @@ description: "An archive of posts sorted by Events."
 {% assign conf_list = site.conferences %}
   {% if conf_list.first[0] == null %}
     {% for conf in conf_list %}
-      <span>Null</span>
+      <p>Null</p>
     {% endfor %}
   {% else %}
     {% for conf in conf_list %}
+    <p>{{ conf.year }}</p>
       {% for event in conf_list.events %}
         <li><span>{{ event[1].name }}</span></li>
       {% endfor %}

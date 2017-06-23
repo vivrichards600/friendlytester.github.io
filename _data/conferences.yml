@@ -1,5 +1,5 @@
-year: 2016
-events:
+- year: 2016
+  events:
   - date: 18th May 2016
     name: TestBash Belfast
     role: Organiser
@@ -9,15 +9,3 @@ events:
     name: TestBash Brighton
     role: Speaker
     url: https://dojo.ministryoftesting.com/events/testbash-brighton-2018
-
-year: 2015
-events:
-  - date: 18th May 2015
-    name: TestBash Manchester
-    role: Organiser
-    url: https://dojo.ministryoftesting.com/events/testbash-manchester-2017
-
-  - date: 20th May 2015
-    name: TestBash Philadelphia
-    role: Speaker
-    url: https://dojo.ministryoftesting.com/events/testbash-philadelphia-2018
