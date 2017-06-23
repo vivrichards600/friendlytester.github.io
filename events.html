@@ -22,8 +22,8 @@ description: "An archive of posts sorted by Events."
 </ul>
 
 <ul>
-  {{ site.data.conferences | where:"year","2016" }}
-    {% for conference in site.data.conferences %}
+  {% assign conf2016 = site.data.conferences | where:"year","2016" %}
+    {% for conference in conf2016 %}
     <li>
       <span>{{ conference.date}}</span>
       <span>{{ conference.name}}</span>
