@@ -60,13 +60,15 @@ description: "A list of my upcoming and past conference engagements"
   <li>
     <span>{{ conference.date }}</span>
     <span> | </span>
+
+    {% if conference.url != null %}
+    <span><a href="{{ conference.url }}">{{conference.name}}</a></span>
+    {% else %}
     <span>{{ conference.name }}</span>
+    {% endif %}
+    
     <span> | </span>
     <span>{{ conference.role }}</span>
-    {% if conference.url != null %}
-    <span> | </span>
-    <span><a href="{{ conference.url }}">More details</a></span>
-    {% endif %}
   </li>
 {% endfor %}
 {% assign conf2016 = nil %}
