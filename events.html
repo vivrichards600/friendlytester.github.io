@@ -23,7 +23,13 @@ description: "An archive of posts sorted by Events."
 <ul>
 {% for conference in conf2018 %}
   <li>
-    <span>{{ conference.date }} | {{ conference.name }} | {{ conference.role }} | <a href="{{ conference.url }}">More details</a></span>
+    <span>{{ conference.date }} | {{ conference.name }} | {{ conference.role }}
+
+      {% if conference.url != nil %}
+       | <a href="{{ conference.url }}">More details</a>
+       {% endif %}
+
+     </span>
   </li>
 {% endfor %}
 {% assign conf2018 = nil %}
