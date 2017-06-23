@@ -32,7 +32,8 @@ description: "A list of my upcoming and past conference engagements"
     {% endif %}
 
     <span> | </span>
-    <span>{{ conference.role }}</span>
+    {% assign role = conference.role | split "," | join: ", " %}
+    <span>{{ role }}</span>
   </li>
 {% endfor %}
 {% assign conf2018 = nil %}
@@ -54,7 +55,8 @@ description: "A list of my upcoming and past conference engagements"
     {% endif %}
 
     <span> | </span>
-    <span>{{ conference.role }}</span>
+    {% assign role = conference.role | split "," | join: ", " %}
+    <span>{{ role }}</span>
   </li>
 {% endfor %}
 {% assign conf2017 = nil %}
