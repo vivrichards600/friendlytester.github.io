@@ -33,7 +33,7 @@ description: "A list of my upcoming and past conference engagements"
 
     <span> | </span>
     {% assign workshopCount = conference.role | join '' %}
-    <span>{{ workshopCount | pluralize: 'workshop', 'workshops' }}</span>
+    <span>{{ workshopCount | pluralize: 'Workshop', 'Workshops' }}</span>
   </li>
 {% endfor %}
 {% assign conf2018 = nil %}
