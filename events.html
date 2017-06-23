@@ -25,7 +25,7 @@ description: "An archive of posts sorted by Events."
   <li>
     <span>{{ conference.date }} | {{ conference.name }} | {{ conference.role }}
 
-      {% if conference.url %}
+      {% if conference.url != '' %}
        | <a href="{{ conference.url }}">More details</a>
        {% endif %}
 
