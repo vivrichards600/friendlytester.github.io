@@ -1,11 +1,11 @@
-- year: 2016
-  events:
   - date: 18th May 2016
     name: TestBash Belfast
     role: Organiser
-    url: https://dojo.ministryoftesting.com/events/testbash-belfast-2017
+    url: https://dojo.ministryoftesting.com/events/testbash-belfast-2016
+    year: 2016
 
-  - date: 20th May 2016
+  - date: 20th May 2017
     name: TestBash Brighton
     role: Speaker
-    url: https://dojo.ministryoftesting.com/events/testbash-brighton-2018
+    url: https://dojo.ministryoftesting.com/events/testbash-brighton-2017
+    year: 2017
