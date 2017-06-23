@@ -22,13 +22,17 @@ description: "A list of my upcoming and past conference engagements"
 <ul>
 {% for conference in conf2018 %}
   <li>
-    <span>{{ conference.date }} | {{ conference.name }} | {{ conference.role }}
+    <span>{{ conference.date }}</span>
+    <span> | </span>
 
-      {% if conference.url != nil %}
-       | <a href="{{ conference.url }}">More details</a>
-       {% endif %}
+    {% if conference.url != null %}
+    <span><a href="{{ conference.url }}">{{conference.name}}</a></span>
+    {% else %}
+    <span>{{ conference.name }}</span>
+    {% endif %}
 
-     </span>
+    <span> | </span>
+    <span>{{ conference.role }}</span>
   </li>
 {% endfor %}
 {% assign conf2018 = nil %}
@@ -40,13 +44,17 @@ description: "A list of my upcoming and past conference engagements"
 <ul>
 {% for conference in conf2017 %}
   <li>
-    <span>{{ conference.date }} | {{ conference.name }} | {{ conference.role }}
+    <span>{{ conference.date }}</span>
+    <span> | </span>
 
-      {% if conference.url %}
-       | <a href="{{ conference.url }}">More details</a>
-       {% endif %}
+    {% if conference.url != null %}
+    <span><a href="{{ conference.url }}">{{conference.name}}</a></span>
+    {% else %}
+    <span>{{ conference.name }}</span>
+    {% endif %}
 
-     </span>
+    <span> | </span>
+    <span>{{ conference.role }}</span>
   </li>
 {% endfor %}
 {% assign conf2017 = nil %}
@@ -66,7 +74,7 @@ description: "A list of my upcoming and past conference engagements"
     {% else %}
     <span>{{ conference.name }}</span>
     {% endif %}
-    
+
     <span> | </span>
     <span>{{ conference.role }}</span>
   </li>
@@ -82,13 +90,15 @@ description: "A list of my upcoming and past conference engagements"
   <li>
     <span>{{ conference.date }}</span>
     <span> | </span>
+
+    {% if conference.url != null %}
+    <span><a href="{{ conference.url }}">{{conference.name}}</a></span>
+    {% else %}
     <span>{{ conference.name }}</span>
+    {% endif %}
+
     <span> | </span>
     <span>{{ conference.role }}</span>
-    {% if conference.url != null %}
-    <span> | </span>
-    <span><a href="{{ conference.url }}">More details</a></span>
-    {% endif %}
   </li>
 {% endfor %}
 {% assign conf2015 = nil %}
@@ -102,13 +112,15 @@ description: "A list of my upcoming and past conference engagements"
   <li>
     <span>{{ conference.date }}</span>
     <span> | </span>
+
+    {% if conference.url != null %}
+    <span><a href="{{ conference.url }}">{{conference.name}}</a></span>
+    {% else %}
     <span>{{ conference.name }}</span>
+    {% endif %}
+
     <span> | </span>
     <span>{{ conference.role }}</span>
-    {% if conference.url != null %}
-    <span> | </span>
-    <span><a href="{{ conference.url }}">More details</a></span>
-    {% endif %}
   </li>
 {% endfor %}
 {% assign conf2014 = nil %}
