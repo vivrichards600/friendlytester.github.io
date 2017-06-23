@@ -15,7 +15,6 @@ description: "An archive of posts sorted by Events."
 
 {{conf2018.first[0]}}
 
-{% if conf2018.first[0] != null %}
 <h2>2018</h2>
 <ul>
 {% for conference in conf2018 %}
@@ -27,11 +26,9 @@ description: "An archive of posts sorted by Events."
     <span>{{ conference.year}}</span>
   </li>
 {% endfor %}
-{% endif %}
 {% assign conf2018 = nil %}
 </ul>
 
-{% if conf2017.first[0] != null %}
 <h2>2017</h2>
 <ul>
 {% for conference in conf2017 %}
@@ -43,11 +40,9 @@ description: "An archive of posts sorted by Events."
     <span>{{ conference.year}}</span>
   </li>
 {% endfor %}
-{% endif %}
 {% assign conf2017 = nil %}
 </ul>
 
-{% if conf2016.first[0] != null %}
 <h2>2016</h2>
 <ul>
 {% for conference in conf2016 %}
@@ -59,6 +54,5 @@ description: "An archive of posts sorted by Events."
     <span>{{ conference.year}}</span>
   </li>
 {% endfor %}
-{% endif %}
 {% assign conf2016 = nil %}
 </ul>
