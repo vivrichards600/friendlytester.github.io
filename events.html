@@ -20,3 +20,16 @@ description: "An archive of posts sorted by Events."
   </li>
 {% endfor %}
 </ul>
+
+<ul>
+  {{ site.data.conferences | where:"year","2016" }}
+    {% for conference in site.data.conferences %}
+    <li>
+      <span>{{ conference.date}}</span>
+      <span>{{ conference.name}}</span>
+      <span>{{ conference.role}}</span>
+      <span>{{ conference.url}}</span>
+      <span>{{ conference.year}}</span>
+    </li>
+{% endfor %}
+</ul>
