@@ -64,7 +64,7 @@ description: "An archive of posts sorted by Events."
     <span>{{ conference.name }}</span>
     <span> | </span>
     <span>{{ conference.role }}</span>
-    {% if conference.url != '' or conference.url == nil %}
+    {% if conference.url != null %}
     <span> | </span>
      <span><a href="{{ conference.url }}">More details</a></span>
      {% endif %}
