@@ -8,9 +8,15 @@ description: "An archive of posts sorted by Events."
 
 ---
 
-<p>Conferences</p>
+{% assign conf2018 = site.data.conferences | where:"year","2018" %}
+{% assign conf2017 = site.data.conferences | where:"year","2017" %}
+{% assign conf2016 = site.data.conferences | where:"year","2016" %}
+{% assign conf2015 = site.data.conferences | where:"year","2015" %}
+
+{% if conf2018.first[0] != null %}
+<h2>2018</h2>
 <ul>
-{% for conference in site.data.conferences %}
+{% for conference in conf2018 %}
   <li>
     <span>{{ conference.date}}</span>
     <span>{{ conference.name}}</span>
@@ -19,17 +25,38 @@ description: "An archive of posts sorted by Events."
     <span>{{ conference.year}}</span>
   </li>
 {% endfor %}
+{% endif %}
+{% assign conf2018 = nil %}
 </ul>
 
+{% if conf2017.first[0] != null %}
+<h2>2017</h2>
 <ul>
-  {% assign conf2016 = site.data.conferences | where:"year","2016" %}
-    {% for conference in conf2016 %}
-    <li>
-      <span>{{ conference.date}}</span>
-      <span>{{ conference.name}}</span>
-      <span>{{ conference.role}}</span>
-      <span>{{ conference.url}}</span>
-      <span>{{ conference.year}}</span>
-    </li>
+{% for conference in conf2017 %}
+  <li>
+    <span>{{ conference.date}}</span>
+    <span>{{ conference.name}}</span>
+    <span>{{ conference.role}}</span>
+    <span>{{ conference.url}}</span>
+    <span>{{ conference.year}}</span>
+  </li>
 {% endfor %}
+{% endif %}
+{% assign conf2017 = nil %}
+</ul>
+
+{% if conf2016.first[0] != null %}
+<h2>2016</h2>
+<ul>
+{% for conference in conf2016 %}
+  <li>
+    <span>{{ conference.date}}</span>
+    <span>{{ conference.name}}</span>
+    <span>{{ conference.role}}</span>
+    <span>{{ conference.url}}</span>
+    <span>{{ conference.year}}</span>
+  </li>
+{% endfor %}
+{% endif %}
+{% assign conf2016 = nil %}
 </ul>
