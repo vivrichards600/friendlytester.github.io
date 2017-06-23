@@ -77,7 +77,13 @@ description: "An archive of posts sorted by Events."
 <ul>
 {% for conference in conf2015 %}
   <li>
-    <span>{{ conference.date }} | {{ conference.name }} | {{ conference.role }} | <a href="{{ conference.url }}">More details</a></span>
+    <span>{{ conference.date }} | {{ conference.name }} | {{ conference.role }}
+
+      {% if conference.url != '' %}
+       | <a href="{{ conference.url }}">More details</a>
+       {% endif %}
+
+     </span>
   </li>
 {% endfor %}
 {% assign conf2015 = nil %}
@@ -89,7 +95,13 @@ description: "An archive of posts sorted by Events."
 <ul>
 {% for conference in conf2014 %}
   <li>
-    <span>{{ conference.date }} | {{ conference.name }} | {{ conference.role }} | <a href="{{ conference.url }}">More details</a></span>
+    <span>{{ conference.date }} | {{ conference.name }} | {{ conference.role }}
+
+      {% if conference.url != '' %}
+       | <a href="{{ conference.url }}">More details</a>
+       {% endif %}
+
+     </span>
   </li>
 {% endfor %}
 {% assign conf2014 = nil %}
