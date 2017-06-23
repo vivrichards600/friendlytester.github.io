@@ -13,6 +13,8 @@ description: "An archive of posts sorted by Events."
 {% assign conf2016 = site.data.conferences | where:"year","2016" %}
 {% assign conf2015 = site.data.conferences | where:"year","2015" %}
 
+{{conf2018.first[0]}}
+
 {% if conf2018.first[0] != null %}
 <h2>2018</h2>
 <ul>
