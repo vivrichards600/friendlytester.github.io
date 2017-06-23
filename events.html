@@ -59,11 +59,15 @@ description: "An archive of posts sorted by Events."
 <ul>
 {% for conference in conf2016 %}
   <li>
-    <span>{{ conference.date }} | {{ conference.name }} | {{ conference.role }}
-
-      {% if conference.url != '' %}
-       | <a href="{{ conference.url }}">More details</a>
-       {% endif %}
+    <span>{{ conference.date }}</span>
+    <span> | </span>
+    <span>{{ conference.name }}</span>
+    <span> | </span>
+    <span>{{ conference.role }}</span>
+    {% if conference.url != '' or conference.url == nil %}
+    <span> | </span>
+     <span><a href="{{ conference.url }}">More details</a></span>
+     {% endif %}
 
      </span>
   </li>
