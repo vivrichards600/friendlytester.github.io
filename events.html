@@ -19,7 +19,6 @@ description: "A list of my upcoming and past conference engagements"
 {% for conference in site.data.conferences %}
   {% if conference.role contains "Keynote" %}
     <p>conference.name</p>
-    {% keynotecount = keynotecount + 1 %}
   {% endif %}
 {% endfor %}
 
