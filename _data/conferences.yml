@@ -2,204 +2,244 @@
     name: TestBash Brighton
     role: [Organiser]
     url:  https://dojo.ministryoftesting.com/events/testbash-brighton-2018
+    country:  England
     year: 2018
 
   - date: 9th-10th November 2017
     name: TestBash Philadelphia
     role: [Organiser]
     url:  https://dojo.ministryoftesting.com/events/testbash-philadelphia-2017
+    country:  USA
     year: 2017
 
   - date: 26th-27th October 2017
     name: TestBash Manchester
     role: [Organiser]
     url:  https://dojo.ministryoftesting.com/events/testbash-manchester-2017
+    country:  England
     year: 2017
 
   - date: 6th October 2017
     name: TestBash Germany
     role: [Organiser]
     url:  https://dojo.ministryoftesting.com/events/testbash-germany-2017
+    country:  Germany
     year: 2017
 
   - date: 25th-26th September 2017
     name: SwanseaCon
     role: [Attendee]
     url:  http://swanseacon.co.uk/
+    country:  Wales
     year: 2017
 
   - date: 29th-30th June 2017
     name: London Tester Gathering Workshops
     role: [Organiser]
     url:  https://dojo.ministryoftesting.com/events/london-tester-gathering-workshops-2017
+    country:  England
     year: 2017
 
   - date: May 2017
     name: TestBash Belfast
     role: [Organiser]
+    country:  Northern Island
     year: 2017
 
   - date: March 2017
     name: TestBash Brighton
     role: [Talk]
+    country:  England
     year: 2017
 
   - date: December 2016
     name: Agile Testing Days
     role: [Tutorial]
+    country:  Germany
     year: 2016
 
   - date: November 2016
     name: Agile & Automation Days
     role: [Keynote, Tutorial]
+    country:  Netherlands
     year: 2016
 
   - date: November 2016
     name: Selenium Conference
     role: [Tutorial]
+    country:  England
     year: 2016
 
   - date: November 2016
     name: TestBash Philadelphia
     role: [Organiser]
+    country:  USA
     year: 2016
 
   - date: November 2016
     name: EuroSTAR Testing Conference
     role: [Tutorial]
+    country:  Sweden
     year: 2016
 
   - date: October 2016
     name: TestBash Manchester
     role: [Organiser]
+    country:  England
     year: 2016
 
   - date: October 2016
     name: LetsTest South Africa
     role: [Workshop, Talk]
+    country:  South Africa
     year: 2016
 
   - date: September 2016
     name: New Testing Conference
     role: [Tutorial]
+    country:  USA
     year: 2016
 
   - date: September 2016
     name: STPCon
     role: [Tutorial, Workshop, Talk]
+    country:  USA
     year: 2016
 
   - date: August 2016
     name: CAST (Conference of the Association of Software Testing)
     role: [Tutorial]
+    country:  USA
     year: 2016
 
   - date: June 2016
     name: Test Automation Days
     role: [Talk]
+    country:  Netherlands
     year: 2016
 
   - date: June 2016
     name: Fusion Technology Meetup
     role: [Talk]
+    country:  England
     year: 2016
 
   - date: June 2016
     name: Nordic Testing Days
     role: [Tutorial]
+    country:  Estonia
     year: 2016
 
   - date: May 2016
     name: LetsTest
     role: [Workshop, Workshop, Workshop]
+    country:  Sweden
     year: 2016
 
   - date: May 2016
     name: Romanian Testing Conference
     role: [Tutorial, Keynote]
+    country:  Romania
     year: 2016
 
   - date: May 2016
     name: Scottish Testing Group
     role: [Talk]
+    country:  Scotland
     year: 2016
 
   - date: April 2016
     name: Test Leadership Congress QA Expo
     role: [Tutorial, Workshop, Talk]
+    country:  USA
     year: 2016
 
   - date: March 2016
     name: TestBash Brighton
     role: [Workshop, Workshop]
+    country:  England
     year: 2016
 
   - date: February 2016
     name: Copenhagen Context
     role: Tutorial
+    country:  Denmark
     year: 2016
 
   - date: February 2016
     name: Euro Testing Conference
     role: [Talk, Workshop]
+    country:  Romania
     year: 2016
 
   - date: January 2016
     name: CodeMash
     role: [Talk]
+    country:  USA
     year: 2016
 
   - date: November 2015
     name: Agile Testing Days
     role: [Talk]
+    country:  Germany
     year: 2015
 
   - date: November 2015
     name: EuroSTAR
     role: [Talk]
+    country:  Netherlands
     year: 2015
 
   - date: October 2015
     name: TinyTestBash Brighton
     role: [Talk]
+    country:  England
     year: 2015
 
   - date: September 2015
     name: Mobile App Europe
     role: [Talk]
+    country:  Germany
     year: 2015
 
   - date: June 2015
     name: Nordic Testing Days
     role: [Workshop, Talk]
+    country:  Estonia
     year: 2015
 
   - date: May 2015
     name: LetsTest
     role: [Workshop]
+    country:  Sweden
     year: 2015
 
   - date: May 2015
     name: Romanian Testing Conference
     role: [Tutorial]
+    country:  Romania
     year: 2015
 
   - date: March 2015
     name: TestBash Brighton
     role: [Talk]
+    country:  England
     year: 2015
 
   - date: November 2014
     name: Agile Testing Days
     role: [Talk]
+    country:  Germany
     year: 2014
 
   - date: August 2014
     name: CAST (Conference of the Association of Software Testing)
     role: [Talk]
+    country:  USA
     year: 2014
 
   - date: May 2014
     name: Belgium Testing Days
     role: [Workshop]
+    country:  Belgium
     year: 2014
