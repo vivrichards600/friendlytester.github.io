@@ -637,3 +637,8 @@ iframe {
     vertical-align: super;
     color: #f79868;
 }
+
+.bluenumber {
+    color: #679ACB;
+    font-weight: 600;
+}
