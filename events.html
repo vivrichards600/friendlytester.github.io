@@ -13,12 +13,12 @@ description: "A list of my upcoming and past conference engagements"
 {% assign conf2015 = site.data.conferences | where:"year","2015" %}
 {% assign conf2014 = site.data.conferences | where:"year","2014" %}
 
-{% assign keynoteCount = 0 %}
-{{keynoteCount}}
+{% assign keynotecount = 0 %}
+{{keynotecount}}
 {% for conference in site.data.conferences %}
   {% if conference.role contains "Keynote" %}
     <p>conference.name</p>
-    {% keynoteCount = keynoteCount + 1 %}
+    {% keynotecount = keynoteCount + 1 %}
   {% endif %}
 {% endfor %}
 
