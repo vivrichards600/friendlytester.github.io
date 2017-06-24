@@ -1,0 +1,34 @@
+---
+layout: page
+title: Training
+permalink: /training/index.html
+title: Training Courses
+description: "A list of the software training courses I offer"
+
+---
+<p>I provide classes on a whole host of topics related to Software Testing. These are run privately, publicly via <a href="https://ministryoftesting.com?utm_source=friendlytester">Ministry of Testing</a> and at testing events around the world. You can follow my speaking schedule <a href="/events">here</a>.</p>
+<p>I offer the following fixed courses, but I'd be happy to tailor something for you if you have specific needs around these topics.</p>
+
+<table>
+  <caption>Table of courses available</caption>
+  <thead>
+    <tr>
+      <th>Course</th>
+      <th>Short Description</th>
+      <th>Course Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for course in site.data.courses %}
+    <tr>
+      <td width=25%>{{course.name}}</td>
+      <td width=50%>{{course.shortdesc}}</td>
+      <td width=25%><a href="{{course.link}}">Course details</a></td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<p>If you're interested in any of these courses, please contact me using an option below to discuss further.</p>
+
+<p>As mentioned above, I also offer these courses via the Ministry of Testing as part of their <a href="https://dojo.ministryoftesting.com/series/masters-of-the-ministry">Masters of the Ministry</a> initiative. You can find many other courses from great instructors over at their site, and also details of any public instances of my classes.

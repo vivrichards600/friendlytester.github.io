@@ -44,6 +44,8 @@ links:
     url: /categories
   - title: Events
     url: /events
+  - title: Training
+    url: /training
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
