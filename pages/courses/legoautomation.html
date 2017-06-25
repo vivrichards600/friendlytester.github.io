@@ -1,0 +1,20 @@
+---
+layout: page
+title: Lego Automation
+permalink: /training/legoautomation/index.html
+title: Lego Automation
+description: "A details description about the famous Lego Automation class"
+
+---
+
+{% assign course = site.data.courses | where:"title","Lego Automation" %}
+<p>{{course.title}}</p>
+<p>{{course.shortintto}}</p>
+<p>{{course.length}}</p>
+<p>{{course.description}}</p>
+<h2>Takeaways</h2>
+<ul>
+{% for takeaway in course.takeaways %}
+  <li>{{takeaway}}</li>
+{% endfor %}
+</ul>

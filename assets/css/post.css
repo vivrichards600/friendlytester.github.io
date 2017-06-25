@@ -303,8 +303,8 @@ html, body, .notepad-post-container, .notepad-post-header {
 .notepad-post-share {
   font-size: 1.875rem;
   padding: 0;
-  padding-top: 3.75rem;
-  padding-bottom: 3.75rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
   border-top: 0.0625rem solid #f2f2f2;
   color: #679ACB; }
   .notepad-post-share a {
@@ -313,8 +313,8 @@ html, body, .notepad-post-container, .notepad-post-header {
     color: #679ACB; }
   @media only screen and (min-width: 40.063em) {
     .notepad-post-share {
-      padding-top: 5rem;
-      padding-bottom: 5rem; } }
+      padding-top: 1.5rem;
+      padding-bottom: 1.5rem; } }
 
 .notepad-author-info {
   padding: 0;

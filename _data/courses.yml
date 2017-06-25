@@ -1,15 +1,27 @@
-  - name: Lego Automation
+  - title: Lego Automation
     shortdesc: The famous LegoAutomation class. A class all about automation without writing any code! A unique, insightful and fun class full of smiles and learning.
     link: /training/legoautomation
+    shortintro: This class has received great praise from the testing community. I've ran public classes in America, all other Europe, Australia and New Zealand. I've also ran this privately at some large companies including BMW, Sage, Assurity and New Voice Media.
+    length: This class is available in half-day and full-day versions.
+    desc: Automation
 
-  - name: Getting Started With Selenium WebDriver
+  - title: Getting Started With Selenium WebDriver
     shortdesc: A class aimed at those new to Selenium WebDriver. Suitable for all programming experience, form new to experienced. We cover all the basic and several patterns to write maintainable WebDriver code.
     link: /training/getting-started-with-selenium-webdriver
+    shortintro:
+    length:
+    desc:
 
-  - name: Taking Automated Checking Beyond UI / WebDriver
+  - title: Taking Automated Checking Beyond UI / WebDriver
     shortdesc: Majority of teams with a web based application have some form of UI automated checks using WebDriver. They checks have value. However a whole host of news tool to check further down the stack are available, in this class we explores those tools with working examples and reasoning.
     link: /training/taking-automated-checking-beyond-ui-webdriver
+    shortintro:
+    length:
+    desc:
 
-  - name: Technical Mobile Testing
+  - title: Technical Mobile Testing
     shortdesc: Having spent 2.5 years testing a mobile app, and getting the iOS version to five stars, and the Android version to 4.6, I want to share and teach other how we did it, and the tools that we used to make an awesome app.
     link: /training/technical-mobile-testing
+    shortintro:
+    length:
+    desc: 
