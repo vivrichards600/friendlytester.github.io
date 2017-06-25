@@ -3482,7 +3482,8 @@ blockquote cite {
 blockquote footer {
   display: block;
   font-size: 1rem;
-  color: #808080;
+  color: #679ACB;
+  font-weight: bold;
   padding-top: 0.3cm;
   text-align: right
 }

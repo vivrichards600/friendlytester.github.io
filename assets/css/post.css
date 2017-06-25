@@ -463,7 +463,7 @@ html, body, .notepad-post-container, .notepad-post-header {
     .notepad-page-content > div:not(.notepad-page-title) a, .notepad-page-content > div:not(.notepad-page-title) code {
       color: #679acb; }
     .notepad-page-content > div:not(.notepad-page-title) ul, .notepad-page-content > div:not(.notepad-page-title) ol {
-      padding-left: 1.25rem;
+      padding-left: 2.5rem;
       font-size: 1.125rem; }
     .notepad-page-content > div:not(.notepad-page-title) h1, .notepad-page-content > div:not(.notepad-page-title) h2, .notepad-page-content > div:not(.notepad-page-title) h3, .notepad-page-content > div:not(.notepad-page-title) h4, .notepad-page-content > div:not(.notepad-page-title) h5, .notepad-page-content > div:not(.notepad-page-title) h6 {
       font-weight: bold;
@@ -646,9 +646,4 @@ iframe {
 .orangepipe {
     color: #f79868;
     font-weight: 600;
-}
-
-.coursequote{
-  font-size: 1.125rem;
-  font-weight: normal;
 }

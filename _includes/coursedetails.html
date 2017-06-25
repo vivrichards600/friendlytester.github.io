@@ -1,0 +1,29 @@
+<p>{{course.shortintro}}</p>
+<h3>Course Length</h3>
+<p>{{course.length}}</p>
+<h3>Course Description</h3>
+{{course.desc | markdownify}}
+<h3>Takeaways</h3>
+<ul>
+{% for takeaway in course.takeaways %}
+  <li>{{takeaway.text}}</li>
+{% endfor %}
+</ul>
+
+{% if course.quotes != nil %}
+
+  {% if course.quotes.size > 1 %}
+    <h3>Reviews</h3>
+    {% else %}
+      <h3>Review</h3>
+  {% endif %}
+
+  {% for quote in course.quotes %}
+    <blockquote>
+      <span>{{quote.text}}</span>
+      <footer>— {{quote.author}}</footer>
+    </blockquote>
+  {% endfor %}
+{% endif %}
+
+<p>If you're interested in this course, or have any further questions, please contact me using a method from my footer.</p>

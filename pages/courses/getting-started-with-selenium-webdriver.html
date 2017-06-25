@@ -1,0 +1,14 @@
+---
+layout: page
+title: Getting Started With Selenium WebDriver
+permalink: /training/getting-started-with-selenium-webdriver/index.html
+title: Getting Started With Selenium WebDriver
+description: "A details description about my Getting Started With Selenium WebDriver class"
+
+---
+
+{% for course in site.data.courses %}
+  {% if course.title == "Getting Started With Selenium WebDriver" %}
+    {% include coursedetails.html %}
+  {% endif %}
+{% endfor %}

@@ -4,16 +4,22 @@
     shortintro: This class has received great praise from the testing community. I've ran public classes in America, all other Europe, Australia and New Zealand. I've also ran this privately at some large companies including BMW, Sage, Assurity and New Voice Media.
     length: This class is available in half-day and full-day versions.
     desc: |
-      Automation is playing an ever increasing role within software development, including testing. Specifically to testing we see the desire to have many automated checks in place, in the ‘DevOps’ space we see more and more deployments being automated. The use of CI is becoming common place. But where will it end, what are the limits of all this automation.\r\nIn this interactive experiential workshop we will explore automation using Lego Duplo! We will create a number of ‘automated scripts’, ever increasing in complexity. We will adapt existing scripts for new purposes. All without writing a single line of code. This class is about automation, but we are looking at theory and patterns, not the code. If you can understand where to use automation, how to communicate what’s been automated, and fully understand what you are trying to automate, the coding part becomes a lot easier.
+      Automation is playing an ever increasing role within software development, including testing. Specifically to testing we see the desire to have many automated checks in place, in the ‘DevOps’ space we see more and more deployments being automated. The use of CI is becoming common place. But where will it end, what are the limits of all this automation.
+
+      In this interactive experiential workshop we will explore automation using Lego Duplo! We will create a number of ‘automated scripts’, ever increasing in complexity. We will adapt existing scripts for new purposes. All without writing a single line of code. This class is about automation, but we are looking at theory and patterns, not the code. If you can understand where to use automation, how to communicate what’s been automated, and fully understand what you are trying to automate, the coding part becomes a lot easier.
 
       Attendees of this workshop will get an insight into the challenges of automating activities. Gain an understanding of the complexity required to automate something that is so simple for a human being to do. Experience how the initial design of your automation impacts all your future decisions. Observe first hand the limitations of automation. Hear real life experiences from myself and other attendees on their experiences with automation.
 
       This fun, high energy workshop will leave you with a core understanding of where to use automation, how to explain it’s purpose with others and more importantly why you decided to automate something.
     takeaways:
-      - text: A
-      - text: B
-      - text: C
-      - text: D
+      - text: An increased appreciation for the difficult task of automating
+      - text: An increased appreciation for the difficult task of automating
+      - text: Acknowledging that automation doesn’t stop once the task is automated
+      - text: How to share your design ideas with others
+      - text: How to talk about automation, with those who may not understand it
+      - text: An appreciation of the effort required to create a good design
+      - text: A simple, yet insightful activity to take back to the office
+      - text: Understanding that the language and frameworks are not the most important thing when designing automation.
     quotes:
       - text: Richard’s workshop beautifully captures the power and the pitfalls of using automation tools in testing through the medium of duplo. It is simple, powerful and very effective. Taking part in this workshop should be mandatory for anyone who writes code (or wants to), anyone who works with coders or anyone who leads such people.
         author: Ben Kelly, eBay UK
@@ -21,20 +27,87 @@
   - title: Getting Started With Selenium WebDriver
     shortdesc: A class aimed at those new to Selenium WebDriver. Suitable for all programming experience, form new to experienced. We cover all the basic and several patterns to write maintainable WebDriver code.
     link: /training/getting-started-with-selenium-webdriver
-    shortintro:
-    length:
-    desc:
+    shortintro: I've been using Selenium for over eight years now and have remained active in the Selenium community for the whole time. I've spoken at the Selenium Conference, and also ran this course at the Selenium Conference in London 2016.
+    length: I find the best format to be two days, however a single day and three day have been ran.
+    desc: |
+      If you have been testing for many years or new to testing, you probably hear the word automation a lot. It’s a buzzword in the testing space. However, it can have a huge impact on your testing approach, one of the most popular tools used for automation is Selenium WebDriver. With the most common use in testing projects being for automated checking/testing on the UI of a browser application.
+
+      Selenium is an opensource project creating tools for browser automation and support libraries, WebDriver is one of the tools form the project. WebDriver is an API for driving browsers, and is currently supported by most of the major browser vendors.
+
+      In this course we will familiarise ourselves with the WebDriver API using Java/C#, getting to grips with its core features:
+      * Open different browsers
+      * Locating elements
+      * Interacting with elements
+      * Screenshots
+      * Waits
+
+      We will then explore some of the popular patterns used in writing maintainable browser automation such as factories, the page object pattern and the data builder pattern.
+
+      This practical, hands on, course will benefit all experience levels of programming, no matter what level, all attendees will leave with working WebDriver code on their machines and a long list on how they can use the WebDriver API in their context.
+
+      #### Languages
+      This course is available in the following languages:
+      * Java
+      * C#
+
+      #### Prerequisites
+      Java – Bring a laptop with the latest JDK. Latest IntelliJ (Community / Paid). Your preferred browsers.  
+      C\# – Bring a laptop with the latest Visual Studio (Community/Paid) installed. Your preferred browsers.
+    takeaways:
+      - text: If new to programming, attendees will leave with a basic understanding of programming constructs
+      - text: A high level understanding of how the core WebDriver API works
+      - text: Working examples on the basic WebDriver API calls
+      - text: Details explanation of how some of the most common patterns work, along with working code examples
+      - text: Everyone will leave with working code on their machines
+      - text: My experiences throughout the course on using Selenium WebDriver
 
   - title: Taking Automated Checking Beyond UI / WebDriver
     shortdesc: Majority of teams with a web based application have some form of UI automated checks using WebDriver. They checks have value. However a whole host of news tool to check further down the stack are available, in this class we explores those tools with working examples and reasoning.
     link: /training/taking-automated-checking-beyond-ui-webdriver
-    shortintro:
-    length:
-    desc:
+    shortintro: This is a class I co-teach with Mark Winteringham. The majority of teams now have some form of automated checking/testing on their UI, however with the advancement of tools at other levels of an application, we can move some of those checks to a lower and usually faster to execute layer. This class with introduce you to a whole host of these tools with working examples and reasoning.
+    length: This class is available a one day or two day format.
+    desc: |
+      A lot of teams are heavily dependent on GUI level automated testing/checking.With the majority of automators opting for Selenium WebDriver. Now Selenium is a fantastic project, and WebDriver is superb API. If I was wanting to automate some user journeys in the browser, I would turn to WebDriver. Unfortunately though, WebDriver seems to be the default tool for a lot of, if not all the automated checking teams do, regardless of context, and what it is they are actually trying to check.
+
+      This can be problematic for multiple reasons, the main being that these checks tend to be slow and brittle, this of course depends on the skill level of the person creating them, it’s not always the case.
+
+      Another big factor is that, by nature of them being at the browser level you almost always end up checking a lot more than what you intend to. They’re not focused and targeted on a specific piece of functionality or behaviour.
+
+      **It doesn’t have to be this way though.**  
+      Tools below the GUI have come along way in recent years. They’re endless javascript libraries available for automated checking of javascript. With more teams adopting APIs, there has been an increase in tools available for doing automated API checking. There has also been huge advancements in visual checking tools, which teams could take advantage of.
+
+      In this technical hands on tutorial, Richard and Mark with introduce attendees to these new tools/frameworks. We will work as one big automation team to move existing GUI WebDriver checks further down or up the stack. Examining what the original intention of the check was, and now having more exposure to new tools, could we rewrite them at a different level in the stack. Then reflecting on the impact this has had to our automated checking, are they more targeted or faster than before, time will tell.
+
+      The experiential aspect of this tutorial is that it’s up to you the attendees, where we decide checks move to, if they move at all. As mentioned above, we will be working as one big team, so there will be lots of lots of discussion and learning from peers. So the direction the workshop takes is down to you, but of course with our expert guidance.
+
+      So if you’re interested in advancing your automated checking, come along.
+    takeaways:
+      - text: Exposure to new frameworks, libraries and tools
+      - text: Realisation that using WebDriver has given them lots of transferralbe programmable skills
+      - text: More options to tackle automated checking back in the workplace
+      - text: Skills and techniques for identifying checks on the wrong level
 
   - title: Technical Mobile Testing
     shortdesc: Having spent 2.5 years testing a mobile app, and getting the iOS version to five stars, and the Android version to 4.6, I want to share and teach other how we did it, and the tools that we used to make an awesome app.
     link: /training/technical-mobile-testing
-    shortintro:
-    length:
-    desc:
+    shortintro: Why this course? I spent 2.5 years testing the O2 Priority at O2, taking the iOS app from a rating of 4.2 to an overall rating of 5 stars, one of very few apps with such a rating after 40,000+ reviews. We also took the Android app from 3.8 to 4.6 based on 60,000 reviews. Of course this wasn't all down to my testing, but it played a big part and I want to share with you what we did.
+    length: This course is available in 1-3 day formats.
+    desc: |
+      If you have found yourself testing on mobile recently, you have probably considered or tried introducing some automation or tools into your testing efforts. You are probably thinking along the lines of, how can I make this easier? But it can appear a daunting task; there are so many frameworks and so many tools out there, so where do you start? In this class we will try and help you answer that question.
+
+      There are numerous tools we can take advantage of when it comes to mobile, some of these tools canassist us with our testing. Such tools could be used to install/uninstall the application such as Android Debugger Bridge (ADB). Some tools could give us an insight into how the application is performing such as Instruments. We can use tools to snoop on and manipulate the traffic between the mobile device and the server.
+
+      Then there are the tools that we can use to do some automated checking/testing. These tools have come a long way in recent years, so we will explore them and use one of the most popular ones, Appium. We will also discuss the pros and cons of mobile automation, exploring common issues and how we can mitigate them.
+      
+      #### Prerequisites:
+      * Please bring a mobile device, preferably a smartphone. Either iOS or Android.
+      * Please bring a laptop, OS X or Windows. If you want to test using iOS then you will need a Mac.
+    takeaways:
+      - text: Using Chrome Developer Tools and Safari Web Inspector to test mobile websites
+      - text: Utilising XCode / iOS Simulator
+      - text: Android Virtual Devices and Genymotion
+      - text: Getting the most out of ADB
+      - text: How to utilise proxying when testing mobile
+      - text: Recording your testing from the device
+      - text: An overview of GUI automation frameworks available
+      - text: Creating some GUI automated checks using Appium

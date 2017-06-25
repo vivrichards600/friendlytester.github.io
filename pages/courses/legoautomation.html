@@ -9,26 +9,6 @@ description: "A details description about the famous Lego Automation class"
 
 {% for course in site.data.courses %}
   {% if course.title == "Lego Automation" %}
-    <p>{{course.shortintro}}</p>
-    <h3>Course Length</h3>
-    <p>{{course.length}}</p>
-    <h3>Course Description</h3>
-    {{course.desc | markdownify}}
-    <h3>Takeaways</h3>
-    <ul>
-    {% for takeaway in course.takeaways %}
-      <li>{{takeaway.text}}</li>
-    {% endfor %}
-    </ul>
-
-    <h3>Review(s)</h3>
-    {% for quote in course.quotes %}
-      <blockquote>
-        <p class="coursequote">{{quote.text}}</p>
-        <footer>— {{quote.author}}</footer>
-      </blockquote>
-    {% endfor %}
+    {% include coursedetails.html %}
   {% endif %}
 {% endfor %}
-
-<p>If you're interested in this course, or have any further questions, please contact me using a method from my footer.</p>
