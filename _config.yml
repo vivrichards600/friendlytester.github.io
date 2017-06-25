@@ -46,6 +46,8 @@ links:
     url: /events
   - title: Training
     url: /training
+  - title: Whiteboard Testing
+    url: /whiteboardtesting
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
