@@ -7,14 +7,26 @@ description: "A details description about the famous Lego Automation class"
 
 ---
 
-{% assign course = site.data.courses | where:"title","Lego Automation" %}
-<p>{{course.title}}</p>
-<p>{{course.shortintto}}</p>
-<p>{{course.length}}</p>
-<p>{{course.description}}</p>
-<h2>Takeaways</h2>
-<ul>
-{% for takeaway in course.takeaways %}
-  <li>{{takeaway}}</li>
+{% for course in site.data.courses %}
+  {% if course.title == "Lego Automation" %}
+    <p>{{course.shortintro}}</p>
+    <h3>Course Length</h3>
+    <p>{{course.length}}</p>
+    <h3>Course Description</h3>
+    {{course.desc | markdownify}}
+    <h3>Takeaways</h3>
+    <ul>
+    {% for takeaway in course.takeaways %}
+      <li>{{takeaway.text}}</li>
+    {% endfor %}
+    </ul>
+
+    <h3>Review(s)</h3>
+    {% for quote in course.quotes %}
+      <blockquote>
+        <p>{{quote.text}}</p>
+        <footer>— {{quote.author}}</footer>
+      </blockquote>
+    {% endfor %}
+  {% endif %}
 {% endfor %}
-</ul>

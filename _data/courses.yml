@@ -3,7 +3,20 @@
     link: /training/legoautomation
     shortintro: This class has received great praise from the testing community. I've ran public classes in America, all other Europe, Australia and New Zealand. I've also ran this privately at some large companies including BMW, Sage, Assurity and New Voice Media.
     length: This class is available in half-day and full-day versions.
-    desc: Automation
+    desc: |
+      Automation is playing an ever increasing role within software development, including testing. Specifically to testing we see the desire to have many automated checks in place, in the ‘DevOps’ space we see more and more deployments being automated. The use of CI is becoming common place. But where will it end, what are the limits of all this automation.\r\nIn this interactive experiential workshop we will explore automation using Lego Duplo! We will create a number of ‘automated scripts’, ever increasing in complexity. We will adapt existing scripts for new purposes. All without writing a single line of code. This class is about automation, but we are looking at theory and patterns, not the code. If you can understand where to use automation, how to communicate what’s been automated, and fully understand what you are trying to automate, the coding part becomes a lot easier.
+
+      Attendees of this workshop will get an insight into the challenges of automating activities. Gain an understanding of the complexity required to automate something that is so simple for a human being to do. Experience how the initial design of your automation impacts all your future decisions. Observe first hand the limitations of automation. Hear real life experiences from myself and other attendees on their experiences with automation.
+
+      This fun, high energy workshop will leave you with a core understanding of where to use automation, how to explain it’s purpose with others and more importantly why you decided to automate something.
+    takeaways:
+      - text: A
+      - text: B
+      - text: C
+      - text: D
+    quotes:
+      - text: Richard’s workshop beautifully captures the power and the pitfalls of using automation tools in testing through the medium of duplo. It is simple, powerful and very effective. Taking part in this workshop should be mandatory for anyone who writes code (or wants to), anyone who works with coders or anyone who leads such people.
+        author: Ben Kelly, eBay UK
 
   - title: Getting Started With Selenium WebDriver
     shortdesc: A class aimed at those new to Selenium WebDriver. Suitable for all programming experience, form new to experienced. We cover all the basic and several patterns to write maintainable WebDriver code.
@@ -24,4 +37,4 @@
     link: /training/technical-mobile-testing
     shortintro:
     length:
-    desc: 
+    desc:

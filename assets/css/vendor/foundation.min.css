@@ -3470,13 +3470,20 @@ abbr {
 blockquote {
   margin: 0 0 1.25rem;
   padding: 0.5625rem 1.25rem 0 1.1875rem;
-  border-left: 1px solid #ddd
+  border-left: 2px solid #679acb
 }
 
 blockquote cite {
   display: block;
   font-size: 0.8125rem;
-  color: #555
+  color: #555;
+}
+
+blockquote footer {
+  display: block;
+  font-size: 1rem;
+  color: #555;
+  text-align: right
 }
 
 blockquote cite:before {
@@ -3488,8 +3495,9 @@ blockquote cite a, blockquote cite a:visited {
 }
 
 blockquote, blockquote p {
-  line-height: 1.6;
-  color: #6f6f6f
+  line-height: 1.125;
+  color: #6f6f6f;
+  font-size: 1rem
 }
 
 .vcard {
