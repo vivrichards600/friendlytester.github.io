@@ -647,3 +647,8 @@ iframe {
     color: #f79868;
     font-weight: 600;
 }
+
+.coursequote{
+  font-size: 1.125rem;
+  font-weight: normal;
+}

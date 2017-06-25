@@ -24,7 +24,7 @@ description: "A details description about the famous Lego Automation class"
     <h3>Review(s)</h3>
     {% for quote in course.quotes %}
       <blockquote>
-        <span>{{quote.text}}</span>
+        <p class="coursequote">{{quote.text}}</p>
         <footer>— {{quote.author}}</footer>
       </blockquote>
     {% endfor %}
