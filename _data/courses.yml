@@ -60,6 +60,9 @@
       - text: Details explanation of how some of the most common patterns work, along with working code examples
       - text: Everyone will leave with working code on their machines
       - text: My experiences throughout the course on using Selenium WebDriver
+    quotes:
+      - text: In November 2016 I attended Richard's Getting Started With Selenium Webdriver course at Selenium Conf 2016. Although my passion for testing was almost dead (my passion-for-testing-monitor showed a flat line), Richard really inspired me to become a great check automator through his passionate, holistic (personal <=> professional) approach of the topic and testing in general. I truly recommend Richard as a teacher and person for speaking about testing topics.
+        author: Joel Grimberg
 
   - title: Taking Automated Checking Beyond UI / WebDriver
     shortdesc: Majority of teams with a web based application have some form of UI automated checks using WebDriver. They checks have value. However a whole host of news tool to check further down the stack are available, in this class we explores those tools with working examples and reasoning.
