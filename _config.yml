@@ -40,14 +40,16 @@ links:
     url: /
     external: false
     icon: home
-  - title: Categories
-    url: /categories
   - title: Events
     url: /events
   - title: Training
     url: /training
   - title: Whiteboard Testing
     url: /whiteboardtesting
+  - title: Ministry of Testing
+    url: /ministryoftesting
+  - title: Categories
+    url: /categories
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
@@ -157,7 +159,9 @@ prose:
           label: "Comments"
           value: false
 
-plugins: [jekyll-paginate]
+gems:
+  - jekyll-gist
+  - jekyll-paginate
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]

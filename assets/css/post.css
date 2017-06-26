@@ -647,3 +647,8 @@ iframe {
     color: #f79868;
     font-weight: 600;
 }
+
+.gist {
+  max-width: 56.25rem;
+  margin: auto;
+}
