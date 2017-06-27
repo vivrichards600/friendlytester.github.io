@@ -13,7 +13,9 @@ blogger_orig_url: http://www.thefriendlytester.co.uk/2016/10/how-i-get-technical
 permalink: /2016/10/how-i-get-technical-workshops-up-and.html
 ---
 
-{% twitter https://twitter.com/maaretp/status/783931493190144000 align='center' %}
+<div class="centerplugin">
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">The first hour in most technical workshops is a slight mess with setups. Does anyone do this really, really fast and what&#39;s their secret?</p>&mdash; Maaret Pyhäjärvi (@maaretp) <a href="https://twitter.com/maaretp/status/783931493190144000">6 October 2016</a></blockquote></div>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 A few days a go I saw this tweet from Maaret. At the time of reading it, I felt I was at 100% success rate with technical workshops. I had the formula.  
