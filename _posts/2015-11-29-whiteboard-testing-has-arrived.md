@@ -34,4 +34,4 @@ So please do help me share awareness about [Whiteboard Testing](https://www.yout
 
 You can watch the intro video here  
 
-{% youtube "https://www.youtube.com/embed/Dm-juATp4hM" %}
+<!-- {% youtube "https://www.youtube.com/embed/Dm-juATp4hM" %} -->
