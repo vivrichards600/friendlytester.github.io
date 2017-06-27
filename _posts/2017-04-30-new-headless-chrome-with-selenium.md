@@ -34,7 +34,7 @@ I then thought I'd instruct WebDriver to take a ScreenShot so I could indeed see
 
 So here is plain pretty dull Java code, but it does the trick and runs successfully using Chrome headlessly!
 
-<div class="gist">
+<div class="centerplugin">
 {% gist FriendlyTester/d0706d5ca51e573c0bd3554c70dc5b2f %}
 </div>
 

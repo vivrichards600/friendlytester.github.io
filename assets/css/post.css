@@ -648,7 +648,13 @@ iframe {
     font-weight: 600;
 }
 
-.gist {
+.centerplugin {
   max-width: 56.25rem;
   margin: auto;
+  text-align: center;
+}
+
+.embed-container {
+  max-width: 56.25rem !important;
+  margin: auto !important;
 }
