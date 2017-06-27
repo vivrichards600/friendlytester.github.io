@@ -32,6 +32,4 @@ These videos are not high production, look at the intro video to work that out. 
 
 So please do help me share awareness about [Whiteboard Testing](https://www.youtube.com/channel/UC0QZWhi0ojqNte3ey7RD0qQ), and I looked forward to seeing some of your videos on there in the future.  
 
-You can watch the intro video here  
-
-<!-- {% youtube "https://www.youtube.com/embed/Dm-juATp4hM" %} -->
+You can watch the intro video here 
