@@ -8,6 +8,44 @@ modified_time: '2015-02-24T14:12:14.412Z'
 thumbnail: http://3.bp.blogspot.com/-4WeF863KiDA/VOuVaVOjhDI/AAAAAAAAAt0/vSg4czAuCes/s72-c/MobileDevices.jpg
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-6533338623798653193
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/02/blink-testing-in-mobile-context.html
+permalink: /2015/02/blink-testing-in-mobile-context.html
 ---
 
-I was first introduced to Blink Testing by <a href="https://twitter.com/jamesmarcusbach" target="_blank">James Bach</a> during <a href="http://www.satisfice.com/info_rst.shtml" target="_blank">Rapid Software Testing</a>, nearly two years ago now, however I only frequently used it, until now.<br /><br />For the last 9 months I have been testing a native mobile app, and upon recent reflection, it turns out I am using Blink Testing a lot.<br /><br />James describes <a href="http://www.satisfice.com/blog/archives/33" target="_blank">blink testing</a> as an heuristic oracle, and offers the following definition:-<br /><blockquote class="tr_bq"><span style="background-color: white; color: #373737; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 19.5px;">What you do in blink testing is plunge yourself into an ocean of data– far too much data to comprehend.&nbsp;</span><em style="background-color: white; border: 0px; color: #373737; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 19.5px; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">And then you comprehend it.</em></blockquote>&nbsp;He also offers some examples, one that really relates to my use:-<br /><blockquote class="tr_bq"><ul style="background-color: white; border: 0px; color: #373737; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 19.5px; list-style: square; margin: 0px 0px 1.625em 2.5em; outline: 0px; padding: 0px; vertical-align: baseline;"><li style="border: 0px; font-family: inherit; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Flip back and forth rapidly between two similar bitmaps. What catches your eye? Astronomers once did this routinely to detect comets.</li></ul></blockquote>So how do I use it, like this...<br /><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://3.bp.blogspot.com/-4WeF863KiDA/VOuVaVOjhDI/AAAAAAAAAt0/vSg4czAuCes/s1600/MobileDevices.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="http://3.bp.blogspot.com/-4WeF863KiDA/VOuVaVOjhDI/AAAAAAAAAt0/vSg4czAuCes/s1600/MobileDevices.jpg" height="185" width="400" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Line of mobile devices</td></tr></tbody></table>When I am testing I will line up a minimum of two devices and execute my tests on them all at the same time. By doing this, I am exposing myself to more data then I can comprehend. Majority of you have probably done something similar with browsers on separate monitors, but due to the size of mobile devices, using this technique is very easy with devices.<br /><br />Going left to right, I repeat the same actions on the app on all the devices and just as James has described, our brains love to pattern match. I am not always looking for the types of problems I will list, but I regularly come across them working this way.<br /><br />Here are just a few of the problems I have found using this heuristic.<br /><br /><b>Layout</b><br />Mobile devices come in all shapes and sizes, especially on Android... and by using this technique the differences just jump out. By having similar size screen devices side by side, your eyes are quickly drawn to the differences.<br /><br /><b>Images</b><br />It can be common to use the same artwork across devices, but devices don't always have the same screen real estate, meaning that images can appear squashed or stretched, again something easy to notice using this technique.<br /><br /><b>Transitions / Animations</b><br />Mobile apps user interfaces can have lots of animations and transitions, and depending on the speed of the devices, API levels, memory and screen size the performance of these animations can vary massively. By aligning devices, it can make differences easier to spot.<br /><br /><b>Performance</b><br />As mentioned with the animations, performance on mobile devices can vary on many things. By repeating the same process on many devices, the performance becomes obvious. For example, if an action on the first five devices takes what feels like a second to complete, then the sixth feels like it takes more, you will notice.<br /><br />If you are testing a mobile application and not using this approach or a similar one already, give it a go, and let me know how you get on.<br /><br /><i>References:</i><br /><i>http://www.satisfice.com/blog/archives/33 by James Bach&nbsp;</i>
+I was first introduced to Blink Testing by [James Bach](https://twitter.com/jamesmarcusbach) during [Rapid Software Testing](http://www.satisfice.com/info_rst.shtml), nearly two years ago now, however I only frequently used it, until now.  
+
+For the last 9 months I have been testing a native mobile app, and upon recent reflection, it turns out I am using Blink Testing a lot.  
+
+James describes [blink testing](http://www.satisfice.com/blog/archives/33) as an heuristic oracle, and offers the following definition:-  
+
+> What you do in blink testing is plunge yourself into an ocean of data– far too much data to comprehend. _And then you comprehend it._
+
+He also offers some examples, one that really relates to my use:-  
+
+> Flip back and forth rapidly between two similar bitmaps. What catches your eye? Astronomers once did this routinely to detect comets.
+
+So how do I use it, like this...  
+
+![](http://3.bp.blogspot.com/-4WeF863KiDA/VOuVaVOjhDI/AAAAAAAAAt0/vSg4czAuCes/s1600/MobileDevices.jpg)
+
+When I am testing I will line up a minimum of two devices and execute my tests on them all at the same time. By doing this, I am exposing myself to more data then I can comprehend. Majority of you have probably done something similar with browsers on separate monitors, but due to the size of mobile devices, using this technique is very easy with devices.  
+
+Going left to right, I repeat the same actions on the app on all the devices and just as James has described, our brains love to pattern match. I am not always looking for the types of problems I will list, but I regularly come across them working this way.  
+
+Here are just a few of the problems I have found using this heuristic.  
+
+### Layout  
+Mobile devices come in all shapes and sizes, especially on Android... and by using this technique the differences just jump out. By having similar size screen devices side by side, your eyes are quickly drawn to the differences.  
+
+### Images  
+It can be common to use the same artwork across devices, but devices don't always have the same screen real estate, meaning that images can appear squashed or stretched, again something easy to notice using this technique.  
+
+### Transitions / Animations  
+Mobile apps user interfaces can have lots of animations and transitions, and depending on the speed of the devices, API levels, memory and screen size the performance of these animations can vary massively. By aligning devices, it can make differences easier to spot.  
+
+### Performance  
+As mentioned with the animations, performance on mobile devices can vary on many things. By repeating the same process on many devices, the performance becomes obvious. For example, if an action on the first five devices takes what feels like a second to complete, then the sixth feels like it takes more, you will notice.  
+
+If you are testing a mobile application and not using this approach or a similar one already, give it a go, and let me know how you get on.  
+
+#### References:
+_http://www.satisfice.com/blog/archives/33 by James Bach _
