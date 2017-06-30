@@ -81,7 +81,7 @@ WebDriver comes with proxy support, mean that you can put a proxy between the br
 
 Two specific proxies I mentioned were [BrowserMob](http://bmp.lightbody.net/) and [Zap](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project). Both this proxies produce A LOT of information, so adding assertions to this information for me, simply isn't worth it. Plus in the context of Zap, new vulnerabilities are being added all the time so keeping it up to date would be exhaustive. So instead take advantage of your checks, hook in a proxy, and explore all the information produced.  
 
-<span style="color: #f79868;">*** Update - <a href="http://www.thefriendlytester.co.uk/2014/10/set-proxy-using-webdriver.html">Here</a> is how you add a proxy to Chrome/Firefox in both C# and Java.</span>  
+<span style="color: #F5986D;">*** Update - <a href="http://www.thefriendlytester.co.uk/2014/10/set-proxy-using-webdriver.html">Here</a> is how you add a proxy to Chrome/Firefox in both C# and Java.</span>  
 
 ![]({{site.url}}/images/blogpostimages/webdriverbeyondchecks/slide9.jpg)
 

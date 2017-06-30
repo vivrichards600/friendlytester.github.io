@@ -94,11 +94,11 @@ html, body, .notepad-post-container, .notepad-post-header {
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%); }
     .post-template .notepad-post-title a {
-      color: #F79868; }
+      color: #F5986D; }
       .post-template .notepad-post-title a:hover {
-        color: #F79868; }
+        color: #F5986D; }
     .post-template .notepad-post-title h1 {
-      color: #F79868;
+      color: #F5986D;
       font-weight: 800;
       font-size: 2.5rem;
       margin: 0 auto;
@@ -374,7 +374,7 @@ html, body, .notepad-post-container, .notepad-post-header {
 .notepad-post-menu-header-simple {
   width: 100%;
   height: 5rem;
-  background-color: #f79868;
+  background-color: #F5986D;
   color: white;
   position: relative;
   z-index: 9999; }
@@ -395,10 +395,10 @@ html, body, .notepad-post-container, .notepad-post-header {
     color: #679ACB; }
     .notepad-page-title a:hover,
     .notepad-post-title-simple a:hover {
-      color: #F79868; }
+      color: #F5986D; }
   .notepad-page-title h1,
   .notepad-post-title-simple h1 {
-    color: #F79868;
+    color: #F5986D;
     font-weight: 800;
     font-size: 3.125rem;
     padding: 0;
@@ -467,7 +467,7 @@ html, body, .notepad-post-container, .notepad-post-header {
       font-size: 1.125rem; }
     .notepad-page-content > div:not(.notepad-page-title) h1, .notepad-page-content > div:not(.notepad-page-title) h2, .notepad-page-content > div:not(.notepad-page-title) h3, .notepad-page-content > div:not(.notepad-page-title) h4, .notepad-page-content > div:not(.notepad-page-title) h5, .notepad-page-content > div:not(.notepad-page-title) h6 {
       font-weight: bold;
-      color: #f79868; }
+      color: #F5986D; }
     .notepad-page-content > div:not(.notepad-page-title) h1, .notepad-page-content > div:not(.notepad-page-title) h2, .notepad-page-content > div:not(.notepad-page-title) h3, .notepad-page-content > div:not(.notepad-page-title) h4, .notepad-page-content > div:not(.notepad-page-title) h5, .notepad-page-content > div:not(.notepad-page-title) h6, .notepad-page-content > div:not(.notepad-page-title) ul, .notepad-page-content > div:not(.notepad-page-title) ol, .notepad-page-content > div:not(.notepad-page-title) blockquote, .notepad-page-content > div:not(.notepad-page-title) pre, .notepad-page-content > div:not(.notepad-page-title) hr {
       max-width: 56.25rem;
       margin-left: auto;
@@ -626,7 +626,7 @@ iframe {
     padding: 4px 6px;
     margin: 2px;
     text-decoration: none;
-    border: 0.0625rem solid #f79868;
+    border: 0.0625rem solid #F5986D;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     border-radius: 4px;
@@ -635,7 +635,7 @@ iframe {
 .tag-box a span {
     font-size: 10px;
     vertical-align: super;
-    color: #f79868;
+    color: #F5986D;
 }
 
 .bluenumber {
@@ -644,7 +644,7 @@ iframe {
 }
 
 .orangepipe {
-    color: #f79868;
+    color: #F5986D;
     font-weight: 600;
 }
 
