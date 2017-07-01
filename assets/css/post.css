@@ -318,21 +318,21 @@ html, body, .notepad-post-container, .notepad-post-header {
 
 .notepad-author-info {
   padding: 0;
-  padding-top: 3.75rem;
-  padding-bottom: 3.75rem;
+  padding-top: 1.75rem;
+  padding-bottom: 1.75rem;
   background: #f2f2f2; }
   @media only screen and (min-width: 40.063em) {
     .notepad-author-info {
-      padding-top: 5rem;
-      padding-bottom: 5rem; } }
+      padding-top: 3rem;
+      padding-bottom: 3rem; } }
   @media only screen and (min-width: 70em) {
     .notepad-author-info {
-      padding-top: 6.875rem;
-      padding-bottom: 6.875rem; } }
+      padding-top: 4.875rem;
+      padding-bottom: 4.875rem; } }
   @media only screen and (min-width: 90em) {
     .notepad-author-info {
-      padding-top: 7.5rem;
-      padding-bottom: 7.5rem; } }
+      padding-top: 3rem;
+      padding-bottom: 3rem; } }
   .notepad-author-info .notepad-post-author {
     padding-left: 1.875rem;
     padding-right: 1.875rem;
@@ -513,7 +513,7 @@ html, body, .notepad-post-container, .notepad-post-header {
   margin-right: -0.9375rem; }
   .post-template .row p,
   .page-template .row p {
-    margin: 0 auto 2em auto !important;
+    margin: 0 auto 10px auto !important;
     max-width: 56.25rem !important;
     font-size: 1.125rem !important; }
   @media only screen and (min-width: 58.125em) {
