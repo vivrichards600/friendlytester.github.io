@@ -3,8 +3,11 @@ layout: post
 title: A Simple File Locker
 date: '2013-05-17T11:32:00.001+01:00'
 author: Richard Bradshaw
+categories:
+- Automation in Testing
 tags:
-- File Locker
+- Automation
+- Tools
 modified_time: '2013-05-17T12:17:14.919+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-5026959054289246931
 blogger_orig_url: http://www.thefriendlytester.co.uk/2013/05/a-simple-file-locker.html

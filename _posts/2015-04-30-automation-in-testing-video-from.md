@@ -3,7 +3,12 @@ layout: post
 title: Automation In Testing Video From TestBash
 date: '2015-04-30T10:59:00.002+01:00'
 author: Richard Bradshaw
-tags: 
+categories:
+- Automation in Testing
+- Automated Checking
+tags:
+- Conferences
+- Automation
 modified_time: '2015-04-30T10:59:54.450+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-8580785579249752787
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/04/automation-in-testing-video-from.html

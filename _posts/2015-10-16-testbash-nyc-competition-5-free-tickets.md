@@ -3,7 +3,12 @@ layout: post
 title: TestBash NYC Competition - 5 Free Tickets!!!
 date: '2015-10-16T13:17:00.000+01:00'
 author: Richard Bradshaw
+categories:
+- Conferences
+- Community
 tags: 
+ - Community
+ - Competition
 modified_time: '2015-10-16T19:42:30.894+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-5422636634655946777
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/10/testbash-nyc-competition-5-free-tickets.html

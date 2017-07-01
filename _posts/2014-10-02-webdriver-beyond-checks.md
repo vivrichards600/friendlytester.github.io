@@ -3,10 +3,21 @@ layout: post
 title: WebDriver Beyond Checks
 date: '2014-10-02T22:47:00.001+01:00'
 author: Richard Bradshaw
+categories:
+- Selenium WebDriver
+- Automation in Testing
+- GUI Automation
+- Automated Checking
+- Automation Design
+- Monitoring
+- Testing in Production
 tags:
-- selenium
-- webdriver
-- automation
+- PageObjects
+- Conferences
+- C#
+- Selenium WebDriver
+- Monitoring
+- Testing in Production
 modified_time: '2014-10-16T12:49:39.729+01:00'
 thumbnail: http://3.bp.blogspot.com/-RZPJKQyOd8g/VC27_BfkOGI/AAAAAAAAAaU/1dJMSpkFDHg/s72-c/Slide1.bmp.jpg
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-3482163000478128423

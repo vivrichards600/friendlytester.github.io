@@ -3,11 +3,12 @@ layout: post
 title: How Often Do You Really Fix A "Failing" Automated Check
 date: '2015-06-13T18:24:00.000+01:00'
 author: Richard Bradshaw
+categories:
+- Automated Checking
+- Automation Design
+- Automation in Testing
 tags:
-- checking
-- automation
-- checks
-- Testing
+- Automation
 modified_time: '2015-06-13T20:07:44.589+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-8431215467083733803
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/06/how-often-do-you-really-fix-failing.html

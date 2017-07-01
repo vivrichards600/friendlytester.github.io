@@ -3,11 +3,11 @@ layout: post
 title: Interviewing - Question at CAST2015
 date: '2015-08-05T22:21:00.001+01:00'
 author: Richard Bradshaw
+categories:
+- Conferences
+- Community
 tags:
-- CV
 - Interviewing
-- automation
-- Testing
 modified_time: '2015-08-05T22:21:42.665+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-4686557657219353300
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/08/interviewing-question-at-cast2015.html

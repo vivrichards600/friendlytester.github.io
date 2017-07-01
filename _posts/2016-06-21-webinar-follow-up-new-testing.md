@@ -3,10 +3,13 @@ layout: post
 title: 'Webinar Follow-up: New Testing Battlefields'
 date: '2016-06-21T22:00:00.000+01:00'
 author: Richard Bradshaw
+categories:
+- Mobile Testing
+- Community
 tags:
-- mobile
+- Mobile
+- Community
 - IoT
-- mobile testing
 modified_time: '2016-06-21T22:00:12.861+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-1466419961213195188
 blogger_orig_url: http://www.thefriendlytester.co.uk/2016/06/webinar-follow-up-new-testing.html

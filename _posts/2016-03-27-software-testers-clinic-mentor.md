@@ -3,9 +3,13 @@ layout: post
 title: Software Testers Clinic - A Mentor Experience Report
 date: '2016-03-27T23:32:00.001+01:00'
 author: Richard Bradshaw
+categories:
+- Community
+- Software Testing Clinic
 tags:
-- mentoring
-- coaching
+- Coaching
+- Mentoring
+- Community
 modified_time: '2016-03-27T23:47:04.733+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-6131949948090939326
 blogger_orig_url: http://www.thefriendlytester.co.uk/2016/03/software-testers-clinic-mentor.html

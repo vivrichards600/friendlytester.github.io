@@ -3,7 +3,15 @@ layout: post
 title: Testability Question at CAST2015
 date: '2015-08-04T21:31:00.000+01:00'
 author: Richard Bradshaw
+categories:
+- Community
+- Conferences
+- Automation in Testing
+- Testability
+- Automation Design
 tags: 
+- Testability
+- Automation
 modified_time: '2015-08-04T21:31:00.433+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-3229094255686374755
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/08/testability-question-at-cast2015.html

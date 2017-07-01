@@ -3,10 +3,14 @@ layout: post
 title: Take Screenshots With RemoteWebDriver
 date: '2012-11-14T15:27:00.002Z'
 author: Richard Bradshaw
+categories:
+- Automation in Testing
+- Selenium WebDriver
+- GUI Automation
+- Automated Checking
 tags:
-- remotewebdriver
-- c#
-- screenshots
+- C#
+- Selenium WebDriver
 modified_time: '2014-03-06T11:13:37.199Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-6165339037108894979
 blogger_orig_url: http://www.thefriendlytester.co.uk/2012/11/take-screenshots-with-remotewebdriver.html

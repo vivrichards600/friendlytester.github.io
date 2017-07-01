@@ -3,8 +3,11 @@ layout: post
 title: My Trip To Selenium Conference 2013
 date: '2013-06-21T12:15:00.002+01:00'
 author: Richard Bradshaw
+categories:
+- Community
+- Conferences
 tags:
-- selenium conference
+- Selenium WebDriver
 modified_time: '2013-06-23T18:31:44.904+01:00'
 thumbnail: http://4.bp.blogspot.com/-dvEU1vBmP5o/Ub4bwShduNI/AAAAAAAAACU/RNikiIJTdjs/s72-c/BostonByNight.jpg
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-6905651508008253858

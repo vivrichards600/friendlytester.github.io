@@ -3,7 +3,11 @@ layout: post
 title: A Big Change
 date: '2013-12-18T21:41:00.004Z'
 author: Richard Bradshaw
-tags: 
+categories: 
+- My Career
+tags:
+- Community
+- Career
 modified_time: '2013-12-22T10:03:47.736Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-5136572620680469811
 blogger_orig_url: http://www.thefriendlytester.co.uk/2013/12/a-big-change.html

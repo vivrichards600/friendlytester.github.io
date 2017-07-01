@@ -3,11 +3,16 @@ layout: post
 title: WebDriver Factory
 date: '2014-02-12T22:30:00.001Z'
 author: Richard Bradshaw
+categories:
+- Automation in Testing
+- Selenium WebDriver
+- GUI Automation
+- Automated Checking
+- Automation Design
 tags:
-- selenium
-- c#
-- webdriver
-- automation
+- C#
+- Selenium WebDriver
+- PageObjects
 modified_time: '2014-02-12T22:43:52.841Z'
 thumbnail: http://1.bp.blogspot.com/-VCBI_bsXrWI/UvvxEgninYI/AAAAAAAAALg/x2tUASczHYQ/s72-c/DriverFactory+(1).jpg
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-2369145353709387546

@@ -3,10 +3,14 @@ layout: post
 title: How I Get Technical Workshops Up and Running
 date: '2016-10-16T17:49:00.000+01:00'
 author: Richard Bradshaw
+categories:
+- Community
+- Conferences
+- Training
 tags:
-- workshops
-- teaching
-- technical
+- Community
+- Conferences
+- Workshops
 modified_time: '2016-10-16T23:18:30.416+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-8158439064112224212
 blogger_orig_url: http://www.thefriendlytester.co.uk/2016/10/how-i-get-technical-workshops-up-and.html

@@ -3,11 +3,16 @@ layout: post
 title: My Page Object Approach
 date: '2012-11-26T21:26:00.000Z'
 author: Richard Bradshaw
+categories:
+- Selenium WebDriver
+- Automation in Testing
+- GUI Automation
+- Automated Checking
+- Automation Design
 tags:
-- Page Objects
-- selenium
-- c#
-- webdriver
+- PageObjects
+- C#
+- Selenium WebDriver
 modified_time: '2013-10-14T22:04:50.240+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-6975091096853398915
 blogger_orig_url: http://www.thefriendlytester.co.uk/2012/11/MyPageObjectMach1.html

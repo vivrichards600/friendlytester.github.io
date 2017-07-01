@@ -3,7 +3,12 @@ layout: post
 title: Tail Log File And Play A Sound When Keyword Hit
 date: '2015-06-29T14:33:00.002+01:00'
 author: Richard Bradshaw
-tags: 
+categories:
+- Automation in Testing
+- Community
+tags:
+- Automation
+- Tools
 modified_time: '2015-07-01T10:15:49.248+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-9024800587165443551
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/06/tail-log-file-and-play-sound-when.html

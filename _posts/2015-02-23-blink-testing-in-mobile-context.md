@@ -3,7 +3,11 @@ layout: post
 title: Blink Testing In A Mobile Context
 date: '2015-02-23T22:02:00.002Z'
 author: Richard Bradshaw
-tags: 
+categories:
+- Mobile Testing
+tags:
+- Mobile
+- Blink Testing
 modified_time: '2015-02-24T14:12:14.412Z'
 thumbnail: http://3.bp.blogspot.com/-4WeF863KiDA/VOuVaVOjhDI/AAAAAAAAAt0/vSg4czAuCes/s72-c/MobileDevices.jpg
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-6533338623798653193

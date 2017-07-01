@@ -3,11 +3,12 @@ layout: post
 title: 'Charles Proxy To The Rescue of Adobe Bloodhound '
 date: '2016-08-28T12:16:00.002+01:00'
 author: Richard Bradshaw
+categories:
+- Mobile Testing
+- Proxying
 tags:
-- charlesproxy
-- bloodhound
-- proxy
-- adobe
+- Proxy
+- Analytics
 modified_time: '2016-08-28T12:23:47.658+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-4196005353324406235
 blogger_orig_url: http://www.thefriendlytester.co.uk/2016/08/charles-proxy-to-rescue-of-adobe.html

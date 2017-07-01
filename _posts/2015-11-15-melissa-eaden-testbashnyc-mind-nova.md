@@ -3,7 +3,12 @@ layout: post
 title: Melissa Eaden - TestBashNYC == Mind Nova!!
 date: '2015-11-15T12:02:00.000Z'
 author: Richard Bradshaw
+categories:
+- Conferences
+- Community
 tags: 
+ - Community
+ - Competition
 modified_time: '2015-11-15T12:02:09.145Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-4290541934751279491
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/11/melissa-eaden-testbashnyc-mind-nova.html

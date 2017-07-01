@@ -3,11 +3,14 @@ layout: post
 title: Using BDD Tools To Write Automated Checks != BDD
 date: '2015-08-04T21:59:00.000+01:00'
 author: Richard Bradshaw
+categories:
+- Behaviour Driven Development
+- Automation in Testing
+- Automated Checking
+- Automation Design
 tags:
-- checking
 - BDD
-- automation
-- Testing
+- Automation
 modified_time: '2015-08-05T21:28:44.826+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-5969387546782232306
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/08/using-bdd-tools-to-write-automated.html

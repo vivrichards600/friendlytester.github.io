@@ -3,11 +3,12 @@ layout: post
 title: TDD - That Doodle Defined
 date: '2014-09-02T20:56:00.001+01:00'
 author: Richard Bradshaw
+categories:
+- Automation in Testing
+- Test Driven Development
 tags:
 - TDD
-- mocks
-- automation
-- Testing
+- Automation
 modified_time: '2014-09-04T17:53:15.772+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-7771538339050672032
 blogger_orig_url: http://www.thefriendlytester.co.uk/2014/09/tdd-that-doodle-defined.html

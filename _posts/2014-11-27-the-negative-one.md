@@ -3,10 +3,10 @@ layout: post
 title: The Negative One
 date: '2014-11-27T21:56:00.001Z'
 author: Richard Bradshaw
+conferences:
+- People Skills
 tags:
-- physcology
-- questions
-- thinking
+- Phycology
 modified_time: '2014-11-28T11:58:47.612Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-4965271875430415849
 blogger_orig_url: http://www.thefriendlytester.co.uk/2014/11/the-negative-one.html

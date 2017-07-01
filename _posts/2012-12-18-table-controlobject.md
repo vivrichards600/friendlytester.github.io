@@ -3,10 +3,17 @@ layout: post
 title: Table ControlObject
 date: '2012-12-18T17:18:00.000Z'
 author: Richard Bradshaw
+categories:
+- Automated Checking
+- Automation in Testing
+- GUI Automation
+- Selenium WebDriver
+- Automation Design
 tags:
-- Tables
+- Automating Tables
+- PageObjects
+- Selenium WebDriver
 - ControlObjects
-- webdriver
 modified_time: '2016-07-26T13:28:19.182+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-8033606497200374251
 blogger_orig_url: http://www.thefriendlytester.co.uk/2012/12/table-controlobject.html

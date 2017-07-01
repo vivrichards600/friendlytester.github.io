@@ -3,10 +3,12 @@ layout: post
 title: Who Tests The Checks
 date: '2014-03-25T22:52:00.001Z'
 author: Richard Bradshaw
+categories:
+- Automation Design
+- Automated Checking
+- Automation in Testing
 tags:
-- checking
-- automation
-- checks
+- Automation
 modified_time: '2016-02-16T12:16:57.892Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-4413289205845828004
 blogger_orig_url: http://www.thefriendlytester.co.uk/2014/03/who-tests-checks.html

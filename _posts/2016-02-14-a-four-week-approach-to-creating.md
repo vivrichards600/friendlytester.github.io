@@ -3,11 +3,13 @@ layout: post
 title: A Four Week Approach to Creating Abstracts
 date: '2016-02-14T12:48:00.001Z'
 author: Richard Bradshaw
+categories:
+- Conferences
+- Community
+- Writing Abstracts
 tags:
-- conferences
-- public speaking
-- talking
-- abstracts
+- Conferences
+- Community
 modified_time: '2016-05-16T21:10:37.725+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-2190903849118374578
 blogger_orig_url: http://www.thefriendlytester.co.uk/2016/02/a-four-week-approach-to-creating.html

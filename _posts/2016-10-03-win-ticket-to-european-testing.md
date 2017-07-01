@@ -3,7 +3,12 @@ layout: post
 title: Win A Ticket To European Testing Conference 2017
 date: '2016-10-03T14:53:00.001+01:00'
 author: Richard Bradshaw
+categories:
+- Conferences
+- Community
 tags: 
+ - Community
+ - Competition
 modified_time: '2016-10-03T16:10:36.188+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-3786319066998586243
 blogger_orig_url: http://www.thefriendlytester.co.uk/2016/10/win-ticket-to-european-testing.html

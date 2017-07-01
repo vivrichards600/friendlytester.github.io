@@ -3,13 +3,19 @@ layout: post
 title: Set Proxy Using WebDriver
 date: '2014-10-16T12:44:00.002+01:00'
 author: Richard Bradshaw
+categories:
+- Selenium WebDriver
+- Automation in Testing
+- GUI Automation
+- Automated Checking
+- Automation Design
+- Monitoring
+- Proxying
 tags:
-- selenium
-- c#
-- proxy
-- webdriver
-- automation
-- java
+- PageObjects
+- Selenium WebDriver
+- Monitoring
+- Proxy
 modified_time: '2014-10-16T12:51:06.296+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-880412257304893426
 blogger_orig_url: http://www.thefriendlytester.co.uk/2014/10/set-proxy-using-webdriver.html

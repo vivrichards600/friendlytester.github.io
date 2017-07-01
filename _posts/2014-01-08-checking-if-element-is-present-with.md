@@ -3,10 +3,15 @@ layout: post
 title: Checking If An Element Is Present/Displayed With WebDriver
 date: '2014-01-08T22:14:00.000Z'
 author: Richard Bradshaw
+categories:
+- Automation in Testing
+- Selenium WebDriver
+- GUI Automation
+- Automated Checking
 tags:
-- Page Objects
-- selenium
-- webdriver
+- C#
+- Selenium WebDriver
+- PageObjects
 modified_time: '2014-12-22T10:40:05.114Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-4225032110615144844
 blogger_orig_url: http://www.thefriendlytester.co.uk/2014/01/checking-if-element-is-present-with.html

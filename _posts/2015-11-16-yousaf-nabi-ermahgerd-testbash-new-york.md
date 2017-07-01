@@ -3,7 +3,12 @@ layout: post
 title: Yousaf Nabi - Ermahgerd TestBash New York City Y'all
 date: '2015-11-16T21:47:00.003Z'
 author: Richard Bradshaw
+categories:
+- Conferences
+- Community
 tags: 
+ - Community
+ - Competition
 modified_time: '2015-11-16T21:49:07.232Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-7038730230116677357
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/11/yousaf-nabi-ermahgerd-testbash-new-york.html

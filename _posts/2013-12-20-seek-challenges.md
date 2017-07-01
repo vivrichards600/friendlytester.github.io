@@ -3,7 +3,12 @@ layout: post
 title: Seek the challenges
 date: '2013-12-20T17:34:00.001Z'
 author: Richard Bradshaw
-tags: 
+categories:
+- My Career
+tags:
+- Career
+- Community
+- Learning
 modified_time: '2013-12-22T10:03:19.586Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-3868817948398818446
 blogger_orig_url: http://www.thefriendlytester.co.uk/2013/12/seek-challenges.html

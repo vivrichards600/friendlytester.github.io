@@ -4,13 +4,14 @@ title: What is Lego Automation?
 date: '2017-02-18T06:44:00.000Z'
 author: Richard Bradshaw
 tags:
-- LegoAutomation
+- Lego Automation
 - Automated Checking
-- Automation
+- Automation in Testing
 categories:
 - Lego Automation
-- Automation in Testing
-- Automated Checking
+- Automation
+- Checking
+- Tools
 modified_time: '2017-02-18T07:35:17.531Z'
 thumbnail: https://1.bp.blogspot.com/-2lR--gDBvac/WKftgRbNllI/AAAAAAAAG9Q/ABzn2xjlY7IBlEdDOV-8fQ4cGq4COfflACLcB/s72-c/C431Et9W8AEHdZr.jpg
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-3635962837510485323

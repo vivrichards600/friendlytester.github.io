@@ -3,7 +3,11 @@ layout: post
 title: Whiteboard Testing Has Arrived
 date: '2015-11-29T23:28:00.000Z'
 author: Richard Bradshaw
-tags: 
+categories:
+- Whiteboard Testing
+- Community
+tags:
+- Community
 modified_time: '2015-11-29T23:30:47.355Z'
 thumbnail: https://img.youtube.com/vi/Dm-juATp4hM/default.jpg
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-2343150573172697821

@@ -3,10 +3,14 @@ layout: post
 title: New Window With WebDriver
 date: '2013-12-09T10:13:00.002Z'
 author: Richard Bradshaw
+categories:
+- Automation in Testing
+- Selenium WebDriver
+- GUI Automation
+- Automated Checking
 tags:
-- c#
-- webdriver
-- selenium conference
+- Flaky Automation
+- Selenium WebDriver
 modified_time: '2013-12-09T10:26:10.028Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-5535646167089297388
 blogger_orig_url: http://www.thefriendlytester.co.uk/2013/12/new-window-with-webdriver.html

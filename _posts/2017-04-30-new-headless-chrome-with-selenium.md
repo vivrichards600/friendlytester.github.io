@@ -3,14 +3,13 @@ layout: post
 title: New Headless Chrome With Selenium WebDriver
 date: '2017-04-30T22:09:00.002+01:00'
 author: Richard Bradshaw
-tags:
-- ChromeDriver
-- Headless
-- WebDriver
-- Automation
 categories: 
 - Automation in Testing
 - Selenium WebDriver
+- Automated Checking
+tags:
+- Selenium WebDriver
+- Headless
 modified_time: '2017-05-01T21:01:39.450+01:00'
 thumbnail: https://3.bp.blogspot.com/-wdUvSFp0WRE/WQZZ7sClWnI/AAAAAAAAIHI/i4RRYYjpAfYXVuz00054vuRP9ittz6fmgCLcB/s72-c/Untitled%2Bdrawing%2B%25282%2529.jpg
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-1638404822705746057

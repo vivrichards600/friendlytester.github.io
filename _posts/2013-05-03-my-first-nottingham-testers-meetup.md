@@ -3,7 +3,11 @@ layout: post
 title: My First Nottingham Testers Meetup
 date: '2013-05-03T11:15:00.000+01:00'
 author: Richard Bradshaw
-tags: 
+categories:
+- Community
+tags:
+- Community
+- Meetups
 modified_time: '2013-05-03T11:18:04.081+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-4405001390132462325
 blogger_orig_url: http://www.thefriendlytester.co.uk/2013/05/my-first-nottingham-testers-meetup.html

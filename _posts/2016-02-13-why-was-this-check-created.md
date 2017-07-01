@@ -3,12 +3,13 @@ layout: post
 title: Why Was This Check Created?
 date: '2016-02-13T12:45:00.000Z'
 author: Richard Bradshaw
+categories:
+- Automation in Testing
+- Automated Checking
+- Automation Design
 tags:
-- checking
-- automated checking
-- test automation
-- automation
-- Testing
+- Automation
+- Checking
 modified_time: '2016-02-15T09:24:59.164Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-3527153159476093410
 blogger_orig_url: http://www.thefriendlytester.co.uk/2016/02/why-was-this-check-created.html

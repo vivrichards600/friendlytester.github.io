@@ -3,11 +3,16 @@ layout: post
 title: Page Factory InitElements In Constructor
 date: '2013-12-09T14:18:00.000Z'
 author: Richard Bradshaw
+categories:
+- Automation in Testing
+- Selenium WebDriver
+- GUI Automation
+- Automated Checking
+- Automation Design
 tags:
-- Page Objects
-- selenium
-- c#
-- webdriver
+- PageObjects
+- Flaky Automation
+- Selenium WebDriver
 modified_time: '2013-12-09T14:19:59.906Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-1021586930987519807
 blogger_orig_url: http://www.thefriendlytester.co.uk/2013/12/page-factory-initelements-in-constructor.html

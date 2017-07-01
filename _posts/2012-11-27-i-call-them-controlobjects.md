@@ -3,11 +3,16 @@ layout: post
 title: I Call Them ControlObjects
 date: '2012-11-27T16:35:00.001Z'
 author: Richard Bradshaw
+categories:
+- Automated Checking
+- Automation in Testing
+- GUI Automation
+- Selenium WebDriver
+- Automation Design
 tags:
-- Page Objects
-- selenium
+- PageObjects
+- Selenium WebDriver
 - ControlObjects
-- webdriver
 modified_time: '2012-11-27T21:09:56.345Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-1533674344765237404
 blogger_orig_url: http://www.thefriendlytester.co.uk/2012/11/i-call-them-controlobjects.html

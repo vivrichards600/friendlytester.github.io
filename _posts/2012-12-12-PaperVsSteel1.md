@@ -3,10 +3,16 @@ layout: post
 title: 'Paper vs. Steel #1'
 date: '2012-12-12T17:40:00.000Z'
 author: Richard Bradshaw
+categories:
+- Flaky Automation
+- Automation in Testing
+- Selenium WebDriver
+- GUI Automation
+- Automated Checking
+- Automation Design
 tags:
-- selenium
-- Flakiness
-- webdriver
+- Flaky Automation
+- Selenium WebDriver
 modified_time: '2012-12-12T17:40:27.428Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-7629458593387763548
 blogger_orig_url: http://www.thefriendlytester.co.uk/2012/12/PaperVsSteel1.html

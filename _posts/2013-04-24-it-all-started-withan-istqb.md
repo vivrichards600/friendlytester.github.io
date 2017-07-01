@@ -4,6 +4,7 @@ title: It All Started With.....An ISTQB
 date: '2013-04-24T12:12:00.000+01:00'
 author: Richard Bradshaw
 tags: 
+- Certification
 modified_time: '2013-04-24T12:12:28.580+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-1135732198857416392
 blogger_orig_url: http://www.thefriendlytester.co.uk/2013/04/it-all-started-withan-istqb.html

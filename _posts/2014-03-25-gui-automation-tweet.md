@@ -3,8 +3,13 @@ layout: post
 title: GUI Automation Tweet
 date: '2014-03-25T21:52:00.002Z'
 author: Richard Bradshaw
+categories:
+- Automation in Testing
+- Selenium WebDriver
+- GUI Automation
+- Automated Checking
 tags:
-- automation
+- Selenium WebDriver
 modified_time: '2014-03-25T21:53:31.369Z'
 thumbnail: http://4.bp.blogspot.com/-n7cselNHbl4/UzH6cEGpIhI/AAAAAAAAASU/SX_JCOq16pQ/s72-c/2014-03-25_21-51-11.png
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-6062149559420945159

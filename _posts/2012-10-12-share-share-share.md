@@ -3,10 +3,11 @@ layout: post
 title: Share Share Share
 date: '2012-10-12T21:54:00.000+01:00'
 author: Richard Bradshaw
+categories:
+- Community
 tags:
-- intro
-- welcome
-- first post
+- Blogging
+- Community
 modified_time: '2012-10-12T21:56:45.381+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-3137538599251771335
 blogger_orig_url: http://www.thefriendlytester.co.uk/2012/10/share-share-share.html

@@ -3,7 +3,11 @@ layout: post
 title: Hey, I am a tester!
 date: '2013-03-25T12:13:00.001Z'
 author: Richard Bradshaw
-tags: 
+categories:
+- Community
+tags:
+- Community
+- Blogging
 modified_time: '2013-03-25T12:13:49.931Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-4799546917306732814
 blogger_orig_url: http://www.thefriendlytester.co.uk/2013/03/hey-i-am-tester.html
@@ -26,7 +30,7 @@ Also being forward about doing this, shows that you are passionate about your pr
 Once you confident doing this within your company and friends and family, don't stop there, introduce yourself to testers online, there is a very active community of testers online, I would personally recommend:-  
 
 *   [Twitter](https://twitter.com/FriendlyTester)
-*   [Ministry of Testin](http://www.ministryoftesting.com/)g
+*   [Ministry of Testing](http://www.ministryoftesting.com/)
 *   [Software Testing Club](http://www.softwaretestingclub.com/)
 
 There are also several forums, but I started with the above, and haven't looked back since, yes sometimes there is information overload, but I would have that any day over little information, and if you listen to James Bach, information overload = nap, give your brain time to process it all, and we all love a nap.

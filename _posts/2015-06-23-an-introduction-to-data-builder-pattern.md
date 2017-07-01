@@ -3,10 +3,14 @@ layout: post
 title: An Introduction To The Data Builder Pattern
 date: '2015-06-23T23:42:00.004+01:00'
 author: Richard Bradshaw
+categories:
+- Automation in Testing
+- Automated Checking
+- Automation Design
+- Data Builder Pattern
 tags:
-- data builder pattern
-- webdriver
-- automation
+- Automation
+- Checking
 modified_time: '2015-06-24T07:35:29.756+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-1815856826204450894
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/06/an-introduction-to-data-builder-pattern.html

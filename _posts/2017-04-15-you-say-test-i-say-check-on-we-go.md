@@ -4,10 +4,14 @@ title: You Say Test I Say Check. On We Go.
 date: '2017-04-15T14:52:00.000+01:00'
 author: Richard Bradshaw
 tags:
-- Automation
+- Automation in Testing
+- Automated Testing
+- Automated Checking
+- Community
 categories:
- - Automation in Testing
- - Automated Checking
+ - Automation
+ - Checking
+ - Testing
 modified_time: '2017-04-15T17:25:14.494+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-5788509827327233866
 blogger_orig_url: http://www.thefriendlytester.co.uk/2017/04/you-say-test-i-say-check-on-we-go.html

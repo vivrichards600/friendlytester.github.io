@@ -3,14 +3,15 @@ layout: post
 title: PageObject Pattern - Why, How and More
 date: '2014-05-20T20:16:00.000+01:00'
 author: Richard Bradshaw
+categories:
+- Selenium WebDriver
+- Automation in Testing
+- GUI Automation
+- Automated Checking
+- Automation Design
 tags:
-- Page Objects
-- selenium
-- checking
-- c#
-- webdriver
-- automation
-- Testing
+- PageObjects
+- Selenium WebDriver
 modified_time: '2014-06-07T17:08:28.495+01:00'
 thumbnail: https://lh3.googleusercontent.com/fxlB0QrjymAwZMbILFaONlCIsMATYgqTZHu_oLRLkN4wgwM51vqPaJNvixqD7WYJZhrkhgmitGUHrAHCchyNG-eLI8WWEBvA-VRg-hUIx2wOu1UPrHcecgmxMVwCfovSpF59=s72-c
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-6677203297130230522

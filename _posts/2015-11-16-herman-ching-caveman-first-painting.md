@@ -3,7 +3,12 @@ layout: post
 title: Herman Ching - Caveman first painting
 date: '2015-11-16T18:56:00.000Z'
 author: Richard Bradshaw
+categories:
+- Conferences
+- Community
 tags: 
+ - Community
+ - Competition
 modified_time: '2015-11-16T18:57:29.179Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-2461493821554845868
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/11/herman-ching-caveman-first-painting.html

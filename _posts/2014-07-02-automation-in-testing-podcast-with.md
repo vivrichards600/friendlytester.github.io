@@ -3,8 +3,12 @@ layout: post
 title: Automation in Testing Podcast With Software Test Pro Radio
 date: '2014-07-02T14:52:00.000+01:00'
 author: Richard Bradshaw
+categoies:
+- Automation in Testing
+- Automated Checking
 tags:
-- automation
+- Automation
+- Tools
 modified_time: '2014-07-02T14:52:00.394+01:00'
 thumbnail: https://ytimg.googleusercontent.com/vi/UonH_5-X14k/0.jpg
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-597924060623409021

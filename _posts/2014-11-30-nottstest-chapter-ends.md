@@ -3,7 +3,11 @@ layout: post
 title: "#NottsTest - A Chapter Ends"
 date: '2014-11-30T20:32:00.001Z'
 author: Richard Bradshaw
-tags: 
+categories:
+- Community
+tags:
+- Community
+- Meetups
 modified_time: '2014-12-03T10:32:24.618Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-4386325581581026443
 blogger_orig_url: http://www.thefriendlytester.co.uk/2014/11/nottstest-chapter-ends.html
