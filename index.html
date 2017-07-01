@@ -37,5 +37,13 @@ tags: []
                 </div>
 
         </div>
+				
+				{% if forloop.last == true %}
+				<div class="moreposts">
+					<p>
+						<span>Find more posts by <a href="{{site.url}}/categories">categories</a> or <a href="{{site.url}}/tags">tags</a></span>
+					</p>
+				</div>
+				{% endif %}
     </article>
 {% endfor %}

@@ -659,3 +659,26 @@ iframe {
   max-width: 56.25rem !important;
   margin: auto !important;
 }
+
+.moreposts {
+  text-align: center;
+  width: 100%;
+  display: inline-block;
+  font-size: 1.25rem;
+  color: #F5986D;
+  padding-top: 40px
+}
+
+.moreposts span{
+  text-align: center;
+  width: 100%;
+  display: inline-block;
+  font-size: 1.25rem;
+  color: #F5986D;
+  padding-top: 40px
+}
+
+.moreposts a{
+  font-size: 1.25rem;
+  font-weight: 500;
+}
