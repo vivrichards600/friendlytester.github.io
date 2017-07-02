@@ -36,10 +36,8 @@ bing_verify:
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: Blog
     url: /
-    external: false
-    icon: home
   - title: Events
     url: /events
   - title: Training
