@@ -15,6 +15,7 @@ thumbnail: https://3.bp.blogspot.com/-wdUvSFp0WRE/WQZZ7sClWnI/AAAAAAAAIHI/i4RRYY
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-1638404822705746057
 blogger_orig_url: http://www.thefriendlytester.co.uk/2017/04/new-headless-chrome-with-selenium.html
 permalink: /2017/04/new-headless-chrome-with-selenium.html
+comments: true
 ---
 ![Headless Chrome]({{site.url}}/images/blogpostimages/headlesschrome.jpg "Headless Chrome")
 
