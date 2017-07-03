@@ -15,6 +15,7 @@ modified_time: '2015-08-05T21:28:44.826+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-5969387546782232306
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/08/using-bdd-tools-to-write-automated.html
 permalink: /2015/08/using-bdd-tools-to-write-automated.html
+comments: true
 ---
 
 Using Cucumber, SpecFlow or similar tools to write your automated checks, **is not doing BDD**. Cucumber, SpecFlow or similar tools **are not testing tools ¹**. I believe they were designed to facilitate the process of BDD. Sure they could be accompanied by other tools and code to form a testing tool, but as this post will elaborate on, its important to understand what doing that means.  

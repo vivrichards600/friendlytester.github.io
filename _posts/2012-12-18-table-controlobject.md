@@ -18,6 +18,7 @@ modified_time: '2016-07-26T13:28:19.182+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-8033606497200374251
 blogger_orig_url: http://www.thefriendlytester.co.uk/2012/12/table-controlobject.html
 permalink: /2012/12/table-controlobject.html
+comments: true
 ---
 
 So in a previous [post](http://www.thefriendlytester.co.uk/2012/11/i-call-them-controlobjects.html) I mentioned that I create objects which I call ControlObjects and a few of you told me that you do too and some of you call them Elements.  

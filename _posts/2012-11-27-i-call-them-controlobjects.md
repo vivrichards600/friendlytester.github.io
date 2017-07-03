@@ -17,6 +17,7 @@ modified_time: '2012-11-27T21:09:56.345Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-1533674344765237404
 blogger_orig_url: http://www.thefriendlytester.co.uk/2012/11/i-call-them-controlobjects.html
 permalink: /2012/11/i-call-them-controlobjects.html
+comments: true
 ---
 Am not 100% sure what other people are going such objects however am I calling them "ControlObjects".  
 

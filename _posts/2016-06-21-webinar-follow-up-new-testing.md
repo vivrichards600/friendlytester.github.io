@@ -14,6 +14,7 @@ modified_time: '2016-06-21T22:00:12.861+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-1466419961213195188
 blogger_orig_url: http://www.thefriendlytester.co.uk/2016/06/webinar-follow-up-new-testing.html
 permalink: /2016/06/webinar-follow-up-new-testing.html
+comments: true
 ---
 
 I recently had the privilege to take part in a webinar, this webinar was on the topic of ‘New Testing Battlefields’, which in this context of this webinar and post are Mobile and IoT. The Webinar was arranged by Telerik. I was joined by three other testing minds: -  

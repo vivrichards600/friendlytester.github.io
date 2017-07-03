@@ -9,6 +9,7 @@ modified_time: '2013-04-24T12:12:28.580+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-1135732198857416392
 blogger_orig_url: http://www.thefriendlytester.co.uk/2013/04/it-all-started-withan-istqb.html
 permalink: /2013/04/it-all-started-withan-istqb.html
+comments: true
 ---
 
 There has been some excellent debate going on Twitter recently regarding ISTQB, its fascinating to follow, and clear to see the passion some testers / mangers have regarding the subject.  

@@ -13,6 +13,7 @@ thumbnail: https://img.youtube.com/vi/Dm-juATp4hM/default.jpg
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-2343150573172697821
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/11/whiteboard-testing-has-arrived.html
 permalink: /2015/11/whiteboard-testing-has-arrived.html
+comments: true
 ---
 
 So, a while back whilst researching a testing topic, I was searching YouTube for relevant videos. I found myself in this circle of thinking I had found something, then realising it was awful. Finding something different, but then realising it was an hour long. I was appalled at the quality of testing related videos on YouTube. Only good content I was finding was conference talks, but again, all lengthy.  

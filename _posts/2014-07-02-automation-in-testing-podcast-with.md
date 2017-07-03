@@ -14,6 +14,7 @@ thumbnail: https://ytimg.googleusercontent.com/vi/UonH_5-X14k/0.jpg
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-597924060623409021
 blogger_orig_url: http://www.thefriendlytester.co.uk/2014/07/automation-in-testing-podcast-with.html
 permalink: /2014/07/automation-in-testing-podcast-with.html
+comments: true
 ---
 
 A few moths back Mark Tomlinson approached me, asking if I was interested in recording a podcast. At first I was very much leading towards no, the thought of impromptu discussion did scare me.  

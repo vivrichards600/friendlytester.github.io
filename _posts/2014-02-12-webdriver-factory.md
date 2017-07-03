@@ -18,6 +18,7 @@ thumbnail: http://1.bp.blogspot.com/-VCBI_bsXrWI/UvvxEgninYI/AAAAAAAAALg/x2tUASc
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-2369145353709387546
 blogger_orig_url: http://www.thefriendlytester.co.uk/2014/02/webdriver-factory.html
 permalink: /2014/02/webdriver-factory.html
+comments: true
 ---
 
 One of the many benefits of WebDriver is that the major browsers are all supported with a version of a driver, some within the browsers and others via a service. This means that you should be able to run your suites of tests against these browsers. This is true, unfortunately though some browsers behave differently so you're likely to face some locators discrepancies, but that's for another post!  

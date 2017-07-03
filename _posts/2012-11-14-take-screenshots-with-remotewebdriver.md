@@ -15,6 +15,7 @@ modified_time: '2014-03-06T11:13:37.199Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-6165339037108894979
 blogger_orig_url: http://www.thefriendlytester.co.uk/2012/11/take-screenshots-with-remotewebdriver.html
 permalink: /2012/11/take-screenshots-with-remotewebdriver.html
+comments: true
 ---
 
 So am currently working on a project that I intend to post about soon, and ran into an issue when trying to take screenshots using RemoteWebDriver.  

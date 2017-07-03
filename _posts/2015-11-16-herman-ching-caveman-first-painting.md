@@ -13,6 +13,7 @@ modified_time: '2015-11-16T18:57:29.179Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-2461493821554845868
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/11/herman-ching-caveman-first-painting.html
 permalink: /2015/11/herman-ching-caveman-first-painting.html
+comments: true
 ---
 
 So about a month ago, a ran a competition to win one of five tickets to TestBashNY. Part of the deal of entering the competition was that, if you won, you would agree to write a short post/article about your day at TestBashNY.  

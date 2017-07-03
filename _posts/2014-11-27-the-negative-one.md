@@ -11,6 +11,7 @@ modified_time: '2014-11-28T11:58:47.612Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-4965271875430415849
 blogger_orig_url: http://www.thefriendlytester.co.uk/2014/11/the-negative-one.html
 permalink: /2014/11/the-negative-one.html
+comments: true
 ---
 
 I am having problems at the moment; I am being labelled the negative one. Why? Well I am asking a lot of questions. Probably not asking them in the right way I guess. So why am I asking so many questions.  

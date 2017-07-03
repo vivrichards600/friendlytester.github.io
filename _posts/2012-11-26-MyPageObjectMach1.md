@@ -17,6 +17,7 @@ modified_time: '2013-10-14T22:04:50.240+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-6975091096853398915
 blogger_orig_url: http://www.thefriendlytester.co.uk/2012/11/MyPageObjectMach1.html
 permalink: /2012/11/MyPageObjectMach1.html
+comments: true
 ---
 So I have been using a page object (PO) approach for a while now, but not been blogging for long, so am going to mark the below as "My Page Object Mach 1", and will continue the theme as my PO's involve.  
 

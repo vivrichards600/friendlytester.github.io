@@ -13,6 +13,7 @@ modified_time: '2013-12-22T10:03:19.586Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-3868817948398818446
 blogger_orig_url: http://www.thefriendlytester.co.uk/2013/12/seek-challenges.html
 permalink: /2013/12/seek-challenges.html
+comments: true
 ---
 
 I was watching the latest series of MasterChef the professionals a few weeks back and found myself relating to the chefs, in that they have voluntary applied for this show to test their skills, face difficult challenges, be challenged by the best, be critiqued by their idols/inspiration and in some situations seek a confidence boast.  

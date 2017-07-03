@@ -17,6 +17,7 @@ thumbnail: https://lh3.googleusercontent.com/fxlB0QrjymAwZMbILFaONlCIsMATYgqTZHu
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-6677203297130230522
 blogger_orig_url: http://www.thefriendlytester.co.uk/2014/05/pageobject-pattern-why-how-and-more.html
 permalink: /2014/05/pageobject-pattern-why-how-and-more.html
+comments: true
 ---
 
 This post it based on the talk I did at Belgium Testing Days with the same title. I had 8 attendees I believe so thought I would share my ideas with you all on here.

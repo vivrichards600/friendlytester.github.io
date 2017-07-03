@@ -13,6 +13,7 @@ modified_time: '2015-06-13T20:07:44.589+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-8431215467083733803
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/06/how-often-do-you-really-fix-failing.html
 permalink: /2015/06/how-often-do-you-really-fix-failing.html
+comments: true
 ---
 
 Do we really fix a failing automated check? Or do we simply defunct one and create a new one.  

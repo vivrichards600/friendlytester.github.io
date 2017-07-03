@@ -20,6 +20,7 @@ modified_time: '2014-10-16T12:51:06.296+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-880412257304893426
 blogger_orig_url: http://www.thefriendlytester.co.uk/2014/10/set-proxy-using-webdriver.html
 permalink: /2014/10/set-proxy-using-webdriver.html
+comments: true
 ---
 
 I am currently at the London Tester Gathering Workshops in a session being hosted by Bill Matthews. He is showing the attendees how to use Zap Proxy. During the class he mentioned that you can hook your existing WebDriver checks into a proxy. Something I also mentioned in my recent "[WebDriver Beyond Checks](http://www.thefriendlytester.co.uk/2014/10/webdriver-beyond-checks.html)" post.  

@@ -15,6 +15,7 @@ modified_time: '2015-06-24T07:35:29.756+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-1815856826204450894
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/06/an-introduction-to-data-builder-pattern.html
 permalink: /2015/06/an-introduction-to-data-builder-pattern.html
+comments: true
 ---
 
 The data builder pattern was first introduced to me by [Alan Parkinson](https://twitter.com/alan_parkinson), he did a talk about it at the Selenium Conference in Boston back in 2013\. You can watch it [here](https://www.youtube.com/watch?v=yLg36oBL-PE).  

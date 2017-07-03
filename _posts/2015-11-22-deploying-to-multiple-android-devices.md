@@ -16,6 +16,7 @@ modified_time: '2015-11-24T10:47:26.218Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-2525357763671950928
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/11/deploying-to-multiple-android-devices.html
 permalink: /2015/11/deploying-to-multiple-android-devices.html
+comments: true
 ---
 
 ### Problem

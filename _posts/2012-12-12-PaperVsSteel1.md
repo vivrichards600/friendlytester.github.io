@@ -17,6 +17,7 @@ modified_time: '2012-12-12T17:40:27.428Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-7629458593387763548
 blogger_orig_url: http://www.thefriendlytester.co.uk/2012/12/PaperVsSteel1.html
 permalink: /2012/12/PaperVsSteel1.html
+comments: true
 ---
 
 I want to share my approach to making your page object methods a bit more "less flaky" but also easier to maintain and more flexible. Am not going to try and cover everything in one post, so here is the first.

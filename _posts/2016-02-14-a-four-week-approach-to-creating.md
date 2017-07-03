@@ -14,6 +14,7 @@ modified_time: '2016-05-16T21:10:37.725+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-2190903849118374578
 blogger_orig_url: http://www.thefriendlytester.co.uk/2016/02/a-four-week-approach-to-creating.html
 permalink: /2016/02/a-four-week-approach-to-creating.html
+comments: true
 ---
 
 I'm often asked how I go about creating abstracts, and it's actually the theme of [one of my workshops at LetsTest](http://lets-test.com/?page_id=4067#Martin&Richard) this year with Martin Hynie. So I thought I would share a timeline with you of how I tend to do it.  

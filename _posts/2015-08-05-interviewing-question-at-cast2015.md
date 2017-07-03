@@ -12,6 +12,7 @@ modified_time: '2015-08-05T22:21:42.665+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-4686557657219353300
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/08/interviewing-question-at-cast2015.html
 permalink: /2015/08/interviewing-question-at-cast2015.html
+comments: true
 ---
 
 So I tuned into the CAST live stream again tonight, and I caught the end of Rob Bowyer's talk titled "Why Should I Hire You?", because I am bloody awesome! Sorry I digressed there. From what I heard it sounded like a talk full of experience and insight. Again as per last night, I decided to take advantage of the CAST twitter printer and ask Rob a few questions.  

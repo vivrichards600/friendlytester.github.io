@@ -16,6 +16,7 @@ modified_time: '2014-12-22T10:40:05.114Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-4225032110615144844
 blogger_orig_url: http://www.thefriendlytester.co.uk/2014/01/checking-if-element-is-present-with.html
 permalink: /2014/01/checking-if-element-is-present-with.html
+comments: true
 ---
 
 On several sites I have worked on in recent years there has always been a check scenario whereby I have wanted to check that something isn’t on the page, such as a error message or a field not required in a given context.  

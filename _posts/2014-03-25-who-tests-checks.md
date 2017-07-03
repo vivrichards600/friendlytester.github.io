@@ -13,6 +13,7 @@ modified_time: '2016-02-16T12:16:57.892Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-4413289205845828004
 blogger_orig_url: http://www.thefriendlytester.co.uk/2014/03/who-tests-checks.html
 permalink: /2014/03/who-tests-checks.html
+comments: true
 ---
 
 A common phrase to hear in the testing community, be it on Twitter or on forums, is "Who tests the tests?" Or in my case that would be "Who tests the checks?" or even "Who checks the checks?".  

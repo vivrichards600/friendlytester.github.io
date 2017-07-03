@@ -12,6 +12,7 @@ modified_time: '2013-05-17T12:17:14.919+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-5026959054289246931
 blogger_orig_url: http://www.thefriendlytester.co.uk/2013/05/a-simple-file-locker.html
 permalink: /2013/05/a-simple-file-locker.html
+comments: true
 ---
 
 I was doing a project that I will share will you all soon, and was running into an error whereby SpecRun was complaining to me that a file was locked by another process.  

@@ -14,6 +14,7 @@ modified_time: '2016-03-27T23:47:04.733+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-6131949948090939326
 blogger_orig_url: http://www.thefriendlytester.co.uk/2016/03/software-testers-clinic-mentor.html
 permalink: /2016/03/software-testers-clinic-mentor.html
+comments: true
 ---
 
 I recently attended the first [Software Testers Clinic](http://www.softwaretestingclinic.com/), an initiative created by [Mark Winteringham](https://twitter.com/2bittester) and [Dan Ashby](https://twitter.com/DanAshby04). You can read more about the idea on their website.  

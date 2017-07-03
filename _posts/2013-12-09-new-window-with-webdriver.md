@@ -15,6 +15,7 @@ modified_time: '2013-12-09T10:26:10.028Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-5535646167089297388
 blogger_orig_url: http://www.thefriendlytester.co.uk/2013/12/new-window-with-webdriver.html
 permalink: /2013/12/new-window-with-webdriver.html
+comments: true
 ---
 
 A feature of a specific web application is that you can set the account context for the page you are currently viewing, however this is for that window only and those settings aren't saved to the server.  

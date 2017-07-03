@@ -16,6 +16,7 @@ modified_time: '2015-08-04T21:31:00.433+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-3229094255686374755
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/08/testability-question-at-cast2015.html
 permalink: /2015/08/testability-question-at-cast2015.html
+comments: true
 ---
 
 I was watching the live stream of CAST2015 earlier, in particular I was listening to Maria Kedemo talking about "Visualising Testability". Having done her's and Ben Kellys workshop at LetsTest, I was interested to hear Maria talk about this topic again, and also to see if anything from the workshop was in the talk.  

@@ -12,6 +12,7 @@ modified_time: '2014-12-03T10:32:24.618Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-4386325581581026443
 blogger_orig_url: http://www.thefriendlytester.co.uk/2014/11/nottstest-chapter-ends.html
 permalink: /2014/11/nottstest-chapter-ends.html
+comments: true
 ---
 
 That chapter, is my chapter. I am relocating to Hampshire, due to work for both me and my partner. Therefore I have hosted my last [#NottsTest](https://twitter.com/search?q=%23NottsTest&src=typd) :(  

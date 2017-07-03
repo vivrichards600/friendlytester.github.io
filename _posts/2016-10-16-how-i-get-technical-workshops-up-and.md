@@ -15,6 +15,7 @@ modified_time: '2016-10-16T23:18:30.416+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-8158439064112224212
 blogger_orig_url: http://www.thefriendlytester.co.uk/2016/10/how-i-get-technical-workshops-up-and.html
 permalink: /2016/10/how-i-get-technical-workshops-up-and.html
+comments: true
 ---
 
 <div class="centerplugin">

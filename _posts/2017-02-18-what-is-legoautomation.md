@@ -17,6 +17,7 @@ thumbnail: https://1.bp.blogspot.com/-2lR--gDBvac/WKftgRbNllI/AAAAAAAAG9Q/ABzn2x
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-3635962837510485323
 blogger_orig_url: http://www.thefriendlytester.co.uk/2017/02/what-is-legoautomation.html
 permalink: /2017/02/what-is-legoautomation.html
+comments: true
 ---
 
 ![Lego Automation]({{site.url}}/images/blogpostimages/legoautomationbanner.jpg "Lego Automation")

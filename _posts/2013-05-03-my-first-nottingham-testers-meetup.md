@@ -12,6 +12,7 @@ modified_time: '2013-05-03T11:18:04.081+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-4405001390132462325
 blogger_orig_url: http://www.thefriendlytester.co.uk/2013/05/my-first-nottingham-testers-meetup.html
 permalink: /2013/05/my-first-nottingham-testers-meetup.html
+comments: true
 ---
 
 So last night we had the rebirth of the Nottingham Tester Meetup, and it was fantastic, but lets start at the beginning.  

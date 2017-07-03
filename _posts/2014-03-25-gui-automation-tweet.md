@@ -15,6 +15,7 @@ thumbnail: http://4.bp.blogspot.com/-n7cselNHbl4/UzH6cEGpIhI/AAAAAAAAASU/SX_JCOq
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-6062149559420945159
 blogger_orig_url: http://www.thefriendlytester.co.uk/2014/03/gui-automation-tweet.html
 permalink: /2014/03/gui-automation-tweet.html
+comments: true
 ---
 
 ![GUI Automation Tweet]({{site.url}}/images/blogpostimages/guiautomationtweet.png)

@@ -13,6 +13,7 @@ thumbnail: http://3.bp.blogspot.com/-4WeF863KiDA/VOuVaVOjhDI/AAAAAAAAAt0/vSg4czA
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-6533338623798653193
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/02/blink-testing-in-mobile-context.html
 permalink: /2015/02/blink-testing-in-mobile-context.html
+comments: true
 ---
 
 I was first introduced to Blink Testing by [James Bach](https://twitter.com/jamesmarcusbach) during [Rapid Software Testing](http://www.satisfice.com/info_rst.shtml), nearly two years ago now, however I only frequently used it, until now.  

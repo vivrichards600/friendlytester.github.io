@@ -13,6 +13,7 @@ modified_time: '2015-10-16T19:42:30.894+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-5422636634655946777
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/10/testbash-nyc-competition-5-free-tickets.html
 permalink: /2015/10/testbash-nyc-competition-5-free-tickets.html
+comments: true
 ---
 
 So TestBash is coming to New York!!! You can read why [here](https://www.linkedin.com/pulse/investing-goodness-software-testing-nyc-rosie-sherry?trk=hp-feed-article-title-share).  

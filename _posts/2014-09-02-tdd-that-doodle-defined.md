@@ -13,6 +13,7 @@ modified_time: '2014-09-04T17:53:15.772+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-7771538339050672032
 blogger_orig_url: http://www.thefriendlytester.co.uk/2014/09/tdd-that-doodle-defined.html
 permalink: /2014/09/tdd-that-doodle-defined.html
+comments: true
 ---
 
 So a few weeks ago [Duncan Nisbet](https://twitter.com/DuncNisbet) published an article via the [Ministry of Testing](http://www.ministryoftesting.com/) titled [TDD for Testers](http://www.ministryoftesting.com/2014/08/tdd-testers/). It's a great article, read it if you haven't already. After this, there was a tweet from [Chris Simms](https://twitter.com/kinofrost), which twitter won't return to me when I search, but it contained the words, TDD isn't Testing.  

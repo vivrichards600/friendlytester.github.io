@@ -14,6 +14,7 @@ modified_time: '2016-08-20T12:00:51.863+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-5144510964058909413
 blogger_orig_url: http://www.thefriendlytester.co.uk/2016/08/give-your-automated-checks-voice.html
 permalink: /2016/08/give-your-automated-checks-voice.html
+comments: true
 ---
 
 We have robots doing a lot for us now, well when I say robots, I mean automation, but robots sounded well cooler. We have them running automated checks for us, we have them deploying builds into production, we have them creating test data, spinning up machines and environments, plus much much more. We love tools, and rightly so, they're awesome, most of them.  

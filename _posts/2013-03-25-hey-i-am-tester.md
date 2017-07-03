@@ -12,6 +12,7 @@ modified_time: '2013-03-25T12:13:49.931Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-4799546917306732814
 blogger_orig_url: http://www.thefriendlytester.co.uk/2013/03/hey-i-am-tester.html
 permalink: /2013/03/hey-i-am-tester.html
+comments: true
 ---
 
 Hey, my name is Richard, I work as a software tester.  

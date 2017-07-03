@@ -23,6 +23,7 @@ thumbnail: http://3.bp.blogspot.com/-RZPJKQyOd8g/VC27_BfkOGI/AAAAAAAAAaU/1dJMSpk
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-3482163000478128423
 blogger_orig_url: http://www.thefriendlytester.co.uk/2014/10/webdriver-beyond-checks.html
 permalink: /2014/10/webdriver-beyond-checks.html
+comments: true
 ---
 
 So on Tuesday I did at a talk at the London Selenium Meetup ([#LDNSE](https://twitter.com/search?q=%23LDNSE&src=typd)), titled “WebDriver Beyond Checks”. After the talk several people asked me if I would share my slides, I said of course, but felt they would be little use to people without the words that accompanied them, so here are those slides with some words.  

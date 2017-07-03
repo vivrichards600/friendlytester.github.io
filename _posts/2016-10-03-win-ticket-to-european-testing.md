@@ -13,6 +13,7 @@ modified_time: '2016-10-03T16:10:36.188+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-3786319066998586243
 blogger_orig_url: http://www.thefriendlytester.co.uk/2016/10/win-ticket-to-european-testing.html
 permalink: /2016/10/win-ticket-to-european-testing.html
+comments: true
 ---
 
 So, the folks at [European Testing Conference 2017](http://europeantestingconference.eu/2017/) are awesome, because they share the profits with the people who play a large part in making the event happen, the speakers. So this year I did a workshop and a talk, therefore I earned free conference ticket for the 2017 event in Helsinki, or the money, I opted for the ticket.  

@@ -13,6 +13,7 @@ thumbnail: http://4.bp.blogspot.com/-dvEU1vBmP5o/Ub4bwShduNI/AAAAAAAAACU/RNikiIJ
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-6905651508008253858
 blogger_orig_url: http://www.thefriendlytester.co.uk/2013/06/my-trip-to-selenium-conference-2013.html
 permalink: /2013/06/my-trip-to-selenium-conference-2013.html
+comments: true
 ---
 
 So last week I was fortunate enough to attend the 3rd Selenium conference in Boston, and what a fantastic time I had.  

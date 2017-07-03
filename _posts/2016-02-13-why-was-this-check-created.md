@@ -14,6 +14,7 @@ modified_time: '2016-02-15T09:24:59.164Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-3527153159476093410
 blogger_orig_url: http://www.thefriendlytester.co.uk/2016/02/why-was-this-check-created.html
 permalink: /2016/02/why-was-this-check-created.html
+comments: true
 ---
 
 As I've been thinking more about Checking and Testing, and how to get them working harmoniously, I'm wondering if we are missing something from our checks. This post will focus on automated checks, but it I believe the same applies to non automated checks.  

@@ -13,6 +13,7 @@ modified_time: '2015-07-01T10:15:49.248+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-9024800587165443551
 blogger_orig_url: http://www.thefriendlytester.co.uk/2015/06/tail-log-file-and-play-sound-when.html
 permalink: /2015/06/tail-log-file-and-play-sound-when.html
+comments: true
 ---
 
 So on the [testers.chat](http://testers.chat/) Slack team today, [Maik](https://twitter.com/MaikNog) messaged:-  

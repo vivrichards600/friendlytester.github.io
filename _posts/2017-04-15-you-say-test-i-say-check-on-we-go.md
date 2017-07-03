@@ -16,6 +16,7 @@ modified_time: '2017-04-15T17:25:14.494+01:00'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-5788509827327233866
 blogger_orig_url: http://www.thefriendlytester.co.uk/2017/04/you-say-test-i-say-check-on-we-go.html
 permalink: /2017/04/you-say-test-i-say-check-on-we-go.html
+comments: true
 ---
 
 This discussion has been going on for a very long time, and it won’t ever end, it won’t end. I repeat that because it’s reality, such a discussion will never end. But that’s OK.

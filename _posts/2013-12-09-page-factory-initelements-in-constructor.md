@@ -17,6 +17,7 @@ modified_time: '2013-12-09T14:19:59.906Z'
 blogger_id: tag:blogger.com,1999:blog-8318661666872903125.post-1021586930987519807
 blogger_orig_url: http://www.thefriendlytester.co.uk/2013/12/page-factory-initelements-in-constructor.html
 permalink: /2013/12/page-factory-initelements-in-constructor.html
+comments: true
 ---
 If you take advantage of the PageFactory support in the Selenium project then you may be continuously writing "PageFactory.InitElements(driver, LoginPage)" where ever you are initialising a new page object within your checks, it can get very repetitive depending on your application under test.
 
