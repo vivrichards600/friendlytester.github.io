@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Why Jekyll
-date: '2017-07-05T19:30:39.450+01:00'
+date: '2017-07-07T19:30:39.450+01:00'
 author: Richard Bradshaw
 categories: 
 - Blogging
 tags:
 - Blogging
-modified_time: '2017-07-05T19:30:39.450+01:00'
+modified_time: '2017-07-07T19:30:39.450+01:00'
 permalink: /2017/07/why-jekyll/index.html
 comments: true
 ---
