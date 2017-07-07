@@ -11,7 +11,7 @@ tags:
 - Blogging
 modified_time: '2017-07-04T20:58:39.450+01:00'
 permalink: /2017/07/ten-insights-from-my-blog-migration
-redirect_from: "/2017/07/ten-insights-from-my-blog-migration/"
+redirect_from: /2017/07/ten-insights-from-my-blog-migration/
 comments: true
 ---
 So unless this is your first time visiting my blog, if it is, welcome, you'll have noticed it looks a bit different. I've recently migrated my blog from Blogger to Jekyll hosted on GitHub pages. I asked on Twitter if anyone would be interested in the journey, the response was positive, so I started writing. 60 minutes in and 3000 words later, I wasn't happy. It had turned into a guide, it sucked. Well, that's harsh, it didn't suck, it was an awesome guide, the start of one anyhow, but not really useful to the people who read my blog and it wasn't really challenging me either. So I've decided to change tac and write the top ten takeaways from migrating my blog.
