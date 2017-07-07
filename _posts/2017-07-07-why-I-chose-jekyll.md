@@ -10,7 +10,7 @@ tags:
 modified_time: '2017-07-07T19:30:39.450+01:00'
 permalink: /2017/07/why-jekyll
 redirect_from:
-  - /2017/07/why-jekyll.html/index.html
+  - "/2017/07/why-jekyll.html/index.html"
 comments: true
 ---
 Why Jekyll Richard? This was the question [Simon Knight](http://sjpknight.com/) asked me Wednesday after I published some [learnings from my blog migration](https://thefriendlytester.co.uk/2017/07/ten-insights-from-my-blog-migration/index.html).
