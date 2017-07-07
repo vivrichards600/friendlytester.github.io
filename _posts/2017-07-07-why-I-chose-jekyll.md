@@ -11,7 +11,7 @@ modified_time: '2017-07-07T19:30:39.450+01:00'
 permalink: /2017/07/why-jekyll/index.html
 comments: true
 ---
-Why Jekyll Richard? This was the question [Simon Knight](http://sjpknight.com/) asked me yesterday after I published some [learnings from my blog migration](https://thefriendlytester.co.uk/2017/07/ten-insights-from-my-blog-migration/index.html).
+Why Jekyll Richard? This was the question [Simon Knight](http://sjpknight.com/) asked me Wednesday after I published some [learnings from my blog migration](https://thefriendlytester.co.uk/2017/07/ten-insights-from-my-blog-migration/index.html).
 
 I'd been thinking about a blog migration for a while, I wasn't happy with Blogger. My site was looking rather dated, and so is Blogger for that matter. Also, my _blog_ has turned into site these days. I have a lot more on there than just a blog. So when I looked at [Viv's blog](http://vivrichards.co.uk) I was immediately drawn to the design, but after talking to him and checking out Jekyll I was even more convinced.
 
