@@ -27,7 +27,7 @@ When looking into Jekyll one of the first things I came across was the fact is o
 
 The ability to store some of my content in data sources is something I hope to take advantage of more in the future. For example, now all my events are in a data source I could add something to the home page to show the next event I'm attending or organising for example. The same with my training classes, I could add a location to them and have some logic to show them on the homepage if there is one configured. I'm also contemplating the [blog sponsorship](https://www.troyhunt.com/im-now-offering-sponsorship-of-this-blog/) idea as created by Troy Hunt.
 
-This ability to draw numbers from my data and use data source across multiple sites 
+The ability to draw numbers from my data and use data source across multiple page was really appealing. I really like being able to add stats to a page like on the top of the [events]({{site.url}}/events). Also simple things like having Jekyll tell me the word count, so I could add a estimated read time to the blog.
 
 ### Markdown / Data Files
 Having all the posts in a not platformed tied format like Markdown means should I ever wish to move platforms in the future, it should be a lot simpler. The same applies the data sources I mentioned above, with those being in YAML I can easy reuse them on other sites, and again reuse them without any modification if I move to another platform in the future. 
