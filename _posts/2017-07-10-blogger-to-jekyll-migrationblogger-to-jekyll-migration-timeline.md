@@ -30,7 +30,7 @@ I thought about writing a guide to explain how I migrated my blog from Blogger t
 15. Used a really [helpful tool](http://import.jekyllrb.com/docs/blogger/) from Jekyll to convert the Blogger export to individual markdown files for each post
 16. Explored the results from the above tool, to under the Front Matter automatically added
 17. Mirrored the format of blog URLs from Blogger so I have no Google/Bing dead links and negative points for broken links
-18. Started working through each post to convert the HTML to Markdown, a combination of manually checking and using this [awesome converter](https://domchristie.github.io/to-markdown/)
+18. Started working on each post to convert the HTML to Markdown, a combination of manually checking and using this [awesome converter](https://domchristie.github.io/to-markdown/)
 19. Went through each post adding categories and tags to improve searching and to build the [categories](/categories) and [tags](/tags) pages
 20. Created the [about me](/about) page
 21. Asked some friends what they thought of my new design, the awesome [Ash Coleman](https://twitter.com/AshColeman30) got her designer friend to provide me awesome feedback!  
