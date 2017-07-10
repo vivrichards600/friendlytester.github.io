@@ -11,7 +11,7 @@ modified_time: 2017-07-10T19:23:39.450+01:00'
 permalink: /2017/07/blogger-to-jekyll-migration-timeline
 comments: true
 ---
-I thought about writing a guide to explain how I migrated my blog from Blogger to Jekyll, however it became too long, so instead here is a timeline and if you want to know more about a section, please comment at the bottom.
+I thought about writing a guide to explain how I migrated my blog from Blogger to Jekyll, however, it became too long, so instead here is a timeline and if you want to know more about a section, please comment at the bottom.
 
 1. Forked [Jekyll-Now](https://github.com/barryclark/jekyll-now) into my own GitHub Repo
 2. Renamed the repo to **_GitHubUsername_**.github.io, this is how GitHub pages works
@@ -22,7 +22,7 @@ I thought about writing a guide to explain how I migrated my blog from Blogger t
 7. Made a plan about which pages I was going to migrate first
 8. Refreshed my [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) knowledge
 9. Familiarised myself with [_Front Matter_](https://jekyllrb.com/docs/frontmatter/)
-10. Started with my [events page]({{site.url}}/events) page, and had to read about [Liquid](https://shopify.github.io/liquid/), [Templates](https://jekyllrb.com/docs/templates/) and [Filters](https://shopify.github.io/liquid/filters/abs/)
+10. Started with my [events]({{site.url}}/events) page, and had to read about [Liquid](https://shopify.github.io/liquid/), [Templates](https://jekyllrb.com/docs/templates/) and [Filters](https://shopify.github.io/liquid/filters/abs/)
 11. Got Jekyll up and [running locally](https://jekyllrb.com/docs/usage/) instead of pushing to GitHub each time I wanted to check something
 12. Even though it's quite simple I also took a refresher on [YAML](http://www.yaml.org/start.html)
 13. Worked out how to embed things in pages such as [YouTube](http://www.adamwadeharris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/) and [Gist](https://github.com/jekyll/jekyll-gist) posts.
