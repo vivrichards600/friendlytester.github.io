@@ -34,6 +34,7 @@ I thought about writing a guide to explain how I migrated my blog from Blogger t
 19. Went through each post adding categories and tags to improve searching and to build the [categories](/categories) and [tags](/tags) pages
 20. Created the [about me](/about) page
 21. Asked some friends what they thought of my new design, the awesome [Ash Coleman](https://twitter.com/AshColeman30) got her designer friend to provide me awesome feedback!  
+<br>
 ![Blog feedback]({{site.url}}/images/blogpostimages/blogdesignfeedback.png)
 <br>
 <br>
