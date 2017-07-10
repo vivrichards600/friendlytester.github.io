@@ -45,6 +45,7 @@ I thought about writing a guide to explain how I migrated my blog from Blogger t
 26. Checked that my blog was providing all the [SEO](https://github.com/jekyll/jekyll-seo-tag) tags
 27. Changed my hosting DNS to point to [GitHub pages](https://help.github.com/articles/setting-up-an-apex-domain/)
 28. Then realised GitHub Pages don't offer HTTPS with custom domains, so discovered I could use [Cloudflare](https://www.cloudflare.com/) for free!
+29. Shared it with the community!
 <br>
 <br>
 <br>
