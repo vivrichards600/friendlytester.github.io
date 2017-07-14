@@ -25,6 +25,13 @@
     url:  https://dojo.ministryoftesting.com/events/testbash-manchester-2017
     country:  England
     year: 2017
+    
+  - date: 9th-10th October 2017
+    name: Selenium Conference Berlin
+    role: [Talk]
+    url:  http://seleniumconf.de/
+    country:  Germany
+    year: 2017
 
   - date: 6th October 2017
     name: TestBash Germany
