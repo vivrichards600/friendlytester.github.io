@@ -1,0 +1,56 @@
+---
+layout: page
+title: Locators
+permalink: /selenium/locators/index.html
+description: "A page to help teach and demonstrate locator strategies with WebDriver"
+---
+<p>This is a page that facilitates my Selenium course over on <a href="https://github.com/FriendlyTester/FriendlyTesters-Selenium-Course">GitHub</a>.<br>
+The page contains HTML examples that allow us to exercise all the different <a href="https://github.com/FriendlyTester/FriendlyTesters-Selenium-Course/blob/master/java/src/test/java/lessons/C_Locators/Locators.md">locator strategies</a> WebDriver offers.
+
+<form id="contactus" name="contactform">
+  <div class="row">
+    <div class="large-12 columns">
+      <label>First name
+        <input type="text" placeholder="Enter your first name" />
+      </label>
+    </div>
+  </div>
+  <div class="row">
+    <div class="large-12 columns">
+      <label>Surname
+        <input type="text" placeholder="Enter your surname" />
+      </label>
+    </div>
+  </div>
+  <div class="row">
+    <div class="large-12 columns">
+      <label>Gender
+        <select>
+          <option disabled selected value> -- select an option -- </option>
+          <option value="male">Male</option>
+          <option value="female">Female</option>
+          <option value="my business">My Business!</option>
+        </select>
+      </label>
+    </div>
+  </div>
+  <div class="row">
+    <div class="large-6 columns">
+      <label>Choose Your Favorite</label>
+      <input type="radio" name="colour" value="Red" id="red"><label for="Red">Red</label>
+      <input type="radio" name="colour" value="Blue" id="blue"><label for="Blue">Blue</label>
+    </div>
+    <div class="large-6 columns">
+      <label>Contact me - <a href="#">Policy</a></label>
+      <input id="checkbox1" type="checkbox"><label for="checkbox1">Email</label>
+      <input id="checkbox2" type="checkbox"><label for="checkbox2">SMS</label>
+    </div>
+  </div>
+  <div class="row">
+    <div class="large-12 columns">
+      <label>Tell me more!
+        <textarea placeholder="small-12.columns"></textarea>
+      </label>
+    </div>
+  </div>
+</form>
