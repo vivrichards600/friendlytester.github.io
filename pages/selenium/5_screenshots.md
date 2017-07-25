@@ -3,6 +3,8 @@ layout: page
 title: Lesson 5 - Screenshots
 permalink: /selenium/lessons/screenshots.html
 description: "How to take a screenshot with Selenium WebDriver"
+comments: true
+signoff: true
 ---
 [Course Home](../course) \| [**Code Examples**](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/E_Screenshots.java)
 

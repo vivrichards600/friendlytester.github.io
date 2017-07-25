@@ -4,7 +4,7 @@ permalink: /training/index.html
 title: Training Courses
 description: "A list of the software training courses I offer"
 ---
-<p>I provide classes on a whole host of topics related to Software Testing. These are run privately, publicly via <a href="https://ministryoftesting.com?utm_source=friendlytester">Ministry of Testing</a> and at testing events around the world. You can follow my speaking schedule <a href="/events">here</a>.</p>
+<p>I provide classes on a whole host of topics related to Software Testing. I have a collection of <a href="/training/online">online courses</a>. These face to face classes are run privately, publicly via <a href="https://ministryoftesting.com?utm_source=friendlytester">Ministry of Testing</a> and at testing events around the world. You can follow my speaking schedule <a href="/events">here</a>.</p>
 <p>I offer the following fixed courses, but I'd be happy to tailor something for you if you have specific needs around these topics.</p>
 
 <table>
@@ -20,8 +20,8 @@ description: "A list of the software training courses I offer"
     {% for course in site.data.courses %}
     <tr>
       <td width=25%>{{course.title}}</td>
-      <td width=50%>{{course.shortdesc}}</td>
-      <td width=25%><a href="{{course.link}}">Course details</a></td>
+      <td width=60%>{{course.shortdesc}}</td>
+      <td width=15%><a href="{{course.link}}">Course details</a></td>
     </tr>
     {% endfor %}
   </tbody>
@@ -30,5 +30,3 @@ description: "A list of the software training courses I offer"
 <p>If you're interested in any of these courses, please contact me using an option below to discuss further.</p>
 
 <p>As mentioned above, I also offer these courses via the Ministry of Testing as part of their <a href="https://dojo.ministryoftesting.com/series/masters-of-the-ministry">Masters of the Ministry</a> initiative. You can find many other courses from great instructors over at their site, and also details of any public instances of my classes.
-
-{% if site.share %}{% include share.html %}{% endif %}
