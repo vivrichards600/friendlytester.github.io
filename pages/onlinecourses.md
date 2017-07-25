@@ -3,6 +3,11 @@ layout: page
 title: Online Courses
 permalink: /training/online/index.html
 description: "A list of all my online courses"
+tags:
+ - Free Java
+ - Free Selenium
+ - Selenium WebDriver
+ - WebDriver
 signoff: true
 ---
 I current have three courses available on this site, all free. Those are Programming Terminology, Java Basics and Selenium WebDriver in Java. I'm also working on numerous video courses that will be available on the [Ministry of Testing Dojo](https://dojo.ministryoftesting.com){:target="_blank"}.
@@ -35,6 +40,9 @@ Such a journey will hugely assist you with your automation journey, especially w
 [Checkout the course](/java/course){:target="_blank"}
 
 ### Selenium WebDriver in Java
+Same pattern applies as above. If you're looking to learn Selenium WebDriver and have no programming experience, I encourage you to complete the two above courses first.
 
+This is a free online version of my face to face workshop [Getting Started With Selenium WebDriver](/training/getting-started-with-selenium-webdriver/).  
+This course is designed to teach you all the basics you need to get started with Selenium WebDriver as well as snippets of my wisdom from using Selenium for 10 years.
 
 [Checkout the course](/selenium/course/){:target="_blank"}
