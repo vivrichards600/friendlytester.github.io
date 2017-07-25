@@ -3,6 +3,8 @@ layout: page
 title: Lesson 6 - Select Elements
 permalink: /selenium/lessons/selectelements.html
 description: "How to interaction with a select element in Selenium WebDriver"
+comments: true
+signoff: true
 ---
 [Course Home](../course) \| [**Code Examples**](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/F_SelectElement.java)
 

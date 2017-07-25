@@ -3,6 +3,8 @@ layout: page
 title: Lesson 2 - Navigation
 permalink: /selenium/lessons/navigation.html
 description: "A look at how we instruct WebDriver to navigate the browser"
+comments: true
+signoff: true
 ---
 [Course Home](../course) \| [**Code Examples**](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/B_Navigation.java)
 

@@ -3,6 +3,8 @@ layout: page
 title: Lesson 7 - Waits
 permalink: /selenium/lessons/waits.html
 description: "A look at the options we have available for waiting in Selenium WebDriver"
+comments: true
+signoff: true
 ---
 [Course Home](../course) \| [**Code Examples**](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/G_Waits.java)
 
