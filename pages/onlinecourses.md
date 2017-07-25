@@ -17,13 +17,13 @@ In July 2017 I decided to make my Introduction to Selenium WebDriver course avai
 I hope you find these courses useful, they are by no means exhaustive, but I hope valuable. I'd love to hear from you if this material helps you with your testing journey.
 
 All the courses below are text and code based. No videos.
-
+<hr>
 ### Programming Terminology
 Not sure if it's right to call this a course, perhaps more a collection of guides and useful material in a structured order.  
 This course will introduce you to the basic concepts and terminology associated with programming.
 
 [Checkout the course](/programming/course){:target="_blank"}
-
+<hr>
 ### Java Basics
 If you're new to Java and Programming I suggest you complete the 'Programing Terminology' first, before tackling this one.
 
@@ -38,7 +38,7 @@ I strongly encourage you to get familiar with programming terminology and concep
 Such a journey will hugely assist you with your automation journey, especially when you run in difficulties with the frameworks. 
 
 [Checkout the course](/java/course){:target="_blank"}
-
+<hr>
 ### Selenium WebDriver in Java
 Same pattern applies as above. If you're looking to learn Selenium WebDriver and have no programming experience, I encourage you to complete the two above courses first.
 
@@ -47,6 +47,7 @@ This course is designed to teach you all the basics you need to get started with
 
 [Checkout the course](/selenium/course/){:target="_blank"}
 
+<hr>
 I hope to add more courses in the future, both free and on the [Ministry of Testing Dojo](https://dojo.ministryoftesting.com){:target="_blank"}, so if you don't already followed me on social media or connect on LinkedIn to hear about them first.
 
 Also if any of these courses or pages proved valuable to you, consider sharing them with friends and colleagues.
