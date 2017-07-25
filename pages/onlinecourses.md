@@ -46,3 +46,9 @@ This is a free online version of my face to face workshop [Getting Started With 
 This course is designed to teach you all the basics you need to get started with Selenium WebDriver as well as snippets of my wisdom from using Selenium for 10 years.
 
 [Checkout the course](/selenium/course/){:target="_blank"}
+
+I hope to add more courses in the future, both free and on the [Ministry of Testing Dojo](https://dojo.ministryoftesting.com){:target="_blank"}, so if you don't already followed me on social media or connect on LinkedIn to hear about them first.
+
+Also if any of these courses or pages proved valuable to you, consider sharing them with friends and colleagues.
+
+Thanks.
