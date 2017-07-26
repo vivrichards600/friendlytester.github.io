@@ -48,7 +48,7 @@ This course is designed to teach you all the basics you need to get started with
 [Checkout the course](/selenium/course/){:target="_blank"}
 
 <hr>
-I hope to add more courses in the future, both free and on the [Ministry of Testing Dojo](https://dojo.ministryoftesting.com){:target="_blank"}, so if you don't already followed me on social media or connect on LinkedIn to hear about them first.
+I hope to add more courses in the future, both free and on the [Ministry of Testing Dojo](https://dojo.ministryoftesting.com){:target="_blank"}, so if you don't already, follow me on social media or connect on LinkedIn to hear about them first.
 
 Also if any of these courses or pages proved valuable to you, consider sharing them with friends and colleagues.
 
