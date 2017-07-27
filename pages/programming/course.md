@@ -18,6 +18,7 @@ So here is a course covering basic programming stuff, all language independent, 
 
 1. [Integrated Development Environment \(IDEs\)](/programming/lessons/ides){:target="_blank"}
 2. [Syntax aka 'you missed a bracket!'](/programming/lessons/syntax){:target="_blank"}
+<<<<<<< HEAD
 3. [Compilers](/programming/lessons/compilers){:target="_blank"}
 4. [Packages, Libraries and Bindings](/programming/lessons/packagesandlibraries){:target="_blank"}
 5. [SDKs and APIs](/programming/lessons/sdksapis){:target="_blank"}
@@ -32,5 +33,24 @@ So here is a course covering basic programming stuff, all language independent, 
 14. [Encapsulation](/programming/lessons/encapsulation){:target="_blank"}
 15. [Code Comments](/programming/lessons/codecomments){:target="_blank"}
 16. [Code Style Guides](/programming/lessons/codestyleguide){:target="_blank"}
+=======
+3. [Code Comments](/programming/lessons/codecomments){:target="_blank"}
+4. [Code Style](/programming/lessons/codestyle){:target="_blank"}
+5. [Naming Conventions](/programming/lessons/namingconventions){:target="_blank"}
+6. [Packages and Libraries](/programming/lessons/packagesandlibraries){:target="_blank"}
+7. [Modeling with Pseudo Code](/programming/lessons/psuedocode){:target="_blank"}
+8. [Version Control](/programming/lessons/versioncontrol){:target="_blank"}
+9. [SDKs and APIs](/programming/lessons/sdksapis){:target="_blank"}
+10. [Compilers](/programming/lessons/compilers){:target="_blank"}
+11. [Variables](/programming/lessons/variables){:target="_blank"}
+12. [Types](/programming/lessons/types){:target="_blank"}
+13. [Control Structures](/programming/lessons/controlstructures){:target="_blank"}
+14. [Classes and Objects](/programming/lessons/classesandobjects){:target="_blank"}
+15. [Parameters](/programming/lessons/parameters){:target="_blank"}
+16. [Inheritance](/programming/lessons/inheritance){:target="_blank"}
+17. [Abstraction](/programming/lessons/abstraction){:target="_blank"}
+18. [Encapsulation](/programming/lessons/encapsulation){:target="_blank"}
+
+>>>>>>> 1c228ec079809472aa2efab6427a5e675148dfc8
 
 Programming is a vast topic, probably daunting to beginners, there is a lot to learn.  
