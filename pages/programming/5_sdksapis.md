@@ -8,7 +8,7 @@ signoff: true
 ---
 [Course Home](../course) \| [SDK vs API vs Toolkit stackoverlow discussion](https://stackoverflow.com/questions/8772746/difference-between-framework-vs-library-vs-ide-vs-api-vs-sdk-vs-toolkits)
 
-Application Programming Interface (API) is terminology used to talk about how we interact with a library. It's how we talk to it. Each library with have specific methods on it, that we can call to get that library to do something for us. They are often seen as the documentation. 
+Application Programming Interface (API) is terminology used to talk about how we interact with a library or application. It's how we talk to it. Each library with have specific methods on it, that we can call to get that library to do something for us. They are often seen as the documentation.
 
 Software Development Kit (SDK) is like a huge library! It will contain many things though, usually but not limited too:
 * Many Libraries
