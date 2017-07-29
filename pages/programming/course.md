@@ -26,12 +26,13 @@ So here is a course covering basic programming stuff, all language independent (
 8. [Types and Objects](/programming/lessons/typesandobjects){:target="_blank"}
 9. [Variables](/programming/lessons/variables){:target="_blank"}
 10. [Operators](/programming/lessons/operators){:target="_blank"}
-11. [Control Structures](/programming/lessons/controlstructures){:target="_blank"}
-12. [Parameters](/programming/lessons/parameters){:target="_blank"}
+11. [Control Flow](/programming/lessons/controlflow){:target="_blank"}
+12. [Methods and Parameters](/programming/lessons/methodsarameters){:target="_blank"}
 13. [Inheritance](/programming/lessons/inheritance){:target="_blank"}
 14. [Abstraction](/programming/lessons/abstraction){:target="_blank"}
 15. [Encapsulation](/programming/lessons/encapsulation){:target="_blank"}
-16. [Code Comments](/programming/lessons/codecomments){:target="_blank"}
-17. [Code Style Guides](/programming/lessons/codestyleguide){:target="_blank"}
+16. [Algorithms, Big-O-Notation](/programming/lessons/algorithms){:target="_blank"}
+17. [Code Comments](/programming/lessons/codecomments){:target="_blank"}
+18. [Code Style Guides](/programming/lessons/codestyleguide){:target="_blank"}
 
 Programming is a vast topic, probably daunting to beginners, there is a lot to learn.  
