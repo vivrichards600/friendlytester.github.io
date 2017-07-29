@@ -74,6 +74,6 @@ As I've been trying to teach with [LegoAutomation](https://thefriendlytester.co.
 
 So many other aspects of testing to spend time on, to deepen our knowledge on, to learn, and to share. Exploring, story telling, talking testing, test design, check design, coaching, mentoring, pairing, CI, CD, AI, ML, bug reporting, information sharing, agile, empathy, problem-solving, risk assessment, biases, big data, analytics, it's late and I'm tired, perhaps you can all add to this list.
 
-In summary, I'm onboard with Alan's views, important for though to distinguish between the design, creation, and information usage from automated checks. I'm going to writing a lot more in the coming months, I care deeply about this topic.
+In summary, I'm onboard with Alan's views, important for me though is to distinguish between the design, creation, and information usage from automated checks. I'm going to writing a lot more in the coming months, I care deeply about this topic.
 
 I want to thank Alan for putting his thoughts out there, encourage him to continue to do so and I eagerly wait to read them. I hope to do more posts like this.
