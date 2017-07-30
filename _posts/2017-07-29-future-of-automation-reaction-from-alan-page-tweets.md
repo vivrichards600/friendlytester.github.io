@@ -66,7 +66,7 @@ Customer empathy is really important. I was really close to my customers in my f
 
 <blockquote class="twitter-tweet tw-align-center" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">If you want to be a better tester and be an expert in testing, do not even bother learning to write test automation.</p>&mdash; Alan Page (@alanpage) <a href="https://twitter.com/alanpage/status/891116948909457408">July 29, 2017</a></blockquote>
 
-Now having read this tweet, I immediately tweeted to clarify to others that Alan was saying don't learn to write test automation, based on his earlier definition. He didn't say don't learn code, he actually said to learn code in an earlier tweet. Another important thing here is that he says write. As already mentioned, there is a big difference between identifying and designing tools and checks, than actually implementing them. Plus there is most definitely someone in your team better at writing code.
+Now having read this tweet, I immediately tweeted to clarify to others that Alan was saying don't learn to write test automation, based on his earlier definition. He didn't say don't learn code, he actually said to learn code in an earlier tweet. Another important thing here is that he says write. As already mentioned, there is a big difference between identifying and designing tools and checks, than actually implementing them. Plus there is most definitely someone in your team better at writing code. It doesn't mean you shouldn't, if you want to, please do. Also if you do, work with those developers, learn from them, pair with them. I'm just making the argument that the other work involved in automation is harder to master, and more important, than the code itself. In my opinion.
 
 I've given this a lot of thought, hence why this post wasn't finished 6 hours ago! I agree with Alan. 
 
@@ -74,6 +74,6 @@ As I've been trying to teach with [LegoAutomation](https://thefriendlytester.co.
 
 So many other aspects of testing to spend time on, to deepen our knowledge on, to learn, and to share. Exploring, story telling, talking testing, test design, check design, coaching, mentoring, pairing, CI, CD, AI, ML, bug reporting, information sharing, agile, empathy, problem-solving, risk assessment, biases, big data, analytics, it's late and I'm tired, perhaps you can all add to this list.
 
-In summary, I'm onboard with Alan's views, important for me though is to distinguish between the design, creation, and information usage from automated checks. I'm going to writing a lot more in the coming months, I care deeply about this topic.
+In summary, I'm onboard with Alan's views, important for me though is to distinguish between the design, creation, and information usage from automated checks. I'm going to writing a lot more in the coming months, I care deeply about this topic. Also
 
 I want to thank Alan for putting his thoughts out there, encourage him to continue to do so and I eagerly wait to read them. I hope to do more posts like this.
