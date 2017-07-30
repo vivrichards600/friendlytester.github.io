@@ -13,8 +13,9 @@ tags:
 - Automation in Testing
 - Community
 modified_time: 2017-07-30T11:23:39.450+01:00'
-permalink: /2017/07/a-look-at-test-autoamtion-and-test-automators
+permalink: /2017/07/a-look-at-test-automation-and-test-automators
 comments: true
+redirect_from: "/2017/07/a-look-at-test-autoamtion-and-test-automators/"
 ---
 So this is very fitting, I actually spoke to Alan last week, after he tweeted about a _BS_ article. I said I'd always considered doing blog posts as reactions to other material, be it articles, blogs or tweets. Yet never got around to doing any. Until now. 
 
