@@ -46,7 +46,7 @@
     country:  Germany
     year: 2017
 
- - startdate: 28th September 2017
+  - startdate: 28th September 2017
     enddate:
     name: Belfast Selenium Meetup
     role: [Speaker]
