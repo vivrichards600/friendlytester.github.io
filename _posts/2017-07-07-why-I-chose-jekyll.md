@@ -32,7 +32,7 @@ The ability to draw numbers from my data and use data source across multiple pag
 ### Markdown / Data Files
 Having all the posts in a not platformed tied format like Markdown means should I ever wish to move platforms in the future, it should be a lot simpler. The same applies the data sources I mentioned above, with those being in YAML I can easy reuse them on other sites, and again reuse them without any modification if I move to another platform in the future. 
 
-### GiHub Pages
+### GitHub Pages
 The idea of hosting the site for free on GitHub was certainly an appeal. Sure hosting costs aren't expensive these days, but it makes life a lot easier. The additional bonus of this is that anyone can now see the code to my blog. They could make their own with the same look and feel, or they can use the code to support something they may be doing.
 Then a proper Brucie bonus is that when I make mistakes or someone spots something that can be better than can submit a PR to me and fix it for me :D
 
