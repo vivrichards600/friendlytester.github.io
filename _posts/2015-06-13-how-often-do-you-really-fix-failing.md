@@ -45,10 +45,8 @@ Designing effective checks, by effective I mean adds value to your testing, supp
 
 The reason I say it's far from ideal relates to this tweet from the start of the year.  
 
-<div class="centerplugin">
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">You can not create an automated check without doing some testing first. <a href="https://twitter.com/hashtag/Testing?src=hash">#Testing</a> <a href="https://twitter.com/hashtag/Automation?src=hash">#Automation</a></p>&mdash; Richard Bradshaw (@FriendlyTester) <a href="https://twitter.com/FriendlyTester/status/556407117041893376">17 January 2015</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="en-gb"><p lang="en" dir="ltr">You can not create an automated check without doing some testing first. <a href="https://twitter.com/hashtag/Testing?src=hash">#Testing</a> <a href="https://twitter.com/hashtag/Automation?src=hash">#Automation</a></p>&mdash; Richard Bradshaw (@FriendlyTester) <a href="https://twitter.com/FriendlyTester/status/556407117041893376">17 January 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
 
 Now of course this depends on your framework of choice and the architecture you are building on, but the creation of automated checks can be one of much exploration. It can also be the case of adding some keywords to a spreadsheet, but even in that scenario much exploration would have already been done.  
 
