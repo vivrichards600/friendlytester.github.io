@@ -1,7 +1,7 @@
   - title: Lego Automation
     shortdesc: The famous LegoAutomation class. A class all about automation without writing any code! A unique, insightful and fun class full of smiles and learning.
     link: /training/legoautomation
-    shortintro: This class has received great praise from the testing community. I've ran public classes in America, all other Europe, Australia and New Zealand. I've also ran this privately at some large companies including BMW, Sage, Assurity and New Voice Media.
+    shortintro: This class has received great praise from the testing community. I've run public classes in America, all other Europe, Australia and New Zealand. I've also ran this privately at some large companies including BMW, Sage, Assurity and New Voice Media.
     length: This class is available in half-day and full-day versions.
     desc: |
       Automation is playing an ever increasing role within software development, including testing. Specifically to testing we see the desire to have many automated checks in place, in the ‘DevOps’ space we see more and more deployments being automated. The use of CI is becoming common place. But where will it end, what are the limits of all this automation.

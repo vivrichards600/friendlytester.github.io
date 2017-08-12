@@ -46,12 +46,28 @@
     country:  Germany
     year: 2017
 
+  - startdate: 28th September 2017
+    enddate:
+    name: Belfast Selenium Meetup
+    role: [Speaker]
+    url:  https://www.meetup.com/Belfast-Selenium-Meetup-Group/events/241885421/
+    country:  Northern Ireland
+    year: 2017
+
   - startdate: 25th September 2017
     enddate: 26th September 2017
     name: SwanseaCon
     role: [Attendee]
     url:  http://swanseacon.co.uk/
     country:  Wales
+    year: 2017
+    
+  - startdate: 7th September 2017
+    enddate:
+    name: Testing Ask Me Anything
+    role: [Speaker]
+    url:  https://www.ministryoftesting.com/2017/08/testing-ask-anything-ama/
+    country:  England
     year: 2017
 
   - startdate: 29th June 2017
