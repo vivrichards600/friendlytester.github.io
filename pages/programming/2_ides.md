@@ -10,7 +10,7 @@ signoff: true
 
 An Integrated Development Environment (IDE) is a piece of software we use to help us code. It puts several things we need all in one place. Examples are [IntelliJ](https://www.jetbrains.com/idea/), [Visual Studio](https://www.visualstudio.com/), [Android Studio](https://developer.android.com/studio/index.html), [XCode](https://developer.apple.com/xcode/).
 
-As a minimum most IDEs contain an editor. The editor being the place that allows us to write code in various file formats, and importantly provide [syntax highlighting](../lessons/syntax). Build automation, meaning the ability to build/compile our application straight from the IDE. Also a debugger, to allows us to debug our application while its running. Also more commonly these days they'll have the ability to control your source control software directly from the IDE. Plus a whole host of other features.
+As a minimum most IDEs contain an editor. The editor being the place that allows us to write code in various file formats, and importantly provide [syntax highlighting](../lessons/syntax). Build automation, meaning the ability to build/compile our application straight from the IDE. Also a debugger, to allows us to debug our application while its running. Also more commonly these days they'll have the ability to control your [source control](../lessonsversioncontrol) software directly from the IDE. Plus a whole host of other features.
 
 Some of the IDEs are beasts! Be warned. However, with regard to writing automated checks and building some simple tools, you'll only ever use a very small part of the IDE.
 

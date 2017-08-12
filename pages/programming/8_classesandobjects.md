@@ -19,6 +19,6 @@ Then when we create an instance of the Car class, we can set those properties. S
 
 Then if that object exists within my system, other parts of the system could query it, to discover it's values. Lets say the object was called RichardsCar, we could ask it for its manufacturer and it will respond 'Seat'
 
-We can also have _methods_ on a class. A method is a block of code that has a specific behaviour. So I could have a class that has two properties, birthday and current date. We could then have a method called 'Calculate Age'. This method would work out the persons age using the two properties and return them to the code that sent the request. 
+We can also have [_methods_](../lessons/methodsandparameters) on a class. A method is a block of code that has a specific behaviour. So I could have a class that has two properties, birthday and current date. We could then have a method called 'Calculate Age'. This method would work out the persons age using the two properties and return them to the code that sent the request. 
 
 ### [Next Lesson &#10132;](../lessons/types)

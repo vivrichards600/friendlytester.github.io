@@ -27,4 +27,4 @@ double height = 142;
 ```
 An important lesson that took me a while to grasp is to not over think variable names. If something is good enough, run with it. The [ides](../lessons/ides) are so powerful these days that changing a variable name later on in a programs life, is very easy. 
 
-### [Next Lesson &#10132;](../lessons/operators)
+### [Next Lesson &#10132;](../lessons/methodsandparameters)
