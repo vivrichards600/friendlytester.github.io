@@ -16,4 +16,5 @@ We can take our scenario of PageObjects from the inheritance lessons to frame an
 
 ### [Next Lesson &#10132;](../lessons/decomposition)
 
+#### Resources
 https://stackoverflow.com/questions/6308178/what-is-the-main-difference-between-inheritance-and-polymorphism

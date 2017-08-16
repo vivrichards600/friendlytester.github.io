@@ -40,6 +40,7 @@ Another loop you will see, and hopefully create, it's kind of like a badge of ho
 
 ### [Next Lesson &#10132;](../lessons/algorithms-big-o-notation)
 
-https://howtoprogramwithjava.com/the-5-basic-concepts-of-any-programming-language-concept-2/
-https://www.computerhope.com/jargon/c/contflow.htm
-http://www.bbc.co.uk/education/guides/zrxncdm/revision/1
+#### Resources
+[https://howtoprogramwithjava.com/the-5-basic-concepts-of-any-programming-language-concept-2/](https://howtoprogramwithjava.com/the-5-basic-concepts-of-any-programming-language-concept-2/)
+[https://www.computerhope.com/jargon/c/contflow.htm](https://www.computerhope.com/jargon/c/contflow.htm)
+[http://www.bbc.co.uk/education/guides/zrxncdm/revision/1](http://www.bbc.co.uk/education/guides/zrxncdm/revision/1)

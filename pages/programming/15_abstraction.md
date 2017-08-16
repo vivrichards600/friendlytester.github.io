@@ -16,5 +16,6 @@ If you are familiar with designing automated checks, the same applies there. The
 
 ### [Next Lesson &#10132;](../lessons/encapsulation)
 
+#### Resources
 [http://www.bbc.co.uk/education/guides/zttrcdm/revision](http://www.bbc.co.uk/education/guides/zttrcdm/revision)
 [https://stackoverflow.com/questions/8960918/encapsulation-vs-abstraction](https://stackoverflow.com/questions/8960918/encapsulation-vs-abstraction)

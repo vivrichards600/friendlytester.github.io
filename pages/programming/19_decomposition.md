@@ -16,5 +16,6 @@ We can continue our PageObject example to think about decomposition. A common ap
 
 ### [Next Lesson &#10132;](../lessons/codecomments)
 
+#### Resources
 https://en.wikipedia.org/wiki/Decomposition_(computer_science)
 http://www.bbc.co.uk/education/guides/zqqfyrd/revision/3

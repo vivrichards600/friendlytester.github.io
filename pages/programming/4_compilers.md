@@ -14,4 +14,5 @@ The reason I've included it, is for that reason. Most people will write code to 
 
 ### [Next Lesson &#10132;](../lessons/packagesandlibraries)
 
-https://nicoleorchard.com/blog/compilers
+#### Resources
+[https://nicoleorchard.com/blog/compilers](https://nicoleorchard.com/blog/compilers)

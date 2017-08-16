@@ -6,7 +6,7 @@ description: "What are packages, libraries and bindings?"
 comments: true
 signoff: true
 ---
-[Course Home](../course) \| [NPM](https://www.npmjs.com/) \| [Maven](http://search.maven.org/) \| [NuGet](https://www.nuget.org/)
+[Course Home](../course)
 
 A library is usually a collection of code that someone has designed to do a specific purpose.  It will be a single file in specific format for that language, such as a .jar or .dll file.
 
@@ -17,3 +17,8 @@ Packages are usually supported by a package manager. A package is similar to a l
 I've listed some example package managers at the top of the page, good place to start if you want to explore existing packages. 
 
 ### [Next Lesson &#10132;](../lessons/sdksapis)
+
+#### Resources
+[NPM](https://www.npmjs.com/)  
+[Maven](http://search.maven.org/)  
+[NuGet](https://www.nuget.org/)

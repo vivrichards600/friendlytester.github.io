@@ -28,6 +28,7 @@ So what Richard? Indeed. With regard to building automated checking frameworks y
 
 ### [Next Lesson &#10132;](../lessons/inheritance)
 
+#### Resources
 https://stackoverflow.com/questions/16014290/simple-way-to-understand-encapsulation-and-abstraction
 https://www.tutorialspoint.com/java/java_encapsulation.htm
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers
