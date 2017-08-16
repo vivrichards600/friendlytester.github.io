@@ -13,10 +13,13 @@ In a way, you are learning a new language, albeit a programming language.
 At the same time we need to learn the terminology, concepts, principles and tools that support our programming.
 
 It's a lot to take in. But as far as I'm concerned, if you are new to programming, you're in the right place. Not my blog, or my course, although good choice, the fact that you are starting with the basics.  
-I see too many people diving straight into a language and tools/frameworks, googling and stackoverflowing their way to something that 'works', without any understanding of what code they copied is doing or why it works.  
-Such an approach will get you so far, but eventually you'll come undone, so I encourage to start here.
+I see too many people diving straight into a language or tools/frameworks, googling and stackoverflowing their way to something that 'works', without any understanding of what code they copied is doing or why it works.  
+Such an approach will get you so far, but eventually you'll come undone, so I encourage people to start with the basics.
 
-So here is a course covering basic programming stuff, all language independent (I hope), to prepare you for writing some code!
+So I've created a *course* covering basic programming stuff, all language independent (I hope), to prepare you for writing some code!  
+This course includes programming terminology, principles and concepts.
+
+I hope you find this valuable, please let me know if you get some value from this. Happy learning.
 
 1. [Programming](/programming/lessons/programming){:target="_blank"}
 2. [Integrated Development Environment \(IDEs\)](/programming/lessons/ides){:target="_blank"}
@@ -39,5 +42,4 @@ So here is a course covering basic programming stuff, all language independent (
 19. [Decomposition](/programming/lessons/decomposition){:target="_blank"}
 20. [Code Comments](/programming/lessons/codecomments){:target="_blank"}
 21. [Code Style Guides](/programming/lessons/codestyleguide){:target="_blank"}
-
-Programming is a vast topic, probably daunting to beginners, there is a lot to learn.  
+22. [Roadmap](/programming/lessons/roadmap){:target="_blank"}
