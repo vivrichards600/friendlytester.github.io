@@ -53,7 +53,7 @@ Used for type comparisons. A lot of this logic is what a test framework like jun
 | new _object_ | make a new instance of an object | If we had a class called Person. Person richard = new Person() would make a new instance of Person called richard|
 
 <br>
-### [Next Lesson &#10132;](../lessons/controlstructures)
+### [Next Lesson &#10132;](../lessons/controlflow)
 
 <br>
 ##### References

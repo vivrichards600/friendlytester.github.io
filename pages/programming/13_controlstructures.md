@@ -38,7 +38,7 @@ Another loop you will commonly see is a loop based on a condition. Keep looping 
 
 Another loop you will see, and hopefully create, it's kind of like a badge of honour to be a programmer, is an infinite loop. Ha, yes, they read as they sound, a loop that will never ever end. You don't want to write one of these, but if you continue on your programming journey you eventually will.
 
-### [Next Lesson &#10132;](../lessons/algorithms)
+### [Next Lesson &#10132;](../lessons/algorithms-big-o-notation)
 
 https://howtoprogramwithjava.com/the-5-basic-concepts-of-any-programming-language-concept-2/
 https://www.computerhope.com/jargon/c/contflow.htm

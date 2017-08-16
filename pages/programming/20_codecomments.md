@@ -37,4 +37,4 @@ Some use them for humour, here are some good ones from this awesome thread on [s
 // drunk, will fix later
 ```
 
-### [Next Lesson &#10132;](../lessons/codestyle)
+### [Next Lesson &#10132;](../lessons/codestyleguide)

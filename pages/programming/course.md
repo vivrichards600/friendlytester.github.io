@@ -28,14 +28,16 @@ So here is a course covering basic programming stuff, all language independent (
 8. [Classes and Objects](/programming/lessons/classesandobjects){:target="_blank"}
 9. [Types and Objects](/programming/lessons/typesandobjects){:target="_blank"}
 10. [Variables](/programming/lessons/variables){:target="_blank"}
-11. [Operators](/programming/lessons/operators){:target="_blank"}
-12. [Control Flow](/programming/lessons/controlflow){:target="_blank"}
-13. [Methods and Parameters](/programming/lessons/methodsandparameters){:target="_blank"}
-14. [Algorithms, Big-O-Notation](/programming/lessons/algorithms-big-o-notation){:target="_blank"}
+11. [Methods and Parameters](/programming/lessons/methodsandparameters){:target="_blank"}
+12. [Operators](/programming/lessons/operators){:target="_blank"}
+13. [Control Flow](/programming/lessons/controlflow){:target="_blank"}
+14. [Algorithms, Big-O-Notation](/programming/lessons/algorithms-big-o-notation){:target="_blank"} 
 15. [Abstraction](/programming/lessons/abstraction){:target="_blank"}
-16. [Inheritance](/programming/lessons/inheritance){:target="_blank"}
-17. [Encapsulation](/programming/lessons/encapsulation){:target="_blank"}
-18. [Code Comments](/programming/lessons/codecomments){:target="_blank"}
-19. [Code Style Guides](/programming/lessons/codestyleguide){:target="_blank"}
+16. [Encapsulation](/programming/lessons/encapsulation){:target="_blank"}
+17. [Inheritance](/programming/lessons/inheritance){:target="_blank"}
+18. [Polymorphism](/programming/lessons/polymorphism){:target="_blank"}
+19. [Decomposition](/programming/lessons/decomposition){:target="_blank"}
+20. [Code Comments](/programming/lessons/codecomments){:target="_blank"}
+21. [Code Style Guides](/programming/lessons/codestyleguide){:target="_blank"}
 
 Programming is a vast topic, probably daunting to beginners, there is a lot to learn.  
