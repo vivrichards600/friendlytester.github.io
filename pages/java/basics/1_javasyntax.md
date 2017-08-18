@@ -13,6 +13,7 @@ As mentioned in the programming basics course, each programming language has spe
 Here is some code and comments to explain the basic Syntax of Java.
 
 ```java
+//This is a code comment
 
 //This is how we import another library or class in our class.
 //So in this instance, we want to use the Junit Test Library.

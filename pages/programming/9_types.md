@@ -42,4 +42,4 @@ An example of a string would be "Richard".
 An array is used to store a collection of the same type. So we can have an array of Strings or Ints, but not an array of Ints and Strings.
 You can think of a food shopping list as an array, it's collection of food types. 
 
-### [Next Lesson &#10132;](../lessons/Variables)
+### [Next Lesson &#10132;](../lessons/variables)
