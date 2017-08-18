@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lesson 6 - Select Elements
+title: Select Elements
 permalink: /selenium/lessons/selectelements.html
 description: "How to interaction with a select element in Selenium WebDriver"
 comments: true

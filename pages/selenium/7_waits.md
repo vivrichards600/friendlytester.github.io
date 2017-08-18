@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lesson 7 - Waits
+title: Waits
 permalink: /selenium/lessons/waits.html
 description: "A look at the options we have available for waiting in Selenium WebDriver"
 comments: true

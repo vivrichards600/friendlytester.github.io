@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lesson 4 - Interactions
+title: Interactions
 permalink: /selenium/lessons/interactions.html
 description: "A look at the basic interactions we can do with Selenium WebDriver"
 comments: true

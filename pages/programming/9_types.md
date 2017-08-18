@@ -23,7 +23,7 @@ A double allows us to store a number with a floating point, aka as decimal, e.g 
 #### Short, Long, and float
 Adding these for completion, but I rarely use them.  
 Short is using to store small numbers, it's range is -32,768 to 32, 767.  
-Long is used to store really big numbers.
+Long is used to store really big numbers.  
 A float is used to store decimal points like a double, but has less precision.  
 Important to know about them, but unless you are writing a very memory conscious application, int and double will always be fine.
 

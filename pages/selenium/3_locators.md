@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lesson 3 - Locators
+title: Locators
 permalink: /selenium/lessons/locators.html
 description: "A look at all the locator strategies available in Selenium WebDriver"
 comments: true

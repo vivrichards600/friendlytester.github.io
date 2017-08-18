@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lesson 1 - Drivers
+title: Drivers
 permalink: /selenium/lessons/drivers.html
 description: "A look at how all the different drivers available with Selenium WebDriver work"
 comments: true

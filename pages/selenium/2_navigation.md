@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lesson 2 - Navigation
+title: Navigation
 permalink: /selenium/lessons/navigation.html
 description: "A look at how we instruct WebDriver to navigate the browser"
 comments: true

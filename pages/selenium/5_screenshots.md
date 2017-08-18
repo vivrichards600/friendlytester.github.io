@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lesson 5 - Screenshots
+title: Screenshots
 permalink: /selenium/lessons/screenshots.html
 description: "How to take a screenshot with Selenium WebDriver"
 comments: true
