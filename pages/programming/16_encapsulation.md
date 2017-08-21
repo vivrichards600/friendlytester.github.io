@@ -10,7 +10,7 @@ signoff: true
 
 >Encapsulation is the process of combining data and functions into a single unit called a class
 
-We've already covered [classes](/programming/lessons/classesandobjects) and [methods](/programming/lessons/methodsandparameters) but Encapsulation would be the over arching term for the process of creating these. Encapsulation is most commonly associated with Object Orientated programming languages. However, what we didn't cover in those lessons is the reasons for creating classes and methods. One the main benefits of encapsulation is data hiding. Sometimes the asking object doesn't need to know all our internally workings and values, therefore we can hide them from the asking object behind methods. We can then control access to data using []*access modifiers*](https://stackoverflow.com/questions/1020749/what-are-public-private-and-protected-in-object-oriented-programming).
+We've already covered [classes](/programming/lessons/classesandobjects) and [methods](/programming/lessons/methodsandparameters) but Encapsulation would be the over arching term for the process of creating these. Encapsulation is most commonly associated with Object Orientated programming languages. However, what we didn't cover in those lessons is the reasons for creating classes and methods. One the main benefits of encapsulation is data hiding. Sometimes the asking object doesn't need to know all our internally workings and values, therefore we can hide them from the asking object behind methods. We can then control access to data using [*access modifiers*](https://stackoverflow.com/questions/1020749/what-are-public-private-and-protected-in-object-oriented-programming).
 
 ### Public
 This means the class/method can be accessed by any other code in the solution, or another project that references your solution.
@@ -29,6 +29,6 @@ So what Richard? Indeed. With regard to building automated checking frameworks y
 ### [Next Lesson &#10132;](../lessons/inheritance)
 
 #### Resources
-https://stackoverflow.com/questions/16014290/simple-way-to-understand-encapsulation-and-abstraction
-https://www.tutorialspoint.com/java/java_encapsulation.htm
-https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers
+[https://stackoverflow.com/questions/16014290/simple-way-to-understand-encapsulation-and-abstraction](https://stackoverflow.com/questions/16014290/simple-way-to-understand-encapsulation-and-abstraction)
+[https://www.tutorialspoint.com/java/java_encapsulation.htm](https://www.tutorialspoint.com/java/java_encapsulation.htm)
+[https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers)

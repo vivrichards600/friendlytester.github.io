@@ -39,9 +39,6 @@ We could go on. I added this because programming is difficult, but to also empha
 I thought about explaining this, but quite frankly I cannot do as good a job as 'cletus' on [StackOverflow](https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation).  
 In short though, big-o-notation is a model to describe the complexity of an algorithm, I encourage you to check out the explantation linked above.
 
-
-
-
 ### [Next Lesson &#10132;](../lessons/abstraction)
 
 #### Resources

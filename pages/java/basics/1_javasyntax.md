@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Java Syntax
-permalink: /java/basics/javasyntax.html
+permalink: /java/basics/lessons/javasyntax.html
 description: "A look at the basic syntax of Java"
 comments: true
 signoff: true

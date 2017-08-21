@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Using Libraries
-permalink: /java/basics/usinglibraries.html
+permalink: /java/basics/lessons/usinglibraries.html
 description: "A look at how to add libraries to a project using maven"
 comments: true
 signoff: true
