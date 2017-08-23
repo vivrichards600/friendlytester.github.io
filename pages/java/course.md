@@ -15,6 +15,7 @@ This is purely a text and code course, I'm going to be creating some supporting 
 #### IntelliJ
 1. [Using IntelliJ](../intellij/lessons/usingintellij){:target="_blank"}
   * Downloading and Installing
+  * Opening projects
   * Building projects
   * Windows
   * Running a Testing

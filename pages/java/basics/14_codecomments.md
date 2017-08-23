@@ -6,7 +6,7 @@ description: "A look at Code Comments in Java"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [What are Code Comments?](/programming/lessons/codecomments) \| [Code Example(s)]()
+[Course Home](../../course) \| [What are Code Comments?](/programming/lessons/codecomments) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/lessons/N_CodeComments.java)
 
 I would hope by this point in the course that you worked out how to add code comments in Java... I'm sure you have. For those that haven't though it's simple //.
 

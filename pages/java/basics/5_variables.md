@@ -6,7 +6,7 @@ description: "A look at variables, fields and properties in Java"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [What are Types and Objects?](/programming/lessons/variables) \| [Code Example(s)]()
+[Course Home](../../course) \| [What are Types and Objects?](/programming/lessons/variables) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/lessons/D_Variables.java)
 
 Even though not accurate, I tend to use variable, fields and properties interchangeably. Well that's not true, I tend to stick to variables. However, Java boffins would tell me they are not, and they aren't, so lets define them.
 

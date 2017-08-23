@@ -17,6 +17,8 @@ Here is a list of what I'll be adding in the near future:
 * Alerts
 * FluentWaits
 * Check Element is not present
+* Page Objects
+* Driver Factory
 
 If there is something specific you'd like to see on my roadmap please leave a comment below.
 

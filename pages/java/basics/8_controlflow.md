@@ -6,7 +6,7 @@ description: "A look at control flow in Java"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [What is Control Flow?](/programming/lessons/controlflow) \| [Code Example(s)]()
+[Course Home](../../course) \| [What is Control Flow?](/programming/lessons/controlflow) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/lessons/G_ControlFlow.java)
 
 Control flow is how we control the logic and flow of code in our classes and therefore our solution.
 
