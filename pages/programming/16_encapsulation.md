@@ -19,7 +19,7 @@ This means the class/method can be accessed by any other code in the solution, o
 This means that the methods and variables are only accessible by the class they are in. You'd never have a Private Class, as it would be pointless because no other code would be able to access it.
 
 ### Protected
-As mentioned in [inheritance](/programming/lessons/inheritance), a class can be extended or inherit another class. If the class being inherited has protected methods or variables then the other class would have access to those, but no other class would.
+As mentioned in [inheritance](/programming/lessons/inheritance), a class can be extended or inherit another class. If the class being inherited has protected methods or variables then the other class would have access to those, but no other class would. A class in the same package can also access protected variables and methods. 
 
 ### Internal
 Classes marked as internal can be accessed by any other class in the solution, but not from other projects that reference your solution.
