@@ -6,7 +6,7 @@ description: "What are Assertions in JUnit and how do we use them"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [Code Example(s)]()
+[Course Home](../../course) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/junitlessons/C_Assertions.java)
 
 So we've written some code that exercises our application. We've marked it as a test, but how do we know if our test was successful? This is where assertions come in.
 

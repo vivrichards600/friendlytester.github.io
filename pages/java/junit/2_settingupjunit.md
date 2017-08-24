@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Setting up JUnit?
+title: Setting up JUnit
 permalink: /java/junit/lessons/settingupjunit.html
 description: "How to set up JUnit with IntelliJ and Maven?"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [Download and Install JUnit](https://github.com/junit-team/junit4/wiki/Download-and-Install) \| [Code Example(s)]()
+[Course Home](../../course) \| [Download and Install JUnit](https://github.com/junit-team/junit4/wiki/Download-and-Install)
 
 As mentioned throughout the [Basic Java](../../course) course I use Maven when I develop in Java. We spoke about that in [lesson 2](/java/basics/lessons/usinglibraries). So getting JUnit into our project is a simple case of telling Maven we want to. From the link above you can find all the ways to install JUnit. However, in Maven, we had to add the dependency to our POM file.
 

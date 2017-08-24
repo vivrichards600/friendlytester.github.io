@@ -5,7 +5,7 @@ permalink: /selenium/course/index.html
 description: "My free Selenium WebDriver course, currently available in Java"
 signoff: true
 ---
-Welcome to my free Selenium WebDriver in Java course. I made this course free in July 2017, so that I could focus on other areas related to Automation in Testing, however I didn't want all the years I'd spent mastering Selenium to go to rest, so I made the course freely available.
+Welcome to my free Selenium WebDriver in Java course. I made this course free in August 2017, so that I could focus on other areas related to Automation in Testing, however I didn't want all the years I'd spent mastering Selenium to go to rest, so I made the course freely available.
 
 If you're also new to Java, I encourage you to complete my free Java Basics course before continuing with Selenium WebDriver. 
 

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: What are TextFixtures?
+title: What are TextFixtures
 permalink: /java/junit/lessons/whataretestfixtures.html
 description: "What are TestFixtures in JUnit and how do we use them"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [Code Example(s)]()
+[Course Home](../../course) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/junitlessons/B_CreatingATestFixture.java)
 
 If we have some tests that have similar needs we can group them in to a TestFixture. Or in simple terms, put them in the same class.
 

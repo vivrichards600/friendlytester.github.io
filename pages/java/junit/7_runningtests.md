@@ -6,7 +6,7 @@ description: "How to run your JUnit tests"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [Code Example(s)]()
+[Course Home](../../course) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/pom.xml)
 
 So we've written many tests, but how do we run them? Good question. We actually have many ways we can run our tests, so lets explore them.
 
