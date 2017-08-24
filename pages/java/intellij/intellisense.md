@@ -21,4 +21,4 @@ When we are playing with a new framework, or perhaps another member of the team 
 
 ![IntelliSense showing methods on WebElement](/images/course/webelementmethods.png)
 
-### [Next Lesson &#10132;](../lessons/roadmap)
+### [Course Home &#10132;](../../course)
