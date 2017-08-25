@@ -6,7 +6,7 @@ description: "How to interaction with a select element in Selenium WebDriver"
 comments: true
 signoff: true
 ---
-[Course Home](../course) \| [**Code Examples**](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/F_SelectElement.java)
+[Course Home](../course) \| [Code Examples](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/F_SelectElement.java)
 
 As many of you will be aware, they are numerous controls out there on the internet these days. By controls, I mean things like Select Elements, Radio Buttons, Mutli-Select Elements and much many more. Far too many for WebDriver to offer easy support for. However, they have made it easy for us to interact with Select elements. Or Dropdowns as I prefer to call them. 
 

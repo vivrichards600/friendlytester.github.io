@@ -6,7 +6,7 @@ description: "A look at how we instruct WebDriver to navigate the browser"
 comments: true
 signoff: true
 ---
-[Course Home](../course) \| [**Code Examples**](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/B_Navigation.java)
+[Course Home](../course) \| [Code Examples](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/B_Navigation.java)
 
 So we can open all the popular browsers, now we need to go the websites we are trying to automate.
 

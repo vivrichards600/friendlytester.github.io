@@ -6,7 +6,7 @@ description: "A look at how all the different drivers available with Selenium We
 comments: true
 signoff: true
 ---
-[Course Home](../course) \| [**Code Examples**](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/A_Drivers.java)
+[Course Home](../course) \| [Code Examples](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/A_Drivers.java)
 
 All the browsers now require a driver in order to send and receive WebDriver commands.  
 These are now all maintained by the browsers vendors (IE being the exception).
