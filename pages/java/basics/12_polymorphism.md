@@ -37,4 +37,4 @@ public class L_Polymorphism
 
 Now I must admit I don't use polymorphism a lot. Again the cases I've used this a lot is with PageObjects. Again in those instances, it's to overwrite a wait method. But again I'm not including these things because you need to know them, it's so you have more options when you come to design code. But also so you have a better understanding when reading others code.
 
-### [Next Lesson &#10132;](../lessons/debugging)
+### [Next Lesson &#10132;](../lessons/decomposition)
