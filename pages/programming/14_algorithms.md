@@ -42,6 +42,6 @@ In short though, big-o-notation is a model to describe the complexity of an algo
 ### [Next Lesson &#10132;](../lessons/abstraction)
 
 #### Resources
-[https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation](https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation)  
-[https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)  
-[http://www.bbc.co.uk/guides/z3whpv4](http://www.bbc.co.uk/guides/z3whpv4)
+[https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation](https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation){:target="_blank"}  
+[https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/){:target="_blank"}  
+[http://www.bbc.co.uk/guides/z3whpv4](http://www.bbc.co.uk/guides/z3whpv4){:target="_blank"}

@@ -17,4 +17,4 @@ Use the link at the top to learn git online.
 ### [Next Lesson &#10132;](../lessons/classesandobjects)
 
 #### Resources
-[Learn Git](https://try.github.io/levels/1/challenges/1)
+[Learn Git](https://try.github.io/levels/1/challenges/1){:target="_blank"}

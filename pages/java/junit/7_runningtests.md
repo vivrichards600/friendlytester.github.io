@@ -6,7 +6,7 @@ description: "How to run your JUnit tests"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/pom.xml)
+[Course Home](../../course) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/pom.xml){:target="_blank"}
 
 So we've written many tests, but how do we run them? Good question. We actually have many ways we can run our tests, so lets explore them.
 
@@ -58,5 +58,5 @@ I may add some more advanced posts on Surefire, but for now I feel this is enoug
 ### [Next Lesson &#10132;](/java/course/roadmap)
 
 #### Resources
-[https://stackoverflow.com/questions/6178583/maven-does-not-find-junit-tests-to-run](https://stackoverflow.com/questions/6178583/maven-does-not-find-junit-tests-to-run)
-[Maven Surefire Plugin Docs](https://maven.apache.org/surefire/maven-surefire-plugin/)
+[https://stackoverflow.com/questions/6178583/maven-does-not-find-junit-tests-to-run](https://stackoverflow.com/questions/6178583/maven-does-not-find-junit-tests-to-run){:target="_blank"}  
+[Maven Surefire Plugin Docs](https://maven.apache.org/surefire/maven-surefire-plugin/){:target="_blank"}

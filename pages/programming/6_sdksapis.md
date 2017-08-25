@@ -19,4 +19,4 @@ Software Development Kit (SDK) is like a huge library! It will contain many thin
 ### [Next Lesson &#10132;](../lessons/versioncontrol)
 
 #### Resources
-[SDK vs API vs Toolkit stackoverlow discussion](https://stackoverflow.com/questions/8772746/difference-between-framework-vs-library-vs-ide-vs-api-vs-sdk-vs-toolkits)
+[SDK vs API vs Toolkit stackoverlow discussion](https://stackoverflow.com/questions/8772746/difference-between-framework-vs-library-vs-ide-vs-api-vs-sdk-vs-toolkits){:target="_blank"}

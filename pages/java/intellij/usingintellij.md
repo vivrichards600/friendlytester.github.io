@@ -4,7 +4,7 @@ title: Using IntelliJ
 permalink: /java/intellij/lessons/usingintellij.html
 description: "A look at the minimum we need to know to get started using IntelliJ"
 ---
-[Course Home](../../course) \| [Official IntelliJ Docs](https://www.jetbrains.com/help/idea/meet-intellij-idea.html)
+[Course Home](../../course) \| [Official IntelliJ Docs](https://www.jetbrains.com/help/idea/meet-intellij-idea.html){:target="_blank"}
 
 There are many Integrated Development Environments (IDEs) to choose from when it comes to developing in Java, but my preference is IntelliJ.  
 I say it's my favourite, however, I've never tried the other main ones, which are Eclipse and NetBeans. I've never had any issues with IntelliJ.

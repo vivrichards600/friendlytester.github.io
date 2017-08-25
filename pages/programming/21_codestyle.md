@@ -17,5 +17,5 @@ For someone new to programming, you can get to grips with these at a later date 
 ### [Next Lesson &#10132;](../lessons/roadmap)
 
 #### Resources
-[Google Style Guides](https://github.com/google/styleguide)
-[Mozilla Coding Style](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style)
+[Google Style Guides](https://github.com/google/styleguide){:target="_blank"}  
+[Mozilla Coding Style](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style){:target="_blank"}

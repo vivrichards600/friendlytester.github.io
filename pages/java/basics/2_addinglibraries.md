@@ -6,7 +6,7 @@ description: "A look at how to add libraries to a project using maven"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [What are packages?](/programming/lessons/packagesandlibraries) \| POM Example 1]() \| POM Example 2]()
+[Course Home](../../course) \| [What are packages?](/programming/lessons/packagesandlibraries){:target="_blank"} \| POM Example](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/pom.xml){:target="_blank"}
 
 As mentioned in the [Using IntelliJ](/java/intellij/lessons/usingintellij.html) lesson I tend to stick to Maven as my project management. So let's look at how we add libraries into our solution using Maven.
 

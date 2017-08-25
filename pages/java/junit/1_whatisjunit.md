@@ -6,7 +6,7 @@ description: "What is JUnit?"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [JUnit](http://junit.org)
+[Course Home](../../course) \| [JUnit](http://junit.org){:target="_blank"}
 
 JUnit is a open source test framework. If I were to try and describe it in the simplest terms I would say, it allows us to mark methods in Java as *tests*. Then we design those methods to exercise our application. This could be a unit, an api or some code that uses a UI library to drive a UI.
 

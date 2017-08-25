@@ -6,7 +6,7 @@ description: "How to mark code as Tests using JUnit"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/junitlessons/A_CreatingATest.java)
+[Course Home](../../course) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/junitlessons/A_CreatingATest.java){:target="_blank"}
 
 So as mentioned in the first [JUnit lesson](/java/junit/lessons/whatisjunit), JUnit provides us the framework to mark code as tests, provides assertion capabilities and a mechanism for running tests. Now aside from assertions, the tests themselves contain little else from JUnit. The majority of the code will be calls to other classes and libraries to help us interact with our application/codebase.
 
@@ -33,4 +33,4 @@ This block of code will now be recognised as a test by the test runner. We looki
 ### [Next Lesson &#10132;](../lessons/whataretestfixtures)
 
 #### Resources
-[JUnit - Writing Tests](http://junit.org/junit4/faq.html#atests_1)
+[JUnit - Writing Tests](http://junit.org/junit4/faq.html#atests_1){:target="_blank"}

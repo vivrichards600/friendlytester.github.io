@@ -6,7 +6,7 @@ description: "What are Matchers in JUnit and how do we use them"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/junitlessons/D_Matchers.java)
+[Course Home](../../course) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/junitlessons/D_Matchers.java){:target="_blank"}
 
 Matchers along with assertThat were introduced in JUnit 4.4. assertThat provides a way to write clean highly readable assertions, taking advantage of matchers. These matchers are provided my a library called [Hamcrest](http://hamcrest.org/JavaHamcrest/). Little secret, Hamcrest is an anagram of Matchers.
 
@@ -41,6 +41,6 @@ Matchers take some getting us to, but over on the [Hamcrest site](https://code.g
 ### [Next Lesson &#10132;](../lessons/runningtests)
 
 #### Resources
-[Assertions](https://github.com/junit-team/junit4/wiki/Assertions)
-[Matters and assertThat](https://github.com/junit-team/junit4/wiki/Matchers-and-assertthat)
-[Benefits of AssertThat](https://objectpartners.com/2013/09/18/the-benefits-of-using-assertthat-over-other-assert-methods-in-unit-tests/)
+[Assertions](https://github.com/junit-team/junit4/wiki/Assertions){:target="_blank"}  
+[Matters and assertThat](https://github.com/junit-team/junit4/wiki/Matchers-and-assertthat){:target="_blank"}  
+[Benefits of AssertThat](https://objectpartners.com/2013/09/18/the-benefits-of-using-assertthat-over-other-assert-methods-in-unit-tests/){:target="_blank"}

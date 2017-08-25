@@ -6,7 +6,7 @@ description: "A look at the basic syntax of Java"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [What is Syntax?](/programming/lessons/syntax) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/lessons/A_Syntax.java)
+[Course Home](../../course) \| [What is Syntax?](/programming/lessons/syntax){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/lessons/A_Syntax.java){:target="_blank"}
 
 As mentioned in the programming basics course, each programming language has specific a specific syntax. A specific way to write code so that the [compiler](/programming/lessons/compiler) can compile it.
 

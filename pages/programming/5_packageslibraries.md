@@ -19,6 +19,6 @@ I've listed some example package managers at the top of the page, good place to 
 ### [Next Lesson &#10132;](../lessons/sdksapis)
 
 #### Resources
-[NPM](https://www.npmjs.com/)  
-[Maven](http://search.maven.org/)  
-[NuGet](https://www.nuget.org/)
+[NPM](https://www.npmjs.com/){:target="_blank"}  
+[Maven](http://search.maven.org/){:target="_blank"}  
+[NuGet](https://www.nuget.org/){:target="_blank"}

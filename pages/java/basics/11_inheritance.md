@@ -6,7 +6,7 @@ description: "A look at Inheritance in Java"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [What is Inheritance?](/programming/lessons/inheritance) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/lessons/K_Inheritance.java)
+[Course Home](../../course) \| [What is Inheritance?](/programming/lessons/inheritance){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/lessons/K_Inheritance.java){:target="_blank"}
 
 We actually covered a lot of Inheritance in the previous [*Encapsulation lesson*](/java/basics/lessons/encapsulation). I wanted to specifically add the behaviour of constructors when inheriting other classes. Again the code is too long to put in the page, so please check the link above and read the code and comments.
 

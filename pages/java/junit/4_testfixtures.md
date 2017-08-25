@@ -6,7 +6,7 @@ description: "What are TestFixtures in JUnit and how do we use them"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/junitlessons/B_CreatingATestFixture.java)
+[Course Home](../../course) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/junitlessons/B_CreatingATestFixture.java){:target="_blank"}
 
 If we have some tests that have similar needs we can group them in to a TestFixture. Or in simple terms, put them in the same class.
 
@@ -66,6 +66,6 @@ JUnit 5 is currently in the process and will some changes to these annotations. 
 ### [Next Lesson &#10132;](../lessons/assertions)
 
 #### Resources
-[JUnit FAQ - Test Fixtures](http://junit.org/junit4/faq.html#atests_2)
-[Java Annotations](https://beginnersbook.com/2014/09/java-annotations/)
-[JUnit 5 Tutorial](http://howtodoinjava.com/junit-5-tutorial/#annotations)
+[JUnit FAQ - Test Fixtures](http://junit.org/junit4/faq.html#atests_2){:target="_blank"}  
+[Java Annotations](https://beginnersbook.com/2014/09/java-annotations/){:target="_blank"}  
+[JUnit 5 Tutorial](http://howtodoinjava.com/junit-5-tutorial/#annotations){:target="_blank"}

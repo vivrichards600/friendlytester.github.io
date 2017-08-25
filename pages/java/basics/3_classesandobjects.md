@@ -6,7 +6,7 @@ description: "A look at how to create classes and use objects in Java"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [What are Classes and Objects?](/programming/lessons/classesandobjects) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/lessons/B_ClassesAndObjects.java)
+[Course Home](../../course) \| [What are Classes and Objects?](/programming/lessons/classesandobjects){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/lessons/B_ClassesAndObjects.java){:target="_blank"}
 
 With Java being a Object-orientated programming (OOP/OO) language, classes and objects are what it's all about. Everything when coding with Java is an object. 
 

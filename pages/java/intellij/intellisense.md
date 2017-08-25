@@ -7,7 +7,7 @@ comments: true
 signoff: true
 ---
 
-[Course Home](../../course) \| [Official IntelliJ Docs on IntelliSense](https://www.jetbrains.com/help/idea/auto-completing-code.html)
+[Course Home](../../course) \| [Official IntelliJ Docs on IntelliSense](https://www.jetbrains.com/help/idea/auto-completing-code.html){:target="_blank"}
 
 It's awesome! It means you don't need to remember all the methods on an object. It makes exploring new frameworks very easy. It also means you don't have to press all.the.keys().
 

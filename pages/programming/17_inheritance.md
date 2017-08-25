@@ -17,5 +17,5 @@ A specific application of this in the testing space is the PageObject pattern, c
 ### [Next Lesson &#10132;](../lessons/polymorphism)
 
 #### Resources
-https://docs.oracle.com/javase/tutorial/java/concepts/polymorphism.html
-https://stackoverflow.com/questions/6308178/what-is-the-main-difference-between-inheritance-and-polymorphism
+[https://docs.oracle.com/javase/tutorial/java/concepts/polymorphism.html](https://docs.oracle.com/javase/tutorial/java/concepts/polymorphism.html){:target="_blank"}  
+[https://stackoverflow.com/questions/6308178/what-is-the-main-difference-between-inheritance-and-polymorphism](https://docs.oracle.com/javase/tutorial/java/concepts/polymorphism.html){:target="_blank"}

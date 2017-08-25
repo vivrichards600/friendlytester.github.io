@@ -6,7 +6,7 @@ description: "A quick look at how to debug code in IntelliJ"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [Official IntelliJ Docs on Debugging](https://www.jetbrains.com/help/idea/debugging.html?search=debug)
+[Course Home](../../course) \| [Official IntelliJ Docs on Debugging](https://www.jetbrains.com/help/idea/debugging.html?search=debug){:target="_blank"}
 
 
 No matter how good you get at programming you will have to debug some code within the first few weeks of coding. Then probably every day you code after that.

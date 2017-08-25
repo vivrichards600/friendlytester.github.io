@@ -6,7 +6,7 @@ description: "A look at Polymorphism in Java"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [What is Polymorphism?](/programming/lessons/polymorphism) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/lessons/L_Polymorphism.java)
+[Course Home](../../course) \| [What is Polymorphism?](/programming/lessons/polymorphism){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/lessons/L_Polymorphism.java){:target="_blank"}
 
 So I don't have much to add the explanation I gave in the Programming Basics course. So let's just look at some code with comments.
 ```java

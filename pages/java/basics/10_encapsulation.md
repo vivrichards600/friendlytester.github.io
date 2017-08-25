@@ -6,7 +6,7 @@ description: "A look at Encapsulation in Java"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [What is Encapsulation?](/programming/lessons/encapsulation) \| [Encapsulation Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/lessons/I_Encapsulation.java) \| [Access Modifiers Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/lessons/J_AccessModifiers.java)
+[Course Home](../../course) \| [What is Encapsulation?](/programming/lessons/encapsulation){:target="_blank"} \| [Encapsulation Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/lessons/I_Encapsulation.java){:target="_blank"} \| [Access Modifiers Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/lessons/J_AccessModifiers.java){:target="_blank"}
 
 In our previous lesson on [Abstraction](../lessons/abstraction), we abstracted a few lines in to a new method on the same class. Now using the idea of Encapsulation we take this one step further. Instead of a method, we can create a new class and add the method there. That class would then be the place we'd put similar methods in the future.
 
