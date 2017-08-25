@@ -49,9 +49,17 @@
   - startdate: 28th September 2017
     enddate:
     name: Belfast Selenium Meetup
-    role: [Speaker]
+    role: [Talk]
     url:  https://www.meetup.com/Belfast-Selenium-Meetup-Group/events/241885421/
     country:  Northern Ireland
+    year: 2017
+    
+  - startdate: 25th September 2017
+    enddate:
+    name: SwanseaCon Post Meetup
+    role: [Talk]
+    url: https://www.meetup.com/Expert-Talks-Cardiff/events/242292543/
+    country:  Wales
     year: 2017
 
   - startdate: 25th September 2017
@@ -61,7 +69,7 @@
     url:  http://swanseacon.co.uk/
     country:  Wales
     year: 2017
-    
+
   - startdate: 7th September 2017
     enddate:
     name: Testing Ask Me Anything

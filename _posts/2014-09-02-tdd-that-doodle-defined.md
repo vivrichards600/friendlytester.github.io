@@ -20,24 +20,17 @@ So a few weeks ago [Duncan Nisbet](https://twitter.com/DuncNisbet) published an 
 
 I don't know why, but it initially didn't sit well with me, so I started doodling while on the train, below is the result I tweeted.  
 
-<div class="centerplugin">
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Outcome: TDD isn&#39;t testing, but provides some great artefacts to support Testing. I also draw a picture. <a href="http://t.co/knxsdjRdh0">pic.twitter.com/knxsdjRdh0</a></p>&mdash; Richard Bradshaw (@FriendlyTester) <a href="https://twitter.com/FriendlyTester/status/501665754069368833">19 August 2014</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="en-gb"><p lang="en" dir="ltr">Outcome: TDD isn&#39;t testing, but provides some great artefacts to support Testing. I also draw a picture. <a href="http://t.co/knxsdjRdh0">pic.twitter.com/knxsdjRdh0</a></p>&mdash; Richard Bradshaw (@FriendlyTester) <a href="https://twitter.com/FriendlyTester/status/501665754069368833">19 August 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
 <br>
 There was then several exchanges with Andy McDonagh, which results in some tweaks and additions to the original doodle, the final doodle looked like this:  
 
-<div class="centerplugin">
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">@andmcdonagh how about now? <a href="http://t.co/2sbs03EzlS">pic.twitter.com/2sbs03EzlS</a></p>&mdash; Richard Bradshaw (@FriendlyTester) <a href="https://twitter.com/FriendlyTester/status/501706686550134784">19 August 2014</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="en-gb"><p lang="en" dir="ltr">@andmcdonagh how about now? <a href="http://t.co/2sbs03EzlS">pic.twitter.com/2sbs03EzlS</a></p>&mdash; Richard Bradshaw (@FriendlyTester) <a href="https://twitter.com/FriendlyTester/status/501706686550134784">19 August 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
 <br>
 There was then a tweet from [George Dinwiddle](https://twitter.com/gdinwiddie).  
 
-<div class="centerplugin">
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr"><a href="https://twitter.com/FriendlyTester">@FriendlyTester</a> Very interesting diagram. Do you have a descriptive walk-through of it? /cc <a href="https://twitter.com/mheusser">@mheusser</a> @andmcdonagh</p>&mdash; George Dinwiddie (@gdinwiddie) <a href="https://twitter.com/gdinwiddie/status/501707285337763840">19 August 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+<blockquote class="twitter-tweet tw-align-center" data-lang="en-gb"><p lang="en" dir="ltr"><a href="https://twitter.com/FriendlyTester">@FriendlyTester</a> Very interesting diagram. Do you have a descriptive walk-through of it? /cc <a href="https://twitter.com/mheusser">@mheusser</a> @andmcdonagh</p>&mdash; George Dinwiddie (@gdinwiddie) <a href="https://twitter.com/gdinwiddie/status/501707285337763840">19 August 2014</a></blockquote>
 
 <br>
 So here goes.  

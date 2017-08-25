@@ -18,8 +18,7 @@ permalink: /2016/10/how-i-get-technical-workshops-up-and.html
 comments: true
 ---
 
-<div class="centerplugin">
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">The first hour in most technical workshops is a slight mess with setups. Does anyone do this really, really fast and what&#39;s their secret?</p>&mdash; Maaret Pyhäjärvi (@maaretp) <a href="https://twitter.com/maaretp/status/783931493190144000">6 October 2016</a></blockquote></div>
+<blockquote class="twitter-tweet tw-align-center" data-lang="en-gb"><p lang="en" dir="ltr">The first hour in most technical workshops is a slight mess with setups. Does anyone do this really, really fast and what&#39;s their secret?</p>&mdash; Maaret Pyhäjärvi (@maaretp) <a href="https://twitter.com/maaretp/status/783931493190144000">6 October 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
