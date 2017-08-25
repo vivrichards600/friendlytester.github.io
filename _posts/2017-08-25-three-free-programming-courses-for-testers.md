@@ -56,3 +56,5 @@ All the courses have a roadmap page on them, I've asked people to submit request
 
 So there we have it. It's finally live. I hope this provides some value to people and helps those who have decided to add automation/coding to their belt.
 
+Many thanks
+
