@@ -19,4 +19,4 @@ If there is something specific you'd like to see on my roadmap for Basic Java pl
 
 Or if you have any feedback, good or bad, please leave a comment.
 
-### [All Courses](/courses/online)
+### [All Courses](/training/online)
