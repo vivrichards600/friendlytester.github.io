@@ -8,20 +8,20 @@ signoff: true
 ---
 [Course Home](../../course) \| [What are Types and Objects?](/programming/lessons/variables){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/lessons/D_Variables.java){:target="_blank"}
 
-Even though not accurate, I tend to use variable, fields and properties interchangeably. Well that's not true, I tend to stick to variables. However, Java boffins would tell me they are not, and they aren't, so lets define them.
+Even though not accurate, I tend to use variable, fields and properties interchangeably. Well, that's not true, I tend to stick to variables. However, Java boffins would tell me they are not, and they aren't, so let's define them.
 
 Actually, before we do that, we need to familiarise ourselves with two important terms within Java. Static and non-static.
 
-Non-static is inferred, you'll never write the words non-static while programming in Java. However, you may find yourself writing *static*. In Java it means exactly what the word means in English
+Non-static is inferred, you'll never write the words non-static while programming in Java. However, you may find yourself writing *static*. In Java, it means exactly what the word means in English
 >lacking in movement, action or changeable
 
-A static field or method belongs to the class, and not the instance of the class. So if we define something as static it cannot be changed by the instance. If we don't define it as static its automatically non-static. Now you may be reading that line thinking, thought this was basics Richard! It is and you probably don't really need to concern yourself with it. The major benefit of making something static is memory footprint, which isn't something we usually concern ourselves with when creating automated checks. But, I believe we need to be aware of these things.
+A static field or method belongs to the class, and not the instance of the class. So if we define something as static it cannot be changed by the instance. If we don't define it as static it's automatically non-static. Now you may be reading that line thinking, thought this was basics, Richard! It is and you probably don't really need to concern yourself with it. The major benefit of making something static is memory footprint, which isn't something we usually concern ourselves with when creating automated checks. But, I believe we need to be aware of these things.
 
 ### Variables
-So in Java we have four types of variables.
+So in Java, we have four types of variables.
 
 #### 1) Instance Variables
-These is where the variables belong to the class, but are not static. So whenever we make a new instance, that instance has it's own variables. Those object will then likely have methods that allow to change the values of those variables. Commonly in Java, such as a variable with have a Getter and Setter. The getter is a method that returns the value, and the setter is a method that allows us to set the value of the variable.
+These are where the variables belong to the class but are not static. So whenever we make a new instance, that instance has its own variables. Those object will then likely have methods that allow you to change the values of those variables. Commonly in Java, such as a variable with have a Getter and Setter. The getter is a method that returns the value, and the setter is a method that allows us to set the value of the variable.
 
 #### 2) Class Variables
 This would be a variable that is static. So whenever a new instance is made, new instances of those variables are not. All the instance will read from the same variable.
@@ -30,7 +30,7 @@ This would be a variable that is static. So whenever a new instance is made, new
 These tend to be variables that are defined within a method, not a class. So it may be that you are using a local variable to store a value from another class, so you can use it later in the method.
 
 #### 4) Parameters
-I was going to talk about parameters in the next lesson, but it makes sense to talk about them here. A parameter is used to pass objects into a method. That method can use them to assist it's behaviour. 
+I was going to talk about parameters in the next lesson, but it makes sense to talk about them here. A parameter is used to pass objects into a method. That method can use them to assist its behaviour. 
 
 To recap though, I stick to talking about variables and parameters. Those are the terms you'll see me use through the rest of this course.
 
@@ -75,7 +75,7 @@ public class D_Variables
 ### [Next Lesson &#10132;](../lessons/methods)
 
 #### Resources
-[http://docs.oracle.com/javase/tutorial/java/javaOO/classvars.html](http://docs.oracle.com/javase/tutorial/java/javaOO/classvars.html)  
-[https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)  
-[https://stackoverflow.com/questions/10115588/what-is-the-difference-between-field-variable-attribute-and-property-in-java](https://stackoverflow.com/questions/10115588/what-is-the-difference-between-field-variable-attribute-and-property-in-java)  
-[http://edayan.info/java/fields-vs-variables-in-java](http://edayan.info/java/fields-vs-variables-in-java)
+[http://docs.oracle.com/javase/tutorial/java/javaOO/classvars.html](http://docs.oracle.com/javase/tutorial/java/javaOO/classvars.html){:target="_blank"}  
+[https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html){:target="_blank"}  
+[https://stackoverflow.com/questions/10115588/what-is-the-difference-between-field-variable-attribute-and-property-in-java](https://stackoverflow.com/questions/10115588/what-is-the-difference-between-field-variable-attribute-and-property-in-java){:target="_blank"}  
+[http://edayan.info/java/fields-vs-variables-in-java](http://edayan.info/java/fields-vs-variables-in-java){:target="_blank"}

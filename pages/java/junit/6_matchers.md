@@ -8,9 +8,9 @@ signoff: true
 ---
 [Course Home](../../course) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/junitlessons/D_Matchers.java){:target="_blank"}
 
-Matchers along with assertThat were introduced in JUnit 4.4. assertThat provides a way to write clean highly readable assertions, taking advantage of matchers. These matchers are provided my a library called [Hamcrest](http://hamcrest.org/JavaHamcrest/). Little secret, Hamcrest is an anagram of Matchers.
+Matchers along with assertThat were introduced in JUnit 4.4. assertThat provides a way to write clean highly readable assertions, taking advantage of matchers. These matchers are provided by a library called [Hamcrest](http://hamcrest.org/JavaHamcrest/). Little secret, Hamcrest is an anagram of Matchers.
 
-Lets compare them to analyse the benefits of using assertThat.
+Let's compare them to analyse the benefits of using assertThat.
 
 ```java
 int c = 5 * 5;
@@ -20,7 +20,7 @@ assertThat(c, is(equalTo(25)));
 So to recap the last lesson, the first example 'assertEquals(25, c)' actually reads 'assert equals <expected> 25 <actual> c'. Understanding assertions we can get by, we know assert equals is checking they are equal, but it's not explicit in the words.  
 The second example 'assertThat(c, is(equalTo(25)));' reads 'assert that <actual> c is equal to <expected> 25'. This is much nicer to read in my opinion.
 
-Then there is the error messages by default when an assert fails. With assertEquals you'll get:
+Then there are the error messages by default when an assert fails. With assertEquals you'll get:
 ```text
 java.lang.AssertionError:
 Expected :20
@@ -36,7 +36,7 @@ A subtle difference, but a very welcomed one when you're trying to debug failure
 
 I've listed and documented some more examples from Dariusz Andrzej Stefański's post Assertions below over on GitHUb, link is at the top of the page.
 
-Matchers take some getting us to, but over on the [Hamcrest site](https://code.google.com/archive/p/hamcrest/wikis/Tutorial.wiki) is some great documentation on all the matchers available. And to repeat myself from the previous lesson, your assertions are really important, so take some time to learn the library, arming yourself to being able to implement the exact assertions you require.
+Matchers take some getting use to, but over on the [Hamcrest site](https://code.google.com/archive/p/hamcrest/wikis/Tutorial.wiki) is some great documentation on all the matchers available. And to repeat from the previous lesson, your assertions are really important, so take some time to learn the library, arming yourself to being able to implement the exact assertions you require.
 
 ### [Next Lesson &#10132;](../lessons/runningtests)
 

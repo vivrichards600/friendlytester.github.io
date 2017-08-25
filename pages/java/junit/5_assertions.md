@@ -10,7 +10,7 @@ signoff: true
 
 So we've written some code that exercises our application. We've marked it as a test, but how do we know if our test was successful? This is where assertions come in.
 
-Assertions are important. Very important when it comes to automated checking. This is our attempt at replacing ourselves. When we run the scenario we are automating, how are we deciding if what the application is presenting us is acceptable? We need to work out what this is and instruct our code to do the assertions that meet that acceptable criteria. Fortunately they give us many options for doing this.
+Assertions are important. Very important when it comes to automated checking. This is our attempt at replacing ourselves. When we run the scenario we are automating, how are we deciding if what the application is presenting us is acceptable? We need to work out what this is and instruct our code to do the assertions that meet that acceptable criterion. Fortunately, they give us many options for doing this.
 
 ```java
 package junitlessons;
@@ -29,7 +29,7 @@ public class C_Assertions
         //So here I'm expecting our calculation above to be 25.
         Assert.assertEquals(25, c);
 
-        //We cab also add a contextual message. JUnit will display this message upon failure
+        //We can also add a contextual message. JUnit will display this message upon failure
         //Creating good contextual messages can really speed up debugging
         Assert.assertEquals("contextual message on failure here", 23, c);
         //We can use assertEquals for strings, ints, objects
@@ -49,7 +49,7 @@ public class C_Assertions
 
 Important note to add here, designing good assertions is a skill, a skill that doesn't require coding knowledge. So if you are struggling to design acceptable assertions, involve the team and seek help. As always stated, these assertions are very important.
 
-So now, you've spent time reading and exploring the asserts above, you'll be very happy to know that I don't want you to use them! Someone would class the above methods as legacy. I'd agree. But it's important for you to understand them, you may see them in existing test suites, but it's also so you can take the sam journey as others. Checkout the next lesson to learn about matchers.
+So now, you've spent time reading and exploring the asserts above, you'll be very happy to know that I don't want you to use them! Someone would class the above methods as legacy. I'd agree. But it's important for you to understand them, you may see them in existing test suites, but it's also so you can take the same journey as others. Check out the next lesson to learn about matchers.
 
 ### [Next Lesson &#10132;](../lessons/matchers)
 

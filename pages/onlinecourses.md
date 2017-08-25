@@ -10,7 +10,7 @@ tags:
  - WebDriver
 signoff: true
 ---
-I current have three courses available on this site, all free. Those are Programming Basics, Java Basics (incs IntelliJ and JUnit) and Selenium WebDriver in Java. I'm also working on numerous video courses that will be available on the [Ministry of Testing Dojo](https://dojo.ministryoftesting.com){:target="_blank"}.
+I currently have three courses available on this site, all free. Those are Programming Basics, Java Basics (incs IntelliJ and JUnit) and Selenium WebDriver in Java. I'm also working on numerous video courses that will be available on the [Ministry of Testing Dojo](https://dojo.ministryoftesting.com){:target="_blank"}.
 
 In August 2017 I decided to make my Introduction to Selenium WebDriver course available online, for **free**. In doing so, I also created two additional free courses on Programming and Java Basics, to assist people with the Selenium one.
 
@@ -27,18 +27,18 @@ This course will introduce you to the basic concepts and terminology associated 
 ### Java Basics
 If you're new to Java and Programming I suggest you complete the 'Programming Basics' first, before tackling this one.
 
-This course covers the basics of Java, and is designed as a prerequisite for my Selenium WebDriver course.  
-It will hopefully teach you the basics of Java to aid your understanding on testing frameworks like Selenium WebDriver.
+This course covers the basics of Java and is designed as a prerequisite for my Selenium WebDriver course.  
+It will hopefully teach you the basics of Java to aid your understanding of testing frameworks like Selenium WebDriver.
 
 I common pattern I'm seeing in the industry is people diving straight into learning an automation framework. Don't do this.
 
 I strongly encourage you to get familiar with programming terminology and concepts. Then pick a language and get familiar with that. Then more to the frameworks.  
-Such a journey will hugely assist you with your automation journey, especially when you run in difficulties with the frameworks. 
+Such a journey will hugely assist you with your automation journey, especially when you run into difficulties with the frameworks. 
 
 [Checkout the course](/java/course){:target="_blank"}
 <hr>
 ### Selenium WebDriver in Java
-Same pattern applies as above. If you're looking to learn Selenium WebDriver and have no programming experience, I encourage you to complete the two above courses first.
+The same pattern applies as above. If you're looking to learn Selenium WebDriver and have no programming experience, I encourage you to complete the two above courses first.
 
 This is a free online version of my face to face workshop [Getting Started With Selenium WebDriver](/training/getting-started-with-selenium-webdriver/).  
 This course is designed to teach you all the basics you need to get started with Selenium WebDriver as well as snippets of my wisdom from using Selenium for 10 years.

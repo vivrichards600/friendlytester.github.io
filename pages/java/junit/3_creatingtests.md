@@ -8,7 +8,7 @@ signoff: true
 ---
 [Course Home](../../course) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/junitlessons/A_CreatingATest.java){:target="_blank"}
 
-So as mentioned in the first [JUnit lesson](/java/junit/lessons/whatisjunit), JUnit provides us the framework to mark code as tests, provides assertion capabilities and a mechanism for running tests. Now aside from assertions, the tests themselves contain little else from JUnit. The majority of the code will be calls to other classes and libraries to help us interact with our application/codebase.
+So as mentioned in the first [JUnit lesson](/java/junit/lessons/whatisjunit), JUnit provides us with the framework to mark code as tests, provides assertion capabilities and a mechanism for running tests. Now aside from assertions, the tests themselves contain little else from JUnit. The majority of the code will be calls to other classes and libraries to help us interact with our application/codebase.
 
 So let's assume we've written some code that we want to turn into a test. The bare minimum we can do it simply add @Test above the method name.
 ```java

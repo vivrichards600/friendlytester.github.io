@@ -8,13 +8,13 @@ signoff: true
 ---
 [Course Home](../course) \| [**Code Examples**](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/D_Interactions.java)
 
-Lets recap. We can now open a browser, navigate to our test site, and find elements on the page that we wish to interactive with. So what are these interactions, what can we do with WebDriver?
+Let's recap. We can now open a browser, navigate to our test site, and find elements on the page that we wish to interact with. So what are these interactions, what can we do with WebDriver?
 
 This lesson is going to cover the basics.
 
 ### click()
 This method is as straight forward as it sounds, it will click on the element.  
-Note though, WebDriver will only click on elements that are visible, and there is some rather complicated logic to determine if an element in visible. There is a [talk](https://www.youtube.com/watch?v=hTa1KI6fQpg) on this very topic by David Burns one of the selenium contributors.
+Note though, WebDriver will only click on elements that are visible, and there is some rather complicated logic to determine if an element is visible. There is a [talk](https://www.youtube.com/watch?v=hTa1KI6fQpg) on this very topic by David Burns one of the selenium contributors.
  
 ### getText()
 This method instructs WebDriver to return the text contained within an element.
@@ -25,7 +25,7 @@ This method instructs WebDriver to return the text contained within an element.
 </div>
 ```
 
-WebDriver will return all the text between the opening tag and the closing tag. So if we took the html above and the following code
+WebDriver will return all the text between the opening tag and the closing tag. So if we took the HTML above and the following code
 ```java
 Driver.findElement(By.tagName("p")).getText();
 ```
@@ -51,14 +51,14 @@ Driver.findElement(By.id("firstname")).sendKeys(Keys.ENTER);
 
 ### getAttribute()
 This is a fantastic method, even more so in recent years with the additional attributes introduced with HTML5.  
-This methods allows you to ask WebDriver to return you the value of any attribute on an element.
+This method allows you to ask WebDriver to return you the value of any attribute on an element.
 
-The most common usage is probably 'value'. On a input field, this will return yout the text within the input.  
+The most common usage is probably 'value'. On an input field, this will return you the text within the input.  
 Other common usages are to read the placeholder text to validate a form, get the classes, ID, names of elements. Also as mentioned, to read data attributes which are becoming more common.
 ```java
 Driver.findElement(By.id("firstname")).getAttribute("value");
 ```
-This would look for an element with the id 'firstname', and return the value in the attribute input. Important to note that getText() won't have the same behaviour as this. getText() won't return you the value of an input field. Also, if you investigate this, you'll very rarely see 'value' as an attribute with inspecing some HTML, but trust me, it works.
+This would look for an element with the id 'firstname', and return the value in the attribute input. Important to note that getText() won't have the same behaviour as this. getText() won't return you the value of an input field. Also, if you investigate this, you'll very rarely see 'value' as an attribute when inspecting some HTML, but trust me, it works.
 
 ### Driver Interactions
 We also have a few ways in which we can interact with the Driver, or in other terms, the browser itself.  

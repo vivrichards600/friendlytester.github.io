@@ -8,7 +8,7 @@ signoff: true
 ---
 [Course Home](../../course) \| [What are Methods?](/programming/lessons/methodsandparameters){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/lessons/E_Methods.java){:target="_blank"}
 
-So we've already seen examples of methods in Java in the previous lessons, so lets keep this brief and explore what we haven't yet. If you've not done the basic programming course, you can click the link above to learn all about methods.
+So we've already seen examples of methods in Java in the previous lessons, so let's keep this brief and explore what we haven't yet. If you've not done the basic programming course, you can click the link above to learn all about methods.
 
 While there are technically more types of methods we are going to talk about two. A method that returns an object and a method that doesn't.
 
@@ -34,9 +34,9 @@ public class E_Methods
 ```
 
 ### Constructors
-A constructor is kind of like a method, however it doesn't return anything, not even a void. A constructor is a sub routine that is always ran a the time of creating an object.
+A constructor is kind of like a method, however, it doesn't return anything, not even a void. A constructor is a sub routine that always runs at the time of creating an object.
 
-We can create a constructor in Java bu creating a method with the same name as the class.
+We can create a constructor in Java by creating a method with the same name as the class.
 ```java
 public class E_Methods
 {
@@ -64,4 +64,3 @@ You can also have multiple constructors, so you can tailor the use of the class 
 The same applies for methods. You can have a method with the same name but takes different parameters.
 
 ### [Next Lesson &#10132;](../lessons/operators)
-

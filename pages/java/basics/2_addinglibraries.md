@@ -10,11 +10,11 @@ signoff: true
 
 As mentioned in the [Using IntelliJ](/java/intellij/lessons/usingintellij.html) lesson I tend to stick to Maven as my project management. So let's look at how we add libraries into our solution using Maven.
 
-When working with Maven we have to create a Project Object Model, commonly referred to as an POM file. This POM file instructs Maven on all it needs to know about our project and it's configuration information. Including the libraries we've added to our project.
+When working with Maven we have to create a Project Object Model, commonly referred to as a POM file. This POM file instructs Maven on all it needs to know about our project and its configuration information. Including the libraries, we've added to our project.
 
 To add a new library to our project we first have to find the library we need. I find all the libraries I need on the [Maven Central Repository](https://search.maven.org/). This is a remote repository where people can upload their Java libraries to, so others can benefit from them.
 
-So for example if we visit the site and search for 'Selenium Java', you should see the first result has follows
+So for example, if we visit the site and search for 'Selenium Java', you should see the first result as follows
 
 ![Maven search Selenium Java](/images/course/mavensearchseleniumjava.png)
 
@@ -34,7 +34,7 @@ This block of XML is what we need to be able to add Selenium-Java version 3.5.1 
 </dependencies>
 ```
 
-When you add this, you'll see a few things happen. You may see this popup
+When you add this, you'll see a few things happen. You may see this pop up
 
 ![Maven Enable Auto-Import](/images/course/mavenautoimport.png)
 

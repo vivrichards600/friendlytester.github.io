@@ -10,11 +10,11 @@ signoff: true
 Programming is a vast topic, probably daunting to beginners, there is a lot to learn, but with a bit of structure, everyone can learn to code.
 
 In a way, you are learning a new language, albeit a programming language.  
-At the same time we need to learn the terminology, concepts, principles and tools that support our programming.
+At the same time, we need to learn the terminology, concepts, principles and tools that support our programming.
 
 It's a lot to take in. But as far as I'm concerned, if you are new to programming, you're in the right place. Not my blog, or my course, although good choice, the fact that you are starting with the basics.  
 I see too many people diving straight into a language or tools/frameworks, googling and stackoverflowing their way to something that 'works', without any understanding of what code they copied is doing or why it works.  
-Such an approach will get you so far, but eventually you'll come undone, so I encourage people to start with the basics.
+Such an approach will get you so far, but eventually, you'll come undone, so I encourage people to start with the basics.
 
 So I've created a *course* covering basic programming stuff, all language independent (I hope), to prepare you for writing some code!  
 This course includes programming terminology, principles and concepts.

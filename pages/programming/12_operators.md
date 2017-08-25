@@ -8,9 +8,9 @@ signoff: true
 ---
 [Course Home](../course)
 
-Operators are symbols that tell the [compiler](../lessons/compilers) or interpreter to personal specific logic operations or mathematical calculations.
+Operators are symbols that tell the [compiler](../lessons/compilers) or an interpreter to provide specific logic operations or mathematical calculations.
 
-Important to understand all these operators, and the nice thing about them is the majority of them are the same in all languages. If you are using them on the same/equivalent [types](../lessons/types).
+It's important to understand all these operators, and the nice thing about them is the majority of them are the same in all languages. If you are using them on the same/equivalent [types](../lessons/types).
 
 #### Arithmetic
 Mostly used for math, but I see people use + a lot with strings.
@@ -34,7 +34,7 @@ Mostly used in [control structures](../lessons/controlstructures) to help us con
 | !a | Basically means NOT | This tends to only work on boolean types. !true if the expression is not true, carry on|
 
 #### Relational
-Used for type comparisons. A lot of this logic is what a test framework like junit is doing under the hood.
+Used for type comparisons. A lot of this logic is what a test framework like JUnit is doing under the hood.
 
 | Sample usage &nbsp;&nbsp;&nbsp;&nbsp; | In English      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Result                     |
 |------------------------|------------------|------------------------------------|

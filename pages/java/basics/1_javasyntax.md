@@ -10,18 +10,18 @@ signoff: true
 
 As mentioned in the programming basics course, each programming language has specific a specific syntax. A specific way to write code so that the [compiler](/programming/lessons/compiler) can compile it.
 
-Here is some code and comments to explain the basic Syntax of Java.
+Here are some code and comments to explain the basic Syntax of Java.
 
 ```java
 //This is a code comment
 
 //This is how we import another library or class in our class.
-//So in this instance, we want to use the Junit Test Library.
-//In this instance it's the Test class I want.
+//So in this instance, we want to use the JUnit Test Library.
+//In this instance, it's the Test class I want.
 import org.junit.Test;
 
 //We need to open our class. We start with public class followed by the name of our class.
-//So in this instance our class is called Syntax.
+//So in this instance, our class is called Syntax.
 public class Syntax
 
 //We then open curly braces. This means everything inside this brace is part of the class Syntax.
@@ -46,7 +46,7 @@ public class Syntax
 
 ```
 
-The nice thing about using an [IDE](/programming/lessons/ides) is that if you get this syntax wrong it will usually tell you. So in IntelliJ it will make the class red and but a squiggly red line under what it believes to be the cause.
+The nice thing about using an [IDE](/programming/lessons/ides) is that if you get this syntax wrong it will usually tell you. So in IntelliJ, it will make the class red and but a squiggly red line under what it believes to be the cause.
 
 ![IntelliJ Syntax Errors](/images/course/intellijsyntaxerror.png)
 

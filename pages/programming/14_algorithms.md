@@ -33,11 +33,11 @@ Now, the above scenario also shows the difficulty with programming and automatio
 5. Open mouth. How wide?
 6. Rinse mouth? The outside or inside of my mouth?
 
-We could go on. I added this because programming is difficult, but to also emphasis the huge difference between designing and implementing code.
+We could go on. I added this because programming is difficult, but to also emphasize the huge difference between designing and implementing code.
 
 ### Big-O-Notation
 I thought about explaining this, but quite frankly I cannot do as good a job as 'cletus' on [StackOverflow](https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation).  
-In short though, big-o-notation is a model to describe the complexity of an algorithm, I encourage you to check out the explantation linked above.
+In short, though, big-o-notation is a model to describe the complexity of an algorithm, I encourage you to check out the explanation linked above.
 
 ### [Next Lesson &#10132;](../lessons/abstraction)
 

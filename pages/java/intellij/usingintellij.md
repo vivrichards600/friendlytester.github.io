@@ -19,21 +19,21 @@ Just follow the instructions, and you can test it's installed after by running '
 ### Downloading code from GitHub
 Majority of people who share code online and at workshops tend to store their code in GitHub. So it's certainly a site worth getting familiar with. As is [git](https://git-scm.com/) itself for that matter. Here is a great [online tutorial](https://try.github.io/levels/1/challenges/1) for learning git, claims to take 15 mins. 
 
-With regard to my lessons, you just need to go the url provided with the lesson and click 'Download Zip' from the green button. Then unzip somewhere.  
+With regard to my lessons, you just need to go the URL provided with the lesson and click 'Download Zip' from the green button. Then unzip somewhere.  
 
 ![Download Zip](/images/course/gitdownloadzip.png)
 
 ### Importing a Project
 The projects that I share all currently use Maven. Maven is project management tool. It allows us to manage and control our project. For beginners though, just think of it as the way we manage dependencies and run our tests from a command line. You can usually tell a Java project is using maven by the fact it will have a 'pom.xml' file. You can read move about Maven on their [site](https://maven.apache.org).
 
-However, to import a maven project, we just open IntelliJ, click 'import project', navigate to our 'pom.xml' file, check 'Import maven projects automatically', you don't have to do this but I find it easier, ensure to select your JDK, give you project a name, choose and location and click finish.  
+However, to import a maven project, we just open IntelliJ, click 'import project', navigate to our 'pom.xml' file, check 'Import maven projects automatically', you don't have to do this but I find it easier, ensure to select your JDK, give you project a name, choose a location and click finish.  
 
 ![Import Maven Project with IntelliJ](/images/course/openproject.gif)
 
 ### Building a Project
-There are numerous ways to compile you program:
+There are numerous ways to compile your program:
 * Within IntelliJ on the top nav bar select Build > Build Project
-* Within IntelliJ, use keyboard shortcuts, on a mac it's Cmd+F9, and window it's Ctrl+F9
+* Within IntelliJ, use keyboard shortcuts, on a mac it's Cmd+F9, and window its Ctrl+F9
 * We can also use the command line as we're using maven, use 'mvn compile'
 
 For both the options in IntelliJ if you look down to the bottom right of the window you'll see a status message it will say 'building/compiling' and depending on the size of the program, you may see a build progress bar.  
@@ -44,7 +44,7 @@ This is where we navigate our code base, and where we can create new files. If y
 
 ![IntelliJ Project Window](/images/course/intellijprojectwindow.png)
 
-If you right click in a folder, you'll see 'New', from there you can add new files to your project.
+If you right click on a folder, you'll see 'New', from there you can add new files to your project.
 
 ### Running a Test
 We can tell that a method is a test, as it will have @Test above the method name. So the easiest way to run that test is to right click inside the method and select 'Run <method name>'.  
@@ -52,7 +52,7 @@ We can tell that a method is a test, as it will have @Test above the method name
 ![IntelliJ Run Test](/images/course/intelliruntest.png)
 
 ### Run Window
-Another window you should get use to is the Run Window. This window will automatically appear when you run a test. Or if you want to access it, you can also get it from View > Tool Windows > Run, or Cmd+4.  
+Another window you should get used to is the Run Window. This window will automatically appear when you run a test. Or if you want to access it, you can also get it from View > Tool Windows > Run or Cmd+4.  
 When you run a test, if your command some console logs, or the framework you are using has them, this is where they will appear.  
 If a test fails for you, this is where you should be looking for all the logs, to see if you can work out what has gone wrong.
 

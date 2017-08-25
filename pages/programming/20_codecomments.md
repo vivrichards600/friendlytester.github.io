@@ -8,7 +8,7 @@ signoff: true
 ---
 [Course Home](../course)
 
-They are as they sound, comments on code. Or more importantly, comments in code. Code comments are a syntax that allows you to write plain english (or your language) within your code.
+They are as they sound, comments on code. Or more importantly, comments in code. Code comments are a syntax that allows you to write plain English (or your language) within your code.
 
 These are incredibly useful for explaining to others what your code does, or what you hope it does. So as you'll see in my [Java Course](/java/course), I've used code comments extensively to explain what each line does.
 

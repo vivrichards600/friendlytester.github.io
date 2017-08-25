@@ -8,7 +8,7 @@ signoff: true
 ---
 [Course Home](../course)
 
-There is currently no more, sad face I know!
+There is currently no more, a sad face I know!
 
 ### Roadmap
 * Run window in IntelliJ

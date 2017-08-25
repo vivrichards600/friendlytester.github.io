@@ -10,7 +10,7 @@ signoff: true
 
 Control flow is how we control the logic and flow of code in our classes and therefore our solution.
 
-Java works in a sequential manner, code is executed top down. However, being object orientated, if we call a line that creates a new object, or a calls a method on an object, we'll go into that class and go top down, before eventually ending up back at the line we call from. You'll see this in practice once you get going and start [debugging](/java/intellij/lessons/debugging.html) code.
+Java works in a sequential manner, the code is executed top down. However, being object orientated, if we call a line that creates a new object, or a calls a method on an object, we'll go into that class and go top down, before eventually ending up back at the line we call from. You'll see this in practice once you get going and start [debugging](/java/intellij/lessons/debugging.html) code.
 
 ### Loops
 I've created a list of examples which you can get from the link above.  
