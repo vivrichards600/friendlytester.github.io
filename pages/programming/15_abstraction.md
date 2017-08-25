@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Abstraction
-permalink: /programming/lessons/Abstraction.html
+permalink: /programming/lessons/abstraction.html
 description: "What is Abstraction?"
 comments: true
 signoff: true
