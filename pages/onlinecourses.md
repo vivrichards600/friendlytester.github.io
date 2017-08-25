@@ -22,7 +22,7 @@ All the courses below are text and code based. No videos.
 Not sure if it's right to call this a course, perhaps more a collection of guides and useful material in a structured order.  
 This course will introduce you to the basic concepts and terminology associated with programming.
 
-[Checkout the course](/programming/course){:target="_blank"}
+[**Checkout the course**](/programming/course){:target="_blank"}
 <hr>
 ### Java Basics
 If you're new to Java and Programming I suggest you complete the 'Programming Basics' first, before tackling this one.
@@ -35,7 +35,7 @@ I common pattern I'm seeing in the industry is people diving straight into learn
 I strongly encourage you to get familiar with programming terminology and concepts. Then pick a language and get familiar with that. Then more to the frameworks.  
 Such a journey will hugely assist you with your automation journey, especially when you run into difficulties with the frameworks. 
 
-[Checkout the course](/java/course){:target="_blank"}
+[**Checkout the course**](/java/course){:target="_blank"}
 <hr>
 ### Selenium WebDriver in Java
 The same pattern applies as above. If you're looking to learn Selenium WebDriver and have no programming experience, I encourage you to complete the two above courses first.
@@ -43,7 +43,7 @@ The same pattern applies as above. If you're looking to learn Selenium WebDriver
 This is a free online version of my face to face workshop [Getting Started With Selenium WebDriver](/training/getting-started-with-selenium-webdriver/).  
 This course is designed to teach you all the basics you need to get started with Selenium WebDriver as well as snippets of my wisdom from using Selenium for 10 years.
 
-[Checkout the course](/selenium/course/){:target="_blank"}
+[**Checkout the course**](/selenium/course/){:target="_blank"}
 
 <hr>
 I hope to add more courses in the future, both free and on the [Ministry of Testing Dojo](https://dojo.ministryoftesting.com){:target="_blank"}, so if you don't already, follow me on social media or connect on LinkedIn to hear about them first.
