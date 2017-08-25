@@ -21,7 +21,6 @@ This is purely a text and code course, I'm going to be creating some supporting 
   * Running a Testing
 2. [Debugging](../intellij/lessons/debugging){:target="_blank"}
 3. [IntelliSense](../intellij/lessons/intellisense){:target="_blank"}
-4. [Roadmap](../intellij/lessons/roadmap){:target="_blank"}
    
 #### Java Basics
 1. [Java Syntax](/java/basics/lessons/javasyntax){:target="_blank"}
@@ -47,3 +46,5 @@ This is purely a text and code course, I'm going to be creating some supporting 
 5. [What are Assertions?](/java/junit/lessons/assertions){:target="_blank"}
 6. [What are Matchers?](/java/junit/lessons/matchers){:target="_blank"}
 7. [Running Your Tests](/java/junit/lessons/runningtests){:target="_blank"}
+
+[Roadmap](/java/course/roadmap){:target="_blank"}
