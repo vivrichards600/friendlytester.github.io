@@ -6,7 +6,7 @@ description: "A look at Decomposition in Java"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [What is Decomposition?](/programming/lessons/decomposition){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/lessons/M_Decomposition.java){:target="_blank"}
+[Course Home](../../course) \| [What is Decomposition?](/programming/lessons/decomposition){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/javalessons/M_Decomposition.java){:target="_blank"}
 
 The example for this is too long, so again please click the link above for a fully documented example.
 

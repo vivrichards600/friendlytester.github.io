@@ -6,7 +6,7 @@ description: "A look at methods in Java"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [What are Methods?](/programming/lessons/methodsandparameters){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/lessons/E_Methods.java){:target="_blank"}
+[Course Home](../../course) \| [What are Methods?](/programming/lessons/methodsandparameters){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/javalessons/E_Methods.java){:target="_blank"}
 
 So we've already seen examples of methods in Java in the previous lessons, so let's keep this brief and explore what we haven't yet. If you've not done the basic programming course, you can click the link above to learn all about methods.
 

@@ -6,7 +6,7 @@ description: "A look at Abstraction in Java"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [What is Abstraction?](/programming/lessons/abstraction){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/lessons/H_Abstraction.java){:target="_blank"}
+[Course Home](../../course) \| [What is Abstraction?](/programming/lessons/abstraction){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/javalessons/H_Abstraction.java){:target="_blank"}
 
 So as discussed in the Programming Basics course [abstraction](/programming/lessons/abstraction) is the process of hiding specifics, moving them away while ensuring the class still get the values it needs.
 

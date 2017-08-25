@@ -6,7 +6,7 @@ description: "A look at how to use types and objects in Java"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [What are Types and Objects?](/programming/lessons/typesandobjects){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/lessons/C_Types.java){:target="_blank"}
+[Course Home](../../course) \| [What are Types and Objects?](/programming/lessons/typesandobjects){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/javalessons/C_Types.java){:target="_blank"}
 
 All the major programming languages come with common types out of the box, and Java is no different. You can refer to the lesson above to learn more about specific types, here we are going to look at how to create instances of them in Java. 
 
