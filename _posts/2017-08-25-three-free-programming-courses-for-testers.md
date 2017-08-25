@@ -45,7 +45,7 @@ I'm not a good writer, or at least that's what I tell my self. Others tell me I 
 Content, if you think I'm missing something please reach out to me, or add a comment on the lesson or roadmap page for that course. If you think I've written something inaccurate or misleading, again please contact me or add a comment. Or as with the grammar, if you're comfortable with GitHub just go ahead and submit a PR on my [blog repo](https://github.com/FriendlyTester/friendlytester.github.io).
 
 ### Where?
-[Right here!](https://thefriendlytester.co.uk/training/online/).
+A page for all my online courses is [right here!](https://thefriendlytester.co.uk/training/online/). Or individually with lesson breakdown:
 * [Programming basics](/programming/course/)
 * [Java Basics](/java/course/) which includes IntelliJ and JUnit
 * [Selenium WebDriver in Java](/selenium/course/)
