@@ -74,4 +74,4 @@ This will do what it says, I've only ever needed to use this on multi-selects.
 This again will do what they same, follow the same pattern as the select examples above. 
 
 
-### [Next Lesson &#10132;](../lessons/selectelement)
+### [Next Lesson &#10132;](../lessons/waits)
