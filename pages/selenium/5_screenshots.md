@@ -25,4 +25,4 @@ This is the code to take a screenshot. I've explained it on the code example, so
 ### Different Browsers
 You can use this on all the drivers.
 
-### [Next Lesson &#10132;](../lessons/selectelement)
+### [Next Lesson &#10132;](../lessons/selectelements)
