@@ -8,7 +8,7 @@ signoff: true
 ---
 [Course Home](../course)
 
-Control flow or flow of control is blocks of code we create to control the direction we take through the code. It's common is programs to take a different direction based on some data. Think about a login screen. If the username and password are valid we log them in, if not valid, we don't. So there we need conditional logic in our program. 
+Control flow or flow of control is blocks of code we create to control the direction we take through the code. It's common in programs to take a different direction based on some data. Think about a login screen. If the username and password are valid we log them in, if not valid, we don't. So there we need conditional logic in our program. 
 
 ### Sequence
 In very simple terms it's the order we specify things to happen. The large majority of programming languages will run top down. Meaning they'll start with line one of your code and then on to line 2 and so forth. Line one may take them to a whole new file, but the same principle applies, it will work it's way down that file until eventually ending back at line one of the first file before progressing to line 2.
