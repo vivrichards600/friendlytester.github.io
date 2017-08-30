@@ -13,6 +13,14 @@
     url:  https://dojo.ministryoftesting.com/events/testbash-brighton-2018
     country:  England
     year: 2018
+    
+  - startdate: 4th December 2017
+    enddate: 6th December 2017
+    name: Technical Mobile Testing
+    role: [Tutorial]
+    url:  https://dojo.ministryoftesting.com/events/technical-mobile-testing-3-day-class-manchester-richard-bradshaw
+    country:  England
+    year: 2017
 
   - startdate: 9th November 2017
     enddate: 10th November 2017
