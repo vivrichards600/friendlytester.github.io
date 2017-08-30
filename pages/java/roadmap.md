@@ -13,6 +13,7 @@ There is currently no more, a sad face I know!
 ### Roadmap
 * Run window in IntelliJ
 * Categories in JUnit
+* Expand more about Primitive and Ojbects in Java. Specifically Int and Integer. Suggested by Vikram
 
 As and when I think about things to add to this, I add them to my personal backlog.  
 If there is something specific you'd like to see on my roadmap for Basic Java please leave a comment below.
