@@ -41,4 +41,4 @@ public class N_CodeComments
 
 Using code comments is something that most developers frown upon. Their argument is that the code should be self-explanatory. Class, Methods and Variables should all be well named, so that's immediately clear what they are for, or what they do. I can understand that stance. But you are new to Java, so add as many comments and you need, and keep adding them until you are comfortable enough not to.
 
-### [Next Lesson &#10132;](../lessons/debugging)
+### [Next Lesson &#10132;](/java/course/roadmap)
