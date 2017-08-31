@@ -56,12 +56,12 @@ public class B_CreatingATestFixture
 ```
 
 ### @BeforeClass and @AfterClass
-You can see where this is going right. @BeforeClass will run just once before any of the tests in the class. So if you run the whole class, the method annotated with @Before will get execute just once before the first test, and then never again. The same with @AfterClass, the method annotated with this will run once after all the tests are completed. Common usage for these annotations is opening and closing a database connection before all the tests. Or perhaps if doing some UI work, getting the application on a specific page ready for all the tests. Or could even be deploying a new instance of the application.
+You can see where this is going right. @BeforeClass will run just once before any of the tests in the class. So if you run the whole class, the method annotated with @Before will get executed just once before the first test, and then never again. The same with @AfterClass, the method annotated with this will run once after all the tests are completed. Common usage for these annotations is opening and closing a database connection before all the tests. Or perhaps if doing some UI work, getting the application on a specific page ready for all the tests. Or could even be deploying a new instance of the application.
 
 With regard to myself, I tend not to use the before and after class. I tend to stick to before and after test, I like to keep my tests completely independent of each other. 
 
 ### JUnit 5
-JUnit 5 is currently in the process and will some changes to these annotations. @Before will be replaced by @BeforeEach. @BeforeClass will be replaced by @BeforeAll.
+JUnit 5 is currently in the process and will have some changes to these annotations. @Before will be replaced by @BeforeEach. @BeforeClass will be replaced by @BeforeAll.
 
 ### [Next Lesson &#10132;](../lessons/assertions)
 

@@ -21,7 +21,7 @@ A static field or method belongs to the class, and not the instance of the class
 So in Java, we have four types of variables.
 
 #### 1) Instance Variables
-These are where the variables belong to the class but are not static. So whenever we make a new instance, that instance has its own variables. Those object will then likely have methods that allow you to change the values of those variables. Commonly in Java, such as a variable with have a Getter and Setter. The getter is a method that returns the value, and the setter is a method that allows us to set the value of the variable.
+These are where the variables belong to the class but are not static. So whenever we make a new instance, that instance has its own variables. Those objects will then likely have methods that allow you to change the values of those variables. Commonly in Java, such as a variable with have a Getter and Setter. The getter is a method that returns the value, and the setter is a method that allows us to set the value of the variable.
 
 #### 2) Class Variables
 This would be a variable that is static. So whenever a new instance is made, new instances of those variables are not. All the instance will read from the same variable.
