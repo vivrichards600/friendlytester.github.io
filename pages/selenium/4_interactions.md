@@ -6,7 +6,7 @@ description: "A look at the basic interactions we can do with Selenium WebDriver
 comments: true
 signoff: true
 ---
-[Course Home](../course) \| [Code Examples](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/D_Interactions.java)
+[Course Home](../course) \| [Code Examples](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/D_Interactions.java){:target="_blank"}
 
 Let's recap. We can now open a browser, navigate to our test site, and find elements on the page that we wish to interact with. So what are these interactions, what can we do with WebDriver?
 

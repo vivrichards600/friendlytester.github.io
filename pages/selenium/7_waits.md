@@ -6,7 +6,7 @@ description: "A look at the options we have available for waiting in Selenium We
 comments: true
 signoff: true
 ---
-[Course Home](../course) \| [Code Examples](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/G_Waits.java)
+[Course Home](../course) \| [Code Examples](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/G_Waits.java){:target="_blank"}
 
 Now if you remember in lesson 3, I said locators was arguably one of the most important skills to master when working with Selenium WebDriver, well waits is another.  
 As per locators, it's not the WebDriver commands that you need to master, it's understanding and modelling your application to get the right wait strategy.  

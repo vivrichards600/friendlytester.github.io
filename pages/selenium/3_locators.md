@@ -6,7 +6,7 @@ description: "A look at all the locator strategies available in Selenium WebDriv
 comments: true
 signoff: true
 ---
-[Course Home](../course) \| [Code Examples](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/C_Locators.java)
+[Course Home](../course) \| [Code Examples](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/C_Locators.java){:target="_blank"}
 
 Arguably one of the most important skills when it comes to automating Web Applications is finding good reliable locators. I consider it a real skill.   
 

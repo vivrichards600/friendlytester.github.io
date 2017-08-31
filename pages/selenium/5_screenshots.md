@@ -6,7 +6,7 @@ description: "How to take a screenshot with Selenium WebDriver"
 comments: true
 signoff: true
 ---
-[Course Home](../course) \| [Code Examples](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/E_Screenshots.java)
+[Course Home](../course) \| [Code Examples](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/E_Screenshots.java){:target="_blank"}
 
 Now we can navigate to sites, and interaction with them to repeat behaviour, we may want to see what the screen looks like every now and again.  
 It's important to remember that WebDriver doesn't visually check your site. Your site could be a complete mess and your checks still be passing.
