@@ -8,7 +8,9 @@ signoff: true
 ---
 [Course Home](../course)
 
-There is currently no more, a sad face I know!
+There is currently no more, a sad face I know!  
+
+If you got some value from this class, and are willing, can you add a comment below as an endorsement?
 
 ### Roadmap
 * Run window in IntelliJ

@@ -10,6 +10,8 @@ signoff: true
 
 There is currently no more, sad face I know!
 
+If you got some value from this class, and are willing, can you add a comment below as an endorsement?
+
 Here is a list of what I'll be adding in the near future:
 
 * Actions
