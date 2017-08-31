@@ -28,7 +28,7 @@ public class A_CreatingTests
     }
 }
 ```
-This block of code will now be recognised as a test by the test runner. We looking at running them in a few lessons time.
+This block of code will now be recognised as a test by the test runner. We look at running them in a few lessons time.
 
 ### [Next Lesson &#10132;](../lessons/whataretestfixtures)
 
