@@ -9,6 +9,7 @@ tags:
  - Selenium WebDriver
  - WebDriver
 signoff: true
+comments: true
 ---
 I currently have three courses available on this site, all free. Those are Programming Basics, Java Basics (incs IntelliJ and JUnit) and Selenium WebDriver in Java. I'm also working on numerous video courses that will be available on the [Ministry of Testing Dojo](https://dojo.ministryoftesting.com){:target="_blank"}.
 
