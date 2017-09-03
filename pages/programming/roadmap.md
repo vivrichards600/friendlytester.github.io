@@ -8,7 +8,7 @@ signoff: true
 ---
 [Course Home](../course)
 
-If you got some value from this class, and are willing, can you add a comment below as an endorsement?
+If you got some value from this class, and are willing, can you add a comment the [course list](/training/online) page as an endorsement?
 
 I currently don't have anything else planned for this course. However, I'm going to be creating a video version for [The Dojo](dojo.ministryoftesting.com) over at [Ministry of Testing](ministryoftesting.com), so if you haven't checked out The Dojo, I encourage you to do so.
 
