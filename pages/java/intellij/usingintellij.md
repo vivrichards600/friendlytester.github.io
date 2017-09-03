@@ -24,7 +24,7 @@ With regard to my lessons, you just need to go the URL provided with the lesson 
 ![Download Zip](/images/course/gitdownloadzip.png)
 
 ### Importing a Project
-The projects that I share all currently use Maven. Maven is project management tool. It allows us to manage and control our project. For beginners though, just think of it as the way we manage dependencies and run our tests from a command line. You can usually tell a Java project is using maven by the fact it will have a 'pom.xml' file. You can read move about Maven on their [site](https://maven.apache.org).
+The projects that I share all currently use Maven. Maven is project management tool. It allows us to manage and control our project. For beginners though, just think of it as the way we manage dependencies and run our tests from a command line. You can usually tell a Java project is using maven by the fact it will have a 'pom.xml' file. You can read more about Maven on their [site](https://maven.apache.org).
 
 However, to import a maven project, we just open IntelliJ, click 'import project', navigate to our 'pom.xml' file, check 'Import maven projects automatically', you don't have to do this but I find it easier, ensure to select your JDK, give you project a name, choose a location and click finish.  
 
