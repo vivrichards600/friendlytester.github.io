@@ -27,7 +27,7 @@ description: "A list of my upcoming and past conference engagements"
   <span>{{ event.startdate | date: "%e" }}-{{ event.enddate | date: "%e %B %Y" }}</span>
   {% endif %}
   <span class="orangepipe"> | </span>
-  {% if event.url != null %}
+  {% if event.url != nil %}
   <span><a href="{{ conference.url }}">{{event.name}}</a></span>
   {% else %}
   <span>{{ event.name }}</span>
