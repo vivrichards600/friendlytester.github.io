@@ -8,7 +8,7 @@ signoff: true
 ---
 [Course Home](../course)
 
-In the previous lesson we explored [types](/programming/lessons/typesandobjects), in order to use these types in our code, and any other [objects](/programming/lessons/classesandobjects) that we've made or are getting from [libraries](programming/lessons/packagesandlibraries) we need to create a new instance and give them a name. That name is called a variable.
+In the previous lesson we explored [types](/programming/lessons/typesandobjects), in order to use these types in our code, and any other [objects](/programming/lessons/classesandobjects) that we've made or are getting from [libraries](/programming/lessons/packagesandlibraries) we need to create a new instance and give them a name. That name is called a variable.
 
 Let say we have a [class](/programming/lessons/classesandobjects) called Person. We want to have three properties about a person. Their first name, age and height. We know what those [types](/programming/lessons/typesandobjects) are going to be, so we can now create those properties in code as variables.
 
