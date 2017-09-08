@@ -10,7 +10,7 @@ signoff: true
 
 Operators are symbols that tell the [compiler](../lessons/compilers) or an interpreter to provide specific logic operations or mathematical calculations.
 
-It's important to understand all these operators, and the nice thing about them is the majority of them are the same in all languages. If you are using them on the same/equivalent [types](../lessons/types).
+It's important to understand all these operators, and the nice thing about them is the majority of them are the same in all languages. If you are using them on the same/equivalent [types](../lessons/typesandobjects).
 
 #### Arithmetic
 Mostly used for math, but I see people use + a lot with strings.
@@ -24,13 +24,13 @@ Mostly used for math, but I see people use + a lot with strings.
 | a % b | a mod b | It returns the remainder of the division. So 8 % 5 would give you 3 |
 
 #### Logical
-Mostly used in [control structures](../lessons/controlstructures) to help us control the flow of our code.
+Mostly used in [control flow](../lessons/controlflow) to help us control the flow of our code.
 
 | Sample usage &nbsp;&nbsp;&nbsp;&nbsp; | In English      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Result                     |
 |------------------------|------------------|------------------------------------|
 | a & b | Evaluate all values and returns [logical conjunction \(AND\)](https://en.wikipedia.org/wiki/Logical_conjunction) | Lets assume these are boolean. true & false would return false. <br>|
 | a && b | Evaluates all values, but stops if first is false | So false && true would return false, but not evaluate or run b.
-| a \|\| b | Evaluates all values and returns the [logical disjunction \(OR\)](https://en.wikipedia.org/wiki/en:Logical_disjunction) | Used in [Control Structures](../lessons/controlstructures) to see if a or b is true, carry on|
+| a \|\| b | Evaluates all values and returns the [logical disjunction \(OR\)](https://en.wikipedia.org/wiki/en:Logical_disjunction) | Used in [Control Flow](../lessons/controlflow) to see if a or b is true, carry on|
 | !a | Basically means NOT | This tends to only work on boolean types. !true if the expression is not true, carry on|
 
 #### Relational
