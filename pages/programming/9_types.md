@@ -28,7 +28,7 @@ A float is used to store decimal points like a double, but has less precision.
 Important to know about them, but unless you are writing a very memory conscious application, int and double will always be fine.
 
 #### Boolean
-Very simple, it stores true of false. Commonly used in [Control Structures](/programming/lessons/controlstructures).
+Very simple, it stores true of false. Commonly used in [Control Flows](/programming/lessons/controlflow).
 
 #### Char
 Is a type to store single characters, e.g 'a', 't'. Its max length is 16-bit.
