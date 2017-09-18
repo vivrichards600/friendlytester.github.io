@@ -21,6 +21,14 @@
     url:  https://dojo.ministryoftesting.com/events/testbash-brighton-2018
     country:  England
     year: 2018
+
+  - startdate: 19th February 2018
+    enddate: 20th February 2018
+    name: European Testing Conference
+    role: [Supporter - 10% off with code 'FRIENDSOFRICHARD']
+    url:  http://europeantestingconference.eu/2018/
+    country:  Netherlands
+    year: 2018
     
   - startdate: 4th December 2017
     enddate: 6th December 2017
