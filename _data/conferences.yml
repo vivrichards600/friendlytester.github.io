@@ -5,6 +5,14 @@
     url:  https://dojo.ministryoftesting.com/events
     country:  Ireland
     year: 2018
+    
+  - startdate: 12th April 2018
+    enddate: 13th April 2018
+    name: TestBash Netherlands
+    role: [Organiser]
+    url:  https://dojo.ministryoftesting.com/events
+    country:  Netherlands
+    year: 2018
 
   - startdate: 15th March 2018
     enddate: 16th March 2018
