@@ -18,7 +18,7 @@ There are many ways to inform Selenium on the location of the drivers. Choose th
 * [PATH](https://stackoverflow.com/questions/44272416/how-to-add-a-folder-to-path-environment-variable-in-windows-10-with-screensho), on a windows machine we can add the full path to the ChromeDriver.exe to our environment variables PATH.
 * Bin folders. On a Mac, we can add the Drivers to either /usr/bin or /usr/bin/local.
 * Specific to Java, we can also set system properties to instruct Selenium on the path of the driver
-* You can also you Driver options, we're going to look at them in another lesson.
+* You can also use Driver options, we're going to look at them in another lesson.
 
 ### Chrome
 We'll start with Chrome, as that is currently my default browser.  
