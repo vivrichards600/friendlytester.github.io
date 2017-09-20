@@ -18,4 +18,4 @@ A specific application of this in the testing space is the PageObject pattern, c
 
 #### Resources
 [https://docs.oracle.com/javase/tutorial/java/concepts/polymorphism.html](https://docs.oracle.com/javase/tutorial/java/concepts/polymorphism.html){:target="_blank"}  
-[https://stackoverflow.com/questions/6308178/what-is-the-main-difference-between-inheritance-and-polymorphism](https://docs.oracle.com/javase/tutorial/java/concepts/polymorphism.html){:target="_blank"}
+[https://stackoverflow.com/questions/6308178/what-is-the-main-difference-between-inheritance-and-polymorphism](https://stackoverflow.com/questions/6308178/what-is-the-main-difference-between-inheritance-and-polymorphism){:target="_blank"}
