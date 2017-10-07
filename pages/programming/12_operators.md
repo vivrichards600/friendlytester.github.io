@@ -19,7 +19,7 @@ Mostly used for math, but I see people use + a lot with strings.
 |------------------------|------------------|------------------------------------|
 | a + b         | a plus b         | If the types were numbers, 1 + 2 would give you 3. <br>If they were strings, "richard" + "tester" would give you "richardtester" |
 | a - b | a minus b | If the types were numbers 5 -1 would give you 4 |
-| a * b | a times b | If the types were numbers 2 * 2 would give you 6 |
+| a * b | a times b | If the types were numbers 2 * 2 would give you 4 |
 | a / b | a divide b | If the types were numbers 8 / 2 would give you 4 |
 | a % b | a mod b | It returns the remainder of the division. So 8 % 5 would give you 3 |
 
