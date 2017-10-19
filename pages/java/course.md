@@ -18,7 +18,7 @@ This is purely a text and code course, I'm going to be creating some supporting 
   * Opening projects
   * Building projects
   * Windows
-  * Running a Testing
+  * Running a Test
 2. [Debugging](../intellij/lessons/debugging){:target="_blank"}
 3. [IntelliSense](../intellij/lessons/intellisense){:target="_blank"}
    
