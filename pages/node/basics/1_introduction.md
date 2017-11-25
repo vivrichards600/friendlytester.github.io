@@ -1,16 +1,14 @@
 ---
 layout: page
-title: JavaScript/Node introduction
+title: Node introduction
 permalink: /node/basics/lessons/introduction.html
 description: "An introduction to JavaScript/Node"
 comments: true
 signoff: true
 ---
-# JavaScript and Node.JS
+[Course Home](../../course) \| [Programming](/programming/lessons/programming){:target="_blank"}
 
-## A little history
-
-Before we start looking at code it's worth learning a bit of history around the relationship of JavaScript and Node. If you've ever accessed a web page then you have undoubtely used JavaScript. Whenever a new element is created on a web page, the style of some text changes suddenly or new values are injected into a table it's likely that JavaScript was used to create that behaviour.
+Before we start looking at code it's worth learning a bit of history around the relationship of JavaScript and Node. If you've ever accessed a web page then you have undoubtedly used JavaScript. Whenever a new element is created on a web page, the style of some text changes suddenly or new values are injected into a table it's likely that JavaScript was used to create that behaviour.
 
 Over the past 20+ years JavaScript has become more and more advanced, with companies now developing whole applications that run within the browser (as in they don't have a backend at all). This has been in part due to the active development carried out by organisations such as Microsoft, Mozilla and Google, whose V8 JavaScript engine that lives in Chrome was the basis of Node.JS.
 
@@ -18,11 +16,11 @@ Over the past 20+ years JavaScript has become more and more advanced, with compa
 
 ## Node.JS architecture
 
-Unlike other languages like [Java](https://thefriendlytester.co.uk/java/course/), Ruby or C#, Node works a little differently. Node operates on a single thread, executing methods asynchrounously. This means the sytnax for Node differs from other languages. To understand this in more depth let's compare an example of Java vs Node.JS.
+Unlike other languages like [Java](https://thefriendlytester.co.uk/java/course/), Ruby or C#, Node works a little differently. Node operates on a single thread, executing methods asynchronously. This means the syntax for Node differs from other languages. To understand this in more depth let's compare an example of Java vs Node.JS.
 
 First up, let's say we have this code in Java:
 
-```
+```javascript
 // Print first message
 System.out.println("Event 1");
 
@@ -44,7 +42,7 @@ This is because Java works from top to bottom executing each line, waiting for t
 
 Now let's take a look at something similar in Node.JS:
 
-```
+```javascript
 // Wait five seconds and then print the first message
 setTimeout(function(){
     console.log("Event 1")
@@ -75,7 +73,7 @@ One of the reasons Node is popular is because it's a _[dynamic language](tba)_. 
 
 Let's take another look at ```setTimeout``` again from the previous example:
 
-```
+```javascript
 setTimeout(function(){
     console.log("Event 1")
   }, 5000);
@@ -83,7 +81,7 @@ setTimeout(function(){
 
 ```setTimeout``` takes two [parameters](https://thefriendlytester.co.uk/programming/lessons/methodsandparameters). The first is a function that we want to run after the timer has expired and the second is the time in milliseconds to wait. If we were to look at the guts of the setTimeout [function](https://thefriendlytester.co.uk/programming/lessons/methodsandparameters) it might look something like:
 
-```
+```javascript
 function setTimeout(myCustomFunction, timeToWait){
   wait(timeToWait); // Or similar
   myCustomFunction();
@@ -97,3 +95,5 @@ The declaring and running of ```myCustomFunction``` is known as a callback as it
 ## Wrapping up
 
 This can all seem a little confusing at first, but it's essential to understand before starting anything advanced with Node. Remember if you find yourself asking _'why is X running before Y'_ then it is probably due to an issue with callbacks.
+
+### [Next Lesson &#10132;](../lessons/nodesyntax.html)

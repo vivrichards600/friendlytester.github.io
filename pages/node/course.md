@@ -9,4 +9,5 @@ Welcome to my free JavaScript / Node.JS basic course. This course is an accompan
 
 ### Lessons
 #### JavaScript/Node Basics
-1. [Introduction JavaScript/Node](/node/basics/lessons/introduction){:target="_blank"}
+1. [Introduction JavaScript & Node](/node/basics/lessons/introduction){:target="_blank"}
+2. [Node Syntax](/node/basics/lessons/nodesyntax){:target="_blank"}
