@@ -6,7 +6,7 @@ description: "A look at how to add libraries to a project using maven"
 comments: true
 signoff: true
 ---
-[Course Home](../../course) \| [What are packages?](/programming/lessons/packagesandlibraries){:target="_blank"} \| [Package example Example](https://github.com/mwinteringham/free-node-basics-course/blob/master/package.json){:target="_blank"}
+[Course Home](../../course) \| [What are packages?](/programming/lessons/packagesandlibraries){:target="_blank"} \| [Package  Example](https://github.com/mwinteringham/free-node-basics-course/blob/master/package.json){:target="_blank"}
 
 Node manages libraries through a tool called Node Package Manager or NPM for short.
 NPM manages the installation of libraries, run your projects and contains details on your project. This is all controlled via a file in your project called ```package.json``` that will look something like this:
@@ -118,4 +118,4 @@ Once installed, take a look at your project folder. You will notice a ```node_mo
 
 If you are working with a pre-existing project then you can run ```npm install``` and this will use the ```package.json``` to install all necessary libraries for the project
 
-### [Next Lesson &#10132;](../lessons/tbc)
+### [Next Lesson &#10132;](../lessons/types.html)
