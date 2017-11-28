@@ -29,7 +29,7 @@ var myVariable = "A string";
 // function is called.
 var myFunction = function ()
 {
-    // We do cool stuff here
+  // We do cool stuff here
 }
 
 // If we want our function to be used by code in other files we can assign our

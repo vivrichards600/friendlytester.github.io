@@ -38,8 +38,8 @@ var myFunction    = function(){
                        return "Hello";
                    }
 var myObject      = {
-   "myObjectsInt" : 33,
-   "myObjectsString" : "I live in an object"
+  "myObjectsInt" : 33,
+  "myObjectsString" : "I live in an object"
 }
 
 // Because myInt is an integer, Node allows me to do math with it
@@ -77,4 +77,4 @@ This means you can quickly create code without worrying about declaring type for
 
 Have a look at the code example for some code you can download and run and see how these types behave.
 
-### [Next Lesson &#10132;](../lessons/tbc)
+### [Next Lesson &#10132;](../lessons/functions.html)
