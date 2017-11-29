@@ -65,4 +65,4 @@ console.log(mySecondObject.aSubObject.mySubString);
 console.log(mySecondObject.anArrayOfObjects[1].subString);
 ```
 
-### [Next Lesson &#10132;](../lessons/tbc)
+### [Next Lesson &#10132;](../lessons/operators.html)
