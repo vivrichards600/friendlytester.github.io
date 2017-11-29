@@ -88,4 +88,4 @@ myFifthFunction();
 mySixFunction();
 ```
 
-### [Next Lesson &#10132;](../lessons/operators)
+### [Next Lesson &#10132;](../lessons/objects.html)

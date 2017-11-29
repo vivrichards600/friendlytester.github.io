@@ -12,5 +12,6 @@ Welcome to my free JavaScript / Node.JS basic course. This course is an accompan
 1. [Introduction JavaScript & Node](/node/basics/lessons/introduction){:target="_blank"}
 2. [Node Syntax](/node/basics/lessons/nodesyntax){:target="_blank"}
 3. [Adding libraries](/node/basics/lessons/usinglibraries){:target="_blank"}
-4. [Types and Objects](/node/basics/lessons/types){:target="_blank"}
+4. [Types](/node/basics/lessons/types){:target="_blank"}
 5. [Functions](/node/basics/lessons/functions){:target="_blank"}
+6. [Objects](/node/basics/lessons/objects){:target="_blank"}

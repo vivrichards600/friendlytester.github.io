@@ -2,7 +2,7 @@
 layout: page
 title: Types in Node
 permalink: /node/basics/lessons/types.html
-description: "A look at how to use types and objects in Node"
+description: "A look at how to use types in Node"
 comments: true
 signoff: true
 ---
@@ -37,10 +37,6 @@ var myStringArray = ["Mark", "Node", "Testing"];
 var myFunction    = function(){
                        return "Hello";
                    }
-var myObject      = {
-  "myObjectsInt" : 33,
-  "myObjectsString" : "I live in an object"
-}
 
 // Because myInt is an integer, Node allows me to do math with it
 // If you run this, you should get 330 in the console
@@ -67,13 +63,9 @@ console.log(myIntArray[0]);
 
 // This will print the output of our function which will be "Hello"
 console.log(myFunction());
-
-// This will print out the string "I live in an object" as it's a variable that lives
-// within an object
-console.log(myObject.myObjectsString);
 ```
 
-This means you can quickly create code without worrying about declaring type for each variable as well as do some interesting things with functions and object, which we learn about later.
+This means you can quickly create code without worrying about declaring type for each variable as well as do some interesting things with functions, which we learn about later.
 
 Have a look at the code example for some code you can download and run and see how these types behave.
 
