@@ -15,3 +15,8 @@ Welcome to my free JavaScript / Node.JS basic course. This course is an accompan
 4. [Types](/node/basics/lessons/types){:target="_blank"}
 5. [Functions](/node/basics/lessons/functions){:target="_blank"}
 6. [Objects](/node/basics/lessons/objects){:target="_blank"}
+7. [Operators](/node/basics/lessons/operators){:target="_blank"}
+8. [Control Flow](/node/basics/lessons/controlflow){:target="_blank"}
+9. [Abstraction](/node/basics/lessons/abstraction){:target="_blank"}
+10. [Encapsulation](/node/basics/lessons/encapsulation){:target="_blank"}
+11. [Prototypes](/node/basics/lessons/prototypes){:target="_blank"}

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Prototypes in Node
-permalink: /node/basics/lessons/Prototypes.html
+permalink: /node/basics/lessons/prototypes.html
 description: "A look at Prototypes in Node"
 comments: true
 signoff: true
