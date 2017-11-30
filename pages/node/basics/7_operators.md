@@ -36,4 +36,4 @@ console.log(typeof 1);      // returns Number
 console.log(typeof true);   // returns Boolean
 ```
 
-### [Next Lesson &#10132;](../lessons/controlflow)
+### [Next Lesson &#10132;](../lessons/controlflow.html)
