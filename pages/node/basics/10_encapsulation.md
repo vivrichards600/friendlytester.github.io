@@ -26,4 +26,4 @@ In the programming basics course, we talk about Public, Private, Protected and I
 
 The divide is actually quite simple. Anything that is declared within the module.exports object is accessible and anything else that sits outside of module.exports is not. Please look at the links above for full code examples which demonstrate what can and cannot be accessed.
 
-### [Next Lesson &#10132;](../lessons/inheritance)
+### [Next Lesson &#10132;](../lessons/prototypes.html)
