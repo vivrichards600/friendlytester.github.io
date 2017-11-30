@@ -14,4 +14,4 @@ A useful heuristic when thinking about abstraction is DRY. Don't Repeat Yourself
 
 Please use the link about to see some examples in Node.
 
-### [Next Lesson &#10132;](../lessons/encapsulation)
+### [Next Lesson &#10132;](../lessons/encapsulation.html)
