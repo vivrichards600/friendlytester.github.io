@@ -14,6 +14,7 @@ If you got some value from this class, and are willing, can you add a comment th
 
 ### Roadmap
 * Update to / or add in ECMAScript 2015 examples
+* Details on how to run Mocha inside VSCode
 
 As and when I think about things to add to this, I add them to my personal backlog.  
 If there is something specific you'd like to see on my roadmap for Basic Node please leave a comment below.

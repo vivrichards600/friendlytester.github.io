@@ -20,3 +20,11 @@ Welcome to my free JavaScript / Node.JS basic course. This course is an accompan
 9. [Abstraction](/node/basics/lessons/abstraction){:target="_blank"}
 10. [Encapsulation](/node/basics/lessons/encapsulation){:target="_blank"}
 11. [Prototypes](/node/basics/lessons/prototypes){:target="_blank"}
+
+#### Mocha
+1. [What is Mocha?](/node/mocha/lessons/whatismocha){:target="_blank"}
+2. [Setting up Mocha](/node/mocha/lessons/settingupmocha){:target="_blank"}
+3. [Creating tests with Mocha](/node/mocha/lessons/creatingtestsinmocha){:target="_blank"}
+4. [What are hooks?](/node/mocha/lessons/whatarehooks.html){:target="_blank"}
+5. [What are assertions?](/node/mocha/lessons/assertions.html){:target="_blank"}
+6. [Running your tests](/node/mocha/lessons/runningtests.html){:target="_blank"}
