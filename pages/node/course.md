@@ -8,6 +8,16 @@ signoff: true
 Welcome to my free JavaScript / Node.JS basic course. This course is an accompanies the the [free Java basics course](https://thefriendlytester.co.uk/java/course/) created by [Richard Bradshaw](https://thefriendlytester.co.uk). I would recommend before you start this course that you read through the [free programming basics course](https://thefriendlytester.co.uk/programming/course/) created by [Richard](https://thefriendlytester.co.uk).
 
 ### Lessons
+#### VSCode
+1. [Using VSCode](../vscode/lessons/usingintellij){:target="_blank"}
+  * Downloading and Installing
+  * Opening projects
+  * Building projects
+  * Windows
+  * Running a Test
+2. [Debugging](../vscode/lessons/debugging){:target="_blank"}
+3. [IntelliSense](../vscode/lessons/intellisense){:target="_blank"}
+
 #### JavaScript/Node Basics
 1. [Introduction JavaScript & Node](/node/basics/lessons/introduction){:target="_blank"}
 2. [Node Syntax](/node/basics/lessons/nodesyntax){:target="_blank"}
