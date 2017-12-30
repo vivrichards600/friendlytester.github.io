@@ -38,9 +38,6 @@ bing_verify:
 links:
   - title: Blog
     url: /
-  - title: TestBash Philadelphia
-    url: https://dojo.ministryoftesting.com/events/testbash-philadelphia-2017?utm_source=friendlytester&utm_medium=banner
-    external: true
   - title: Events
     url: /events
   - title: Online Courses
