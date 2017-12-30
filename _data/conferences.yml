@@ -30,6 +30,14 @@
     country:  Netherlands
     year: 2018
     
+  - startdate: 8th January 2018
+    enddate: 10th January 2018
+    name: Automation Guild
+    role: Speaker
+    url:  https://automationguild.com/
+    country:  Online
+    year: 2018
+    
   - startdate: 4th December 2017
     enddate: 6th December 2017
     name: Technical Mobile Testing
