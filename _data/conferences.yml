@@ -1,4 +1,4 @@
-  - startdate: 18th May 2018
+  - startdate: 2018-05-18
     enddate:
     name: TestBash Dublin
     role: [Organiser]
@@ -6,71 +6,103 @@
     country:  Ireland
     year: 2018
     
-  - startdate: 12th April 2018
-    enddate: 13th April 2018
+  - startdate: 2018-09-14
+    enddate:
+    name: TestBash Germany
+    role: [Organiser]
+    url:  https://dojo.ministryoftesting.com/events
+    country:  Germany
+    year: 2018
+
+  - startdate: 2018-09-27
+    enddate: 2018-09-28
+    name: TestBash Manchester
+    role: [Organiser]
+    url:  https://dojo.ministryoftesting.com/events
+    country:  England
+    year: 2018
+    
+  - startdate: 2018-10-19
+    enddate:
+    name: TestBash Australia
+    role: [Organiser]
+    url:  https://dojo.ministryoftesting.com/events
+    country:  Australia
+    year: 2018
+    
+  - startdate: 2018-11-09
+    enddate: 2018-11-10
+    name: TestBash San Francisco
+    role: [Organiser]
+    url:  https://dojo.ministryoftesting.com/events
+    country:  USA
+    year: 2018
+    
+  - startdate: 2018-04-12
+    enddate: 2018-04-13
     name: TestBash Netherlands
     role: [Organiser]
     url:  https://dojo.ministryoftesting.com/events
     country:  Netherlands
     year: 2018
 
-  - startdate: 15th March 2018
-    enddate: 16th March 2018
+  - startdate: 2018-03-15
+    enddate: 2018-03-16
     name: TestBash Brighton
     role: [Organiser]
     url:  https://dojo.ministryoftesting.com/events/testbash-brighton-2018
     country:  England
     year: 2018
 
-  - startdate: 19th February 2018
-    enddate: 20th February 2018
+  - startdate: 2018-02-19
+    enddate: 2018-02-20
     name: European Testing Conference
     role: [Supporter - 10% off with code 'FRIENDSOFRICHARD']
     url:  http://europeantestingconference.eu/2018/
     country:  Netherlands
     year: 2018
     
-  - startdate: 8th January 2018
-    enddate: 10th January 2018
+  - startdate: 2018-01-08
+    enddate: 2018-01-10
     name: Automation Guild
-    role: Speaker
+    role: [Talk]
     url:  https://automationguild.com/
     country:  Online
     year: 2018
     
-  - startdate: 4th December 2017
-    enddate: 6th December 2017
+  - startdate: 2017-12-04
+    enddate: 2017-12-06
     name: Technical Mobile Testing
     role: [Tutorial]
     url:  https://dojo.ministryoftesting.com/events/technical-mobile-testing-3-day-class-manchester-richard-bradshaw
     country:  England
     year: 2017
 
-  - startdate: 9th November 2017
-    enddate: 10th November 2017
+  - startdate: 2017-11-09
+    enddate: 2107-11-10
     name: TestBash Philadelphia
     role: [Organiser]
     url:  https://dojo.ministryoftesting.com/events/testbash-philadelphia-2017
     country:  USA
     year: 2017
 
-  - startdate: 26th October 2017
-    enddate: 27th October 2017
+  - startdate: 2017-10-26
+    enddate: 2017-10-27
     name: TestBash Manchester
     role: [Organiser]
     url:  https://dojo.ministryoftesting.com/events/testbash-manchester-2017
     country:  England
     year: 2017
     
-  - startdate: 9th October 2017
-    enddate: 10th October 2017
+  - startdate: 2017-10-09
+    enddate: 2017-10-10
     name: Selenium Conference Berlin
     role: [Talk]
     url:  http://seleniumconf.de/
     country:  Germany
     year: 2017
 
-  - startdate: 6th October 2017
+  - startdate: 2017-10-06
     enddate:
     name: TestBash Germany
     role: [Organiser]
@@ -78,7 +110,7 @@
     country:  Germany
     year: 2017
 
-  - startdate: 28th September 2017
+  - startdate: 2017-09-28
     enddate:
     name: Belfast Selenium Meetup
     role: [Talk]
@@ -86,7 +118,7 @@
     country:  Northern Ireland
     year: 2017
     
-  - startdate: 25th September 2017
+  - startdate: 2017-09-25
     enddate:
     name: SwanseaCon Post Meetup
     role: [Talk]
@@ -94,39 +126,39 @@
     country:  Wales
     year: 2017
 
-  - startdate: 25th September 2017
-    enddate: 26th September 2017
+  - startdate: 2017-09-25
+    enddate: 2017-09-26
     name: SwanseaCon
     role: [Attendee]
     url:  http://swanseacon.co.uk/
     country:  Wales
     year: 2017
 
-  - startdate: 7th September 2017
+  - startdate: 2017-09-07
     enddate:
     name: Testing Ask Me Anything
-    role: [Speaker]
+    role: [Talk]
     url:  https://www.ministryoftesting.com/2017/08/testing-ask-anything-ama/
     country:  England
     year: 2017
 
-  - startdate: 29th June 2017
-    enddate: 30th June 2017
+  - startdate: 2017-06-29
+    enddate: 2017-06-30
     name: London Tester Gathering Workshops
     role: [Organiser]
     url:  https://dojo.ministryoftesting.com/events/london-tester-gathering-workshops-2017
     country:  England
     year: 2017
 
-  - startdate: 18th May 2017
+  - startdate: 2017-05-18
     enddate:
     name: TestBash Belfast
     role: [Organiser]
     country:  Northern Ireland
     year: 2017
 
-  - startdate: 23rd March 2017
-    enddate: 24th March 2017
+  - startdate: 2017-03-23
+    enddate: 2017-03-24
     name: TestBash Brighton
     role: [Talk]
     country:  England
