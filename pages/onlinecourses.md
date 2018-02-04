@@ -11,7 +11,7 @@ tags:
 signoff: true
 comments: true
 redirect_to:
-  - https://automationintesting.com/training/online/index.html
+  - https://automationintesting.com/onlinecourses/index.html
 ---
 I currently have three courses available on this site, all free. Those are Programming Basics, Java Basics (incs IntelliJ and JUnit) and Selenium WebDriver in Java. I'm also working on numerous video courses that will be available on the [Ministry of Testing Dojo](https://dojo.ministryoftesting.com){:target="_blank"}.
 
