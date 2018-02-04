@@ -5,6 +5,8 @@ permalink: /selenium/lessons/drivers.html
 description: "A look at how all the different drivers available with Selenium WebDriver work"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/selenium/lessons/drivers.html
 ---
 [Course Home](../course) \| [Code Examples](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/A_Drivers.java){:target="_blank"}
 

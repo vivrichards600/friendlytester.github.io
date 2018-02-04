@@ -5,6 +5,8 @@ permalink: /java/basics/lessons/methods.html
 description: "A look at methods in Java"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/java/basics/lessons/methods.html
 ---
 [Course Home](../../course) \| [What are Methods?](/programming/lessons/methodsandparameters){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/javalessons/E_Methods.java){:target="_blank"}
 

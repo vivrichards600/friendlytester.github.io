@@ -5,6 +5,8 @@ permalink: /java/junit/lessons/whataretestfixtures.html
 description: "What are TestFixtures in JUnit and how do we use them"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/java/junit/lessons/whataretestfixtures.html
 ---
 [Course Home](../../course) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/junitlessons/B_CreatingATestFixture.java){:target="_blank"}
 

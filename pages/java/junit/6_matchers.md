@@ -5,6 +5,8 @@ permalink: /java/junit/lessons/matchers.html
 description: "What are Matchers in JUnit and how do we use them"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/java/junit/lessons/matchers.html
 ---
 [Course Home](../../course) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/junitlessons/D_Matchers.java){:target="_blank"}
 

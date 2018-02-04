@@ -5,6 +5,8 @@ permalink: /java/intellij/lessons/intellisense.html
 description: "What is IntelliSense?"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/java/intellij/lessons/intellisense.html
 ---
 
 [Course Home](../../course) \| [Official IntelliJ Docs on IntelliSense](https://www.jetbrains.com/help/idea/auto-completing-code.html){:target="_blank"}

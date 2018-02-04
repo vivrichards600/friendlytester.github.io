@@ -5,6 +5,8 @@ permalink: /selenium/lessons/interactions.html
 description: "A look at the basic interactions we can do with Selenium WebDriver"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/selenium/lessons/interactions.html
 ---
 [Course Home](../course) \| [Code Examples](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/D_Interactions.java){:target="_blank"}
 

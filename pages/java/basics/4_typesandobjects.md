@@ -5,6 +5,8 @@ permalink: /java/basics/lessons/typesandobjects.html
 description: "A look at how to use types and objects in Java"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/java/basics/lessons/typesandobjects.html
 ---
 [Course Home](../../course) \| [What are Types and Objects?](/programming/lessons/typesandobjects){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/javalessons/C_Types.java){:target="_blank"}
 

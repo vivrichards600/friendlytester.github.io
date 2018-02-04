@@ -5,6 +5,8 @@ permalink: /java/junit/lessons/runningtests.html
 description: "How to run your JUnit tests"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/java/junit/lessons/runningtests.html
 ---
 [Course Home](../../course) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/pom.xml){:target="_blank"}
 

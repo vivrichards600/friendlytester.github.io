@@ -5,6 +5,8 @@ permalink: /java/basics/lessons/controlflow.html
 description: "A look at control flow in Java"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/java/basics/lessons/controlflow.html
 ---
 [Course Home](../../course) \| [What is Control Flow?](/programming/lessons/controlflow){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/javalessons/G_ControlFlow.java){:target="_blank"}
 

@@ -5,6 +5,8 @@ permalink: /java/junit/lessons/creatingtestsinjunit.html
 description: "How to mark code as Tests using JUnit"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/java/junit/lessons/creatingtestsinjunit.html
 ---
 [Course Home](../../course) \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/junitlessons/A_CreatingATest.java){:target="_blank"}
 

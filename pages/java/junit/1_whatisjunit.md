@@ -5,6 +5,8 @@ permalink: /java/junit/lessons/whatisjunit.html
 description: "What is JUnit?"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/java/junit/lessons/whatisjunit.html
 ---
 [Course Home](../../course) \| [JUnit](http://junit.org){:target="_blank"}
 

@@ -5,6 +5,8 @@ permalink: /java/basics/lessons/operators.html
 description: "A look at operators in Java"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/java/basics/lessons/operators.html
 ---
 [Course Home](../../course) \| [What are Operators?](/programming/lessons/operators){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/javalessons/F_Operators.java){:target="_blank"}
 

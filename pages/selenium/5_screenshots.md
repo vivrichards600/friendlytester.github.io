@@ -5,6 +5,8 @@ permalink: /selenium/lessons/screenshots.html
 description: "How to take a screenshot with Selenium WebDriver"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/selenium/lessons/screenshots.html
 ---
 [Course Home](../course) \| [Code Examples](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/E_Screenshots.java){:target="_blank"}
 

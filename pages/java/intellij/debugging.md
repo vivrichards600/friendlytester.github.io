@@ -5,6 +5,8 @@ permalink: /java/intellij/lessons/debugging.html
 description: "A quick look at how to debug code in IntelliJ"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/java/intellij/lessons/debugging.html
 ---
 [Course Home](../../course) \| [Official IntelliJ Docs on Debugging](https://www.jetbrains.com/help/idea/debugging.html?search=debug){:target="_blank"}
 

@@ -5,6 +5,8 @@ permalink: /java/junit/lessons/settingupjunit.html
 description: "How to set up JUnit with IntelliJ and Maven?"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/java/junit/lessons/settingupjunit.html
 ---
 [Course Home](../../course) \| [Download and Install JUnit](https://github.com/junit-team/junit4/wiki/Download-and-Install){:target="_blank"}
 

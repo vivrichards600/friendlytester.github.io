@@ -5,6 +5,8 @@ permalink: /selenium/lessons/waits.html
 description: "A look at the options we have available for waiting in Selenium WebDriver"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/selenium/lessons/waits.html
 ---
 [Course Home](../course) \| [Code Examples](https://github.com/FriendlyTester/Selenium-WebDriver-Examples/blob/master/java/src/test/java/lessons/G_Waits.java){:target="_blank"}
 

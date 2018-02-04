@@ -5,6 +5,8 @@ permalink: /java/basics/lessons/encapsulation.html
 description: "A look at Encapsulation in Java"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/java/basics/lessons/encapsulation.html
 ---
 [Course Home](../../course) \| [What is Encapsulation?](/programming/lessons/encapsulation){:target="_blank"} \| [Encapsulation Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/javalessons/I_Encapsulation.java){:target="_blank"} \| [Access Modifiers Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/javalessons/J_AccessModifiers.java){:target="_blank"}
 

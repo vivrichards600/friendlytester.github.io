@@ -5,6 +5,8 @@ permalink: /java/basics/lessons/classesandobjectsinjava.html
 description: "A look at how to create classes and use objects in Java"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/java/basics/lessons/classesandobjectsinjava.html
 ---
 [Course Home](../../course) \| [What are Classes and Objects?](/programming/lessons/classesandobjects){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/javalessons/B_ClassesAndObjects.java){:target="_blank"}
 

@@ -5,6 +5,8 @@ permalink: /java/basics/lessons/inheritance.html
 description: "A look at Inheritance in Java"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/java/basics/lessons/inheritance.html
 ---
 [Course Home](../../course) \| [What is Inheritance?](/programming/lessons/inheritance){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/javalessons/K_Inheritance.java){:target="_blank"}
 

@@ -5,6 +5,8 @@ permalink: /java/basics/lessons/variables.html
 description: "A look at variables, fields and properties in Java"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/java/basics/lessons/variables.html
 ---
 [Course Home](../../course) \| [What are Variables?](/programming/lessons/variables){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/javalessons/D_Variables.java){:target="_blank"}
 

@@ -5,6 +5,8 @@ permalink: /java/basics/lessons/javasyntax.html
 description: "A look at the basic syntax of Java"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/java/basics/lessons/javasyntax.html
 ---
 [Course Home](../../course) \| [What is Syntax?](/programming/lessons/syntax){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/javalessons/A_Syntax.java){:target="_blank"}
 

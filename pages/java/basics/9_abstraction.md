@@ -5,6 +5,8 @@ permalink: /java/basics/lessons/abstraction.html
 description: "A look at Abstraction in Java"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/java/basics/lessons/abstraction.html
 ---
 [Course Home](../../course) \| [What is Abstraction?](/programming/lessons/abstraction){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/javalessons/H_Abstraction.java){:target="_blank"}
 

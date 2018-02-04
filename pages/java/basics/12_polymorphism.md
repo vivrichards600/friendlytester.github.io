@@ -5,6 +5,8 @@ permalink: /java/basics/lessons/polymorphism.html
 description: "A look at Polymorphism in Java"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/java/basics/lessons/polymorphism.html
 ---
 [Course Home](../../course) \| [What is Polymorphism?](/programming/lessons/polymorphism){:target="_blank"} \| [Code Example(s)](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/src/test/java/javalessons/L_Polymorphism.java){:target="_blank"}
 

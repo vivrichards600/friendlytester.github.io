@@ -5,6 +5,8 @@ permalink: /java/basics/lessons/usinglibraries.html
 description: "A look at how to add libraries to a project using maven"
 comments: true
 signoff: true
+redirect_to:
+  - https://automationintesting.com/java/basics/lessons/usinglibraries.html
 ---
 [Course Home](../../course) \| [What are packages?](/programming/lessons/packagesandlibraries){:target="_blank"} \| [POM Example](https://github.com/FriendlyTester/Free-Java-Basics-Course/blob/master/pom.xml){:target="_blank"}
 
