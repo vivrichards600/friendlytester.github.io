@@ -6,5 +6,5 @@ description: "A look at how all the different drivers available with Selenium We
 comments: true
 signoff: true
 redirect_to:
-  - https://automationintesting.com/selenium/lessons/drivers.html
+  - https://automationintesting.com/selenium/java/lessons/drivers.html
 ---

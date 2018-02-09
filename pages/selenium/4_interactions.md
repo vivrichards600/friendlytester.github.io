@@ -6,5 +6,5 @@ description: "A look at the basic interactions we can do with Selenium WebDriver
 comments: true
 signoff: true
 redirect_to:
-  - https://automationintesting.com/selenium/lessons/interactions.html
+  - https://automationintesting.com/selenium/java/lessons/interactions.html
 ---

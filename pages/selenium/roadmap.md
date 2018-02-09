@@ -6,5 +6,5 @@ description: "A list of future lessons I hope to add to this free course on Sele
 comments: true
 signoff: true
 redirect_to:
-  - https://automationintesting.com/selenium/lessons/roadmap.html
+  - https://automationintesting.com/selenium/java/lessons/roadmap.html
 ---

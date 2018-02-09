@@ -6,5 +6,5 @@ description: "A look at all the locator strategies available in Selenium WebDriv
 comments: true
 signoff: true
 redirect_to:
-  - https://automationintesting.com/selenium/lessons/locators.html
+  - https://automationintesting.com/selenium/java/lessons/locators.html
 ---
