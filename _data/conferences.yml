@@ -5,6 +5,33 @@
     url:  https://dojo.ministryoftesting.com/events
     country:  Ireland
     year: 2018
+    
+  - startdate: 2018-04-26
+    enddate:
+    name: Code Europe
+    role: [Talk]
+    url:  https://www.codeeurope.pl/en/speakers/richard-bradshaw
+    country:  Poland
+    year: 2018
+    
+  - startdate: 2018-04-17
+    enddate:
+    name: Leeds Testing Atelier
+    role: [Attendee]
+    url:  http://testingatelier.community/
+    country:  England
+    year: 2018
+
+  - startdate: 2018-05-09
+    enddate: 2018-05-11
+    name: Romanian Testing Conference
+    role: [Tutorial]
+    url:  http://romaniatesting.ro
+    country:  Romania
+    year: 2018
+    
+    
+    
 
   - startdate: 2018-09-05
     enddate: 2018-09-07
