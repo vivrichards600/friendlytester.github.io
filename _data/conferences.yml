@@ -30,8 +30,29 @@
     country:  Romania
     year: 2018
     
+  - startdate: 2018-06-06
+    enddate: 2018-06-08
+    name: Nordic Testing Days
+    role: [Tutorial]
+    url:  https://nordictestingdays.eu/
+    country:  Estonia
+    year: 2018
     
+  - startdate: 2018-06-21
+    enddate: 2018-06-22
+    name: Rebel Con
+    role: [Tutorial]
+    url:  http://rebelcon.io/
+    country:  Ireland
+    year: 2018
     
+  - startdate: 2018-08-06
+    enddate: 2018-08-09
+    name: CAST
+    role: [Tutorial]
+    url:  https://www.associationforsoftwaretesting.org/conference/cast-2018/
+    country:  USA
+    year: 2018
 
   - startdate: 2018-09-05
     enddate: 2018-09-07
