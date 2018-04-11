@@ -6,14 +6,6 @@
     country:  Ireland
     year: 2018
     
-  - startdate: 2018-04-26
-    enddate:
-    name: Code Europe
-    role: [Talk]
-    url:  https://www.codeeurope.pl/en/speakers/richard-bradshaw
-    country:  Poland
-    year: 2018
-    
   - startdate: 2018-04-17
     enddate:
     name: Leeds Testing Atelier
