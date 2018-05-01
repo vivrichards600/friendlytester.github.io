@@ -36,8 +36,8 @@ bing_verify:
 # If there is a sponsor
 sponsor:
   active: true
-  text: "Checkout TestBash Manchester 2018 - Tickets on sale now"
-  link: https://dojo.ministryoftesting.com
+  text: "Checkout TestBash Manchester 2018 by the Ministry of Testing - Tickets on sale now"
+  link: https://ministryoftesting.com/events/testbash-manchester-2018
 
 # Links to include in footer navigation
 # For external links add external: true
@@ -52,10 +52,8 @@ links:
     url: /training
   - title: Whiteboard Testing
     url: /whiteboardtesting
-  - title: Ministry of Testing
-    url: /ministryoftesting
-  - title: Archive
-    url: /archive
+  - title: Sponsor
+    url: /sponsor
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
