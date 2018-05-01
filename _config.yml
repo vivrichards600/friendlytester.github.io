@@ -33,6 +33,12 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
+# If there is a sponsor
+sponsor:
+  active: true
+  text: "Checkout TestBash Manchester 2018 - Tickets on sale now"
+  link: https://dojo.ministryoftesting.com
+
 # Links to include in footer navigation
 # For external links add external: true
 links:

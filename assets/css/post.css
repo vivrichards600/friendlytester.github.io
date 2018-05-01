@@ -473,19 +473,18 @@ html, body, .notepad-post-container, .notepad-post-header {
       margin-left: auto;
       margin-right: auto; }
     .notepad-page-content > div:not(.notepad-page-title) p {
-      margin: 0 auto 2em auto;
+      margin: 0 auto 1.125em auto;
       max-width: 56.25rem;
       font-size: 1.125rem; }
       .notepad-page-content > div:not(.notepad-page-title) p:first-child{
         font-size: 1.375rem;
+        text-align: center;
         font-weight: 300; }
         @media only screen and (min-width: 40.063em) {
           .notepad-page-content > div:not(.notepad-page-title) p:first-child {
             font-size: 1.625rem; } }
       .notepad-page-content > div:not(.notepad-page-title) p.with-image {
         text-align: center;
-        padding-top: 1.125rem;
-        padding-bottom: 1.125rem;
         max-width: 75rem; }
 
 @media screen and (max-width: 47em) {
@@ -682,3 +681,93 @@ iframe {
   font-size: 1.25rem;
   font-weight: 500;
 }
+
+.notepad-post-header-simple .sponsor-site-head-content {
+  width: 100%;
+  text-align: center;
+  background-color: #679ACB;
+  background-size: cover; }
+  .notepad-post-header-simple .sponsor-site-head-content.with-bg-cover {
+    background-color: rgba(0, 0, 0, 0.7); }
+  .notepad-post-header-simple .sponsor-site-head-content .sponsor-site-head-title-bg {
+    display: inline-block;
+    font-size: 1rem;!important
+    background: #679ACB;
+    line-height: 1.1; }
+  .notepad-post-header-simple .sponsor-site-head-content h1 {
+    margin: 0;
+    padding: 0.625rem;
+    color: white;}
+  .notepad-post-header-simple .sponsor-site-head-content h1 {
+    margin: 0;!important
+    font-size: 0.275rem;!important
+    margin-bottom: 3rem; }
+  .notepad-post-header-simple .sponsor-site-head-content h1 a {
+    color: white;
+    }
+  .notepad-post-header-simple .sponsor {
+    background-color: #679ACB;
+  }
+  @media only screen and (min-width: 40.063em) {
+    .notepad-post-header-simple .sponsor-site-head-content h1 {
+      margin: 0;!important
+      font-size: 1rem;!important
+      color: white; } }
+  @media only screen and (min-width: 70em) {
+    .notepad-post-header-simple .sponsor-site-head-content h1 {
+      font-size: 1rem;!important
+      margin: 0;!important
+      color: white;} }
+  @media only screen and (min-width: 90em) {
+    .notepad-post-header-simple .sponsor-site-head-content h1 {
+      margin: 0;!important
+      color: white;}}
+  @media only screen and (min-width: 100em) {
+    .notepad-post-header-simple .sponsor-site-head-content h1 {
+      margin: 0;!important
+      color: white;} }
+
+.notepad-page-header .sponsor-site-head-content {
+  width: 100%;
+  text-align: center;
+  background-color: #679ACB;
+  background-size: cover; }
+  .notepad-page-header .sponsor-site-head-content.with-bg-cover {
+    background-color: rgba(0, 0, 0, 0.7); }
+  .notepad-page-header .sponsor-site-head-content .sponsor-site-head-title-bg {
+    display: inline-block;
+    font-size: 1rem;!important
+    background: #679ACB;
+    line-height: 1.1; }
+  .notepad-page-header .sponsor-site-head-content h1 {
+    margin: 0;
+    padding: 0.625rem;
+    color: white;}
+  .notepad-page-header .sponsor-site-head-content h1 {
+    margin: 0;!important
+    font-size: 0.275rem;!important
+    margin-bottom: 3rem; }
+  .notepad-page-header .sponsor-site-head-content h1 a {
+    color: white;
+    }
+  .notepad-page-header .sponsor {
+    background-color: #679ACB;
+  }
+  @media only screen and (min-width: 40.063em) {
+    .notepad-page-header .sponsor-site-head-content h1 {
+      margin: 0;!important
+      font-size: 1rem;!important
+      color: white; } }
+  @media only screen and (min-width: 70em) {
+    .notepad-page-header .sponsor-site-head-content h1 {
+      font-size: 1rem;!important
+      margin: 0;!important
+      color: white;} }
+  @media only screen and (min-width: 90em) {
+    .notepad-page-header .sponsor-site-head-content h1 {
+      margin: 0;!important
+      color: white;}
+  @media only screen and (min-width: 100em) {
+    .notepad-page-header .sponsor-site-head-content h1 {
+      margin: 0;!important
+      color: white;} }

@@ -33,6 +33,20 @@
                 {% endif %} </li>
 {% endfor %}
     </ul>
+    
+  </div>
+          <div class="clearfix"></div>
+      </div>
+      
+      {% if site.sponsor.active == true %}
+      <!-- Richard Hacking -->
+      <div class="sponsor-site-head-content" >
+          <h1>
+              <span class="sponsor-site-head-title-bg">{{ site.sponsor.text }} <a target=”_blank” href="{{ site.sponsor.link}}"><i class="fa fa-external-link"></i></a></span>
+          </h1>
+      </div>
+      {% endif %}
+    
 </div>
             </div>
             <div class="notepad-page-title row">
