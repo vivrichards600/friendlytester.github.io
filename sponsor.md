@@ -56,6 +56,7 @@ I see such sponsorship providing value for those looking to promote:
 * Conferences
 * Webinars
 * Testing Services
+* Vacancies
 * anything testing related really
 
 ### Interested
