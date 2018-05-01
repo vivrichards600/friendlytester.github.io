@@ -6,7 +6,7 @@ description: "Reach 2000 software testing professionals a day by sponsoring The 
 ---
 "I'm opening up my blog to non-obtrusive controlled sponsorship/announcements."
 
-I've been considering this for a while. I've put a lot of effort into this blog/site since 2012 and the results are I draw a lot of traffic, I'm very proud of this. Allowing subtle sponsorship on my blog will provide me some passive income for all this work, and motivation to continue writing. It also allows me to control who/what I advertise under my personal brand.
+I've been considering this for a while. I've put a lot of effort into this blog/site since 2012 and the results are I draw a lot of traffic, I'm very proud of this. Allowing subtle sponsorship on my blog will provide me some passive income for all this work, and additional motivation to continue writing. It also allows me to control who/what I advertise under my personal brand.
 
 ### Reach and Audience
 Traffic fluctuates depending on how frequently I'm writing. I've not been writing a lot recently, something I'm going to be changing. However, I'm averaging 1200 unique users a day, with a high in the last 30 days (published May 2018) of 2414 and a low of 481 visitors. This will increase as I start to publish regularly, I'm aiming for a post every two weeks. 
