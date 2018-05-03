@@ -4,6 +4,8 @@
     role: [Organiser]
     url:  https://dojo.ministryoftesting.com/events
     country:  Ireland
+    flag: ie
+    image: tbdublin.png
     year: 2018
     
   - startdate: 2018-04-17
@@ -12,6 +14,7 @@
     role: [Attendee]
     url:  http://testingatelier.community/
     country:  England
+    flag: gb
     year: 2018
 
   - startdate: 2018-05-09
@@ -20,6 +23,8 @@
     role: [Tutorial]
     url:  http://romaniatesting.ro
     country:  Romania
+    flag: ro
+    image: rtc.png
     year: 2018
     
   - startdate: 2018-06-06
@@ -27,7 +32,9 @@
     name: Nordic Testing Days
     role: [Tutorial]
     url:  https://nordictestingdays.eu/
-    country:  Estonia
+    country: Estonia
+    flag: ee
+    image: ntd.png
     year: 2018
     
   - startdate: 2018-06-21
@@ -36,6 +43,8 @@
     role: [Tutorial]
     url:  http://rebelcon.io/
     country:  Ireland
+    flag: ie
+    image: rebelcon.png
     year: 2018
     
   - startdate: 2018-08-06
@@ -44,6 +53,8 @@
     role: [Tutorial]
     url:  https://www.associationforsoftwaretesting.org/conference/cast-2018/
     country:  USA
+    flag: us
+    image: cast.png
     year: 2018
 
   - startdate: 2018-09-05
@@ -52,6 +63,8 @@
     role: [Tutorial]
     url:  https://www.houseoftest.net/en/event/automationintesting/
     country: Switzerland
+    image: houseoftest.png
+    flag: ch
     year: 2018
     
   - startdate: 2018-09-14
@@ -60,6 +73,8 @@
     role: [Organiser]
     url:  https://dojo.ministryoftesting.com/events
     country:  Germany
+    flag: de
+    image: tbgermany.png
     year: 2018
 
   - startdate: 2018-09-27
@@ -68,6 +83,8 @@
     role: [Organiser]
     url:  https://dojo.ministryoftesting.com/events
     country:  England
+    flag: gb
+    image: tbmanchester.png
     year: 2018
     
   - startdate: 2018-10-19
@@ -76,6 +93,18 @@
     role: [Organiser]
     url:  https://dojo.ministryoftesting.com/events
     country:  Australia
+    flag: au
+    image: tbaustralia.png
+    year: 2018
+    
+  - startdate: 2018-10-23
+    enddate: 2018-10-25
+    name: WeTest Conference
+    role: [Keynote]
+    url:  http://www.wetest.co.nz/wetest-2018/
+    country:  New Zealand
+    flag: nz
+    image: wetest.png
     year: 2018
     
   - startdate: 2018-11-09
@@ -84,6 +113,8 @@
     role: [Organiser]
     url:  https://dojo.ministryoftesting.com/events
     country:  USA
+    image: tbsfo.png
+    flag: us
     year: 2018
     
   - startdate: 2018-04-12
