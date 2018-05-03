@@ -50,7 +50,7 @@ description: "A list of my upcoming and past conference engagements"
 <h2>Previous</h2>
 <ul>
   {% for year in events_by_year %}
-    {% assign allevents = year.items | sort: "startdate" %}
+    {% assign allevents = year.items | sort: "startdate" | reverse %}
       {% for event in allevents %}
         {% assign today = "now" | date: '%s' %}
         {% assign eventdate = event.startdate | date: '%s' %}
