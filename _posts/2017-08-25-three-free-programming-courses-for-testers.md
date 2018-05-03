@@ -51,7 +51,7 @@ A page for all my online courses is [right here!](https://thefriendlytester.co.u
 * [Selenium WebDriver in Java](/selenium/course/)
 
 ### Next?
-I'll likely record these classes as videos and add them to the [Ministry of Testing Dojo](https://dojo.ministryoftesting.com){:target="_blank"}.  
+I'll likely record these classes as videos and add them to the [Ministry of Testing Dojo](https://ministryoftesting.com){:target="_blank"}.  
 All the courses have a roadmap page on them, I've asked people to submit requests on those and I've also added things I intend to add.
 
 So there we have it. It's finally live. I hope this provides some value to people and helps those who have decided to add automation/coding to their belt.

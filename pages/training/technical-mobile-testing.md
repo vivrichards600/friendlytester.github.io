@@ -4,7 +4,7 @@ title: Technical Mobile Testing
 permalink: /training/technical-mobile-testing/index.html
 description: "A details description about my Technical Mobile Testing class"
 ---
-The next public running of this class is in Manchester on the 4-6th December 2017. The class has been organised by Ministry of Testing. All the details, pricing and booking can be found [here](https://dojo.ministryoftesting.com/events/technical-mobile-testing-3-day-class-manchester-richard-bradshaw).
+The next public running of this class is in Manchester on the 4-6th December 2017. The class has been organised by Ministry of Testing. All the details, pricing and booking can be found [here](https://ministryoftesting.com/events/technical-mobile-testing-3-day-class-manchester-richard-bradshaw).
 
 ## What Do We Mean By ‘Technical Mobile Testing’?
 Technical can mean many things, but in the context of this course, it means using tools to support our testing. Over the three days, we are going to explore mobile testing, specifically where we can utilise tools to support it. However, we won’t be adopting a tool first approach, instead, we will be discussing the common challenges and problems with testing on mobile. We’ll then explore and utilise the tools available to assist with those challenges and problems. This approach will give us the power to know when to use a tool and when not to.

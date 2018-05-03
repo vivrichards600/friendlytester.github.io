@@ -22,4 +22,4 @@ Anyhow, the talk was recorded and is available on the Ministry of Testing Dojo, 
 
 Enjoy, and I appreciate all feedback on content, presentation style or anything else you feel I may be interested in.  
 
-[https://dojo.ministryoftesting.com/lessons/automation-in-testing-richard-bradshaw](https://dojo.ministryoftesting.com/lessons/automation-in-testing-richard-bradshaw)
+[https://ministryoftesting.com/lessons/automation-in-testing-richard-bradshaw](https://ministryoftesting.com/lessons/automation-in-testing-richard-bradshaw)

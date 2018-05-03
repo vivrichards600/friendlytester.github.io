@@ -2,7 +2,7 @@
     enddate:
     name: TestBash Dublin
     role: [Organiser]
-    url:  https://dojo.ministryoftesting.com/events
+    url:  https://ministryoftesting.com/events
     country:  Ireland
     flag: ie
     image: tbdublin.png
@@ -71,7 +71,7 @@
     enddate:
     name: TestBash Germany
     role: [Organiser]
-    url:  https://dojo.ministryoftesting.com/events
+    url:  https://ministryoftesting.com/events
     country:  Germany
     flag: de
     image: tbgermany.png
@@ -81,7 +81,7 @@
     enddate: 2018-09-28
     name: TestBash Manchester
     role: [Organiser]
-    url:  https://dojo.ministryoftesting.com/events
+    url:  https://ministryoftesting.com/events
     country:  England
     flag: gb
     image: tbmanchester.png
@@ -91,7 +91,7 @@
     enddate:
     name: TestBash Australia
     role: [Organiser]
-    url:  https://dojo.ministryoftesting.com/events
+    url:  https://ministryoftesting.com/events
     country:  Australia
     flag: au
     image: tbaustralia.png
@@ -111,7 +111,7 @@
     enddate: 2018-11-10
     name: TestBash San Francisco
     role: [Organiser]
-    url:  https://dojo.ministryoftesting.com/events
+    url:  https://ministryoftesting.com/events
     country:  USA
     image: tbsfo.png
     flag: us
@@ -121,7 +121,7 @@
     enddate: 2018-04-13
     name: TestBash Netherlands
     role: [Organiser]
-    url:  https://dojo.ministryoftesting.com/events
+    url:  https://ministryoftesting.com/events
     country:  Netherlands
     year: 2018
 
@@ -129,7 +129,7 @@
     enddate: 2018-03-16
     name: TestBash Brighton
     role: [Organiser]
-    url:  https://dojo.ministryoftesting.com/events/testbash-brighton-2018
+    url:  https://ministryoftesting.com/events/testbash-brighton-2018
     country:  England
     year: 2018
 
@@ -153,7 +153,7 @@
     enddate: 2017-12-06
     name: Technical Mobile Testing
     role: [Tutorial]
-    url:  https://dojo.ministryoftesting.com/events/technical-mobile-testing-3-day-class-manchester-richard-bradshaw
+    url:  https://ministryoftesting.com/events/technical-mobile-testing-3-day-class-manchester-richard-bradshaw
     country:  England
     year: 2017
 
@@ -161,7 +161,7 @@
     enddate: 2107-11-10
     name: TestBash Philadelphia
     role: [Organiser]
-    url:  https://dojo.ministryoftesting.com/events/testbash-philadelphia-2017
+    url:  https://ministryoftesting.com/events/testbash-philadelphia-2017
     country:  USA
     year: 2017
 
@@ -169,7 +169,7 @@
     enddate: 2017-10-27
     name: TestBash Manchester
     role: [Organiser]
-    url:  https://dojo.ministryoftesting.com/events/testbash-manchester-2017
+    url:  https://ministryoftesting.com/events/testbash-manchester-2017
     country:  England
     year: 2017
     
@@ -185,7 +185,7 @@
     enddate:
     name: TestBash Germany
     role: [Organiser]
-    url:  https://dojo.ministryoftesting.com/events/testbash-germany-2017
+    url:  https://ministryoftesting.com/events/testbash-germany-2017
     country:  Germany
     year: 2017
 
@@ -225,7 +225,7 @@
     enddate: 2017-06-30
     name: London Tester Gathering Workshops
     role: [Organiser]
-    url:  https://dojo.ministryoftesting.com/events/london-tester-gathering-workshops-2017
+    url:  https://ministryoftesting.com/events/london-tester-gathering-workshops-2017
     country:  England
     year: 2017
 

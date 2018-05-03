@@ -45,7 +45,7 @@ The two main methods will be through blogging and training. All our blogs about 
 
 ### When
 The hard work has been ongoing for a few years, but starting now is when you should all start seeing the fruit of this work.  
-The first is our new three-day class aptly called 'Automation in Testing' which is having its inaugural class at [TestBash Brighton](https://dojo.ministryoftesting.com/events/testbash-brighton-2018) in March and has already sold out! We didn't expect this, so huge thanks to the attendees and all who helped share it.
+The first is our new three-day class aptly called 'Automation in Testing' which is having its inaugural class at [TestBash Brighton](https://ministryoftesting.com/events/testbash-brighton-2018) in March and has already sold out! We didn't expect this, so huge thanks to the attendees and all who helped share it.
 
 So there we have it, Automation in Testing has a website, so it's officially a thing. It's all rather exciting if you ask me!
 

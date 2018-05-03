@@ -13,7 +13,7 @@ comments: true
 redirect_to:
   - https://automationintesting.com/onlinecourses/index.html
 ---
-I currently have three courses available on this site, all free. Those are Programming Basics, Java Basics (incs IntelliJ and JUnit) and Selenium WebDriver in Java. I'm also working on numerous video courses that will be available on the [Ministry of Testing Dojo](https://dojo.ministryoftesting.com){:target="_blank"}.
+I currently have three courses available on this site, all free. Those are Programming Basics, Java Basics (incs IntelliJ and JUnit) and Selenium WebDriver in Java. I'm also working on numerous video courses that will be available on the [Ministry of Testing Dojo](https://ministryoftesting.com){:target="_blank"}.
 
 In August 2017 I decided to make my Introduction to Selenium WebDriver course available online, for **free**. In doing so, I also created two additional free courses on Programming and Java Basics, to assist people with the Selenium one.
 
@@ -49,7 +49,7 @@ This course is designed to teach you all the basics you need to get started with
 [**Checkout the course**](/selenium/course/){:target="_blank"}
 
 <hr>
-I hope to add more courses in the future, both free and on the [Ministry of Testing Dojo](https://dojo.ministryoftesting.com){:target="_blank"}, so if you don't already, follow me on social media or connect on LinkedIn to hear about them first.
+I hope to add more courses in the future, both free and on the [Ministry of Testing Dojo](https://ministryoftesting.com){:target="_blank"}, so if you don't already, follow me on social media or connect on LinkedIn to hear about them first.
 
 Also if any of these courses or pages proved valuable to you, consider sharing them with friends and colleagues.
 
