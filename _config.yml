@@ -36,8 +36,8 @@ bing_verify:
 # If there is a sponsor
 sponsor:
   active: true
-  text: "Checkout TestBash Manchester 2018 by the Ministry of Testing - Tickets on sale now"
-  link: https://ministryoftesting.com/events/testbash-manchester-2018
+  text: "Simplify exploratory testing planning, documentation, and reporting within Jira using Tricentis Tosca, free trial now available"
+  link: https://bit.ly/2KJYJd4
 
 # Links to include in footer navigation
 # For external links add external: true
