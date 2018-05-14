@@ -37,6 +37,16 @@
     image: tesena.png
     year: 2018
     
+  - startdate: 2018-10-01
+    enddate: 2018-10-03
+    name: Redefining Test Automation
+    role: [Keynote]
+    url:  https://ptmconf.com/speakers/
+    country:  Portugal
+    flag: pt
+    image: ptmconf.png
+    year: 2018
+    
   - startdate: 2018-06-06
     enddate: 2018-06-08
     name: Nordic Testing Days
