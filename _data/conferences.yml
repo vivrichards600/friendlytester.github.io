@@ -27,6 +27,16 @@
     image: rtc.png
     year: 2018
     
+  - startdate: 2018-10-01
+    enddate: 2018-10-03
+    name: Automation in Testing, Three Day Course
+    role: [Tutorial]
+    url:  https://www.tesena.com/automation-in-testing/
+    country:  Czech Republic
+    flag: cz
+    image: tesena.png
+    year: 2018
+    
   - startdate: 2018-06-06
     enddate: 2018-06-08
     name: Nordic Testing Days
