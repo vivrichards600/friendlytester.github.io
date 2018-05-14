@@ -47,6 +47,16 @@
     image: ptmconf.png
     year: 2018
     
+  - startdate: 2018-06-28
+    enddate: 2018-06-29
+    name: London Tester Gathering Workshops
+    role: [Organiser]
+    url:  https://ministryoftesting.com/events/london-tester-gathering-workshops-2018
+    country:  England
+    flag: gb
+    image: ltgw.png
+    year: 2018
+    
   - startdate: 2018-06-06
     enddate: 2018-06-08
     name: Nordic Testing Days
