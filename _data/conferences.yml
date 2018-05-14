@@ -37,8 +37,8 @@
     image: tesena.png
     year: 2018
     
-  - startdate: 2018-10-01
-    enddate: 2018-10-03
+  - startdate: 2018-06-16
+    enddate: 
     name: Porto Tester Meetup Conference
     role: [Keynote]
     url:  https://ptmconf.com/speakers/
