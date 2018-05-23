@@ -15,7 +15,7 @@ owner:
   avatar:         richard.jpg
   email:          blog@friendlytesting.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Software Tester, speaker and trainer at Friendly Testing. BossBoss at Ministry of Testing. Whiteboard Testing creator. Striving to improve the testing craft.
+  description:    Software Tester, speaker and trainer at Friendly Testing. BossBoss at <a target="_blank" href="https://ministryoftesting.com">Ministry of Testing</a>. <a target="_blank" href="https://www.youtube.com/channel/UC0QZWhi0ojqNte3ey7RD0qQ">Whiteboard Testing</a> creator. Striving to improve the testing craft.
   # Social networking links used in footer. Update and remove as you like.
   twitter:        FriendlyTester
   #facebook:       
