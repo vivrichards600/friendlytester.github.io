@@ -36,8 +36,8 @@ bing_verify:
 # If there is a sponsor
 sponsor:
   active: true
-  text: "My three day 'Automation in Testing' class is heading to Zurich, Switzerland with House of Test. Places limited"
-  link: https://www.houseoftest.net/en/event/automationintesting/
+  text: "Subscribe to the Ministry of Testing Newsletter for a weekly update on all things testing!"
+  link: https://ministryoftesting.com/newsletter?utm_source=friendlytester&utm_medium=banner
   
 # Links to include in footer navigation
 # For external links add external: true
