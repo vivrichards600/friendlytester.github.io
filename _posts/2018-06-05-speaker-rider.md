@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Speaker Rider and Why It's Needed
-date: '2018-06-05T14:23:39.450+01:00'
+date: '2018-06-12T14:23:39.450+01:00'
 author: Richard Bradshaw
 description: "Why I've created a speaker rider to encourage fairness, inclusion and diversity at technology conferences I attend or support"
 categories: 
@@ -13,7 +13,7 @@ tags:
 - Community
 - Conferences
 - Public Speaking
-modified_time: '2018-06-05T14:23:39.450+01:00'
+modified_time: '2018-06-12T14:23:39.450+01:00'
 permalink: /2018/06/my-speaker-rider-and-why
 comments: true
 ---
