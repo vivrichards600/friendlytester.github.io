@@ -8,7 +8,7 @@ I love public speaking. I love doing it, and I love listening to it. However, th
 
 If you're interested in having me speak at your conference, you can find numerous ways to contact me in the footer.
 
-This rider is a work in progress and will take effect for all new agreements I make with events from the date of publishing. All clauses in this rider apply to **commercial conferences**. Meetups, community events and potential some not for profit events are not subject to my rider.
+This rider is a work in progress and will take effect for all new agreements I make with events from the date of publishing. All clauses in this rider apply to **commercial conferences**. Meetups, community events and potentially some not for profit events are not subject to my rider.
 
 * **Not pay to speak**
 * **Must have a Code of Conduct**
