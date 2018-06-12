@@ -28,7 +28,7 @@ My travel to and from my main means of transport will also be covered, such as t
 ## Code of Conduct
 **An event will have a code of conduct**
 
-Your event will have an inclusive and enforced code of conduct. It's hard to know if an event will enforce their code of conduct or just list one to appear inclusive. However, people talk and usually, news spreads when code of conducts are not being enforced, plus physical things should be present at the event which usually aid in believing if it will be enforced or not. Code of conducts are designed to great a safe environment for all attendees, they are needed.
+Your event will have an inclusive and enforced code of conduct. It's hard to know if an event will enforce their code of conduct or just list one to appear inclusive. However, people talk and usually, news spreads when code of conducts are not being enforced, plus physical things should be present at the event which usually aid in believing if it will be enforced or not. Code of conducts are designed to create a safe environment for all attendees, they are needed.
 
 ## Diverse Speakers
 **An event will have a minimum of 40% women speakers**  
