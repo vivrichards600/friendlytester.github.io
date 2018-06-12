@@ -53,7 +53,7 @@ I echo this sentence from Karolina Szczur.
 All public speaking engagements take a lot of preparation time, however, I believe this time increases for workshops, tutorials and keynotes. Workshops and tutorials tend to be anything from 2 hours to a full day, that is a lot of time to keep attendees engaged. This requires focusing on the content, designing good activities and thinking about the learning objectives for the attendees. My workshop fee is a minimum of £500 for a half day or less, plus travel and accommodation as listed above. For a tutorial the fee is a minimum of £1500, however, this will vary depending on the fees being charged by your event. Fees for keynotes vary, but I expect to receive a fee if asked to keynote.
 
 ## Workshop and Tutorial Attendance
-**The number of attendees in a workshop and tutorial is dictated by me**
+**The number of attendees in a workshop and tutorial is decided by me**
 
 If I'm invited to deliver a workshop or a tutorial at your event, I'll be able to set the max attendance for it. I don't have a fixed number for this, as it depends on the type of workshop. If it involves a laptop it will be somewhere between 24-30, as then I'll actually stand a chance of getting around people when they need help. For a class that doesn't involve a laptop, this could be significantly higher, for example, my famous LegoAutomation class I've done with up to 80 people. 
 
