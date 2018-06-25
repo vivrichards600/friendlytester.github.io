@@ -36,7 +36,7 @@ bing_verify:
 # If there is a sponsor
 sponsor:
   active: true
-  text: "TestBash the software testing conference by Ministry of Testing is heading to San Francisco!"
+  text: "TestBash the software testing conference by Ministry of Testing is heading to San Francisco on November 8-9th 2018!"
   link: https://ministryoftesting.com/admin/events/testbash-san-francisco-2018?utm_medium=banner&utm_source=Friendlytester
   
 # Links to include in footer navigation
