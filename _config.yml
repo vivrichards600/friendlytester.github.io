@@ -36,8 +36,8 @@ bing_verify:
 # If there is a sponsor
 sponsor:
   active: true
-  text: "Simplify exploratory testing within Jira using Tricentis Tosca. Free trial now available"
-  link: https://marketplace.atlassian.com/plugins/com.tricentis.jira.plugins.exploratorytesting-jira-plugin/server/overview/?utm_medium=banner&utm_source=Friendlytester
+  text: "TestBash the software testing conference by Ministry of Testing is heading to San Francisco!"
+  link: https://ministryoftesting.com/admin/events/testbash-san-francisco-2018?utm_medium=banner&utm_source=Friendlytester
   
 # Links to include in footer navigation
 # For external links add external: true
