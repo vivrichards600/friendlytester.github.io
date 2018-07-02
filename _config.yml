@@ -36,8 +36,8 @@ bing_verify:
 # If there is a sponsor
 sponsor:
   active: true
-  text: "TestBash, the software testing conference by Ministry of Testing is heading to San Francisco on November 8-9th 2018!"
-  link: https://ministryoftesting.com/events/testbash-san-francisco-2018?utm_medium=banner&utm_source=Friendlytester
+  text: "Perfecto are offering a free trial to my blog readers, sign up now to start testing your mobile apps "
+  link: https://info.perfectomobile.com/Perfecto-Free-Trial.html?utm_source=freetrial-ft?utm_content=Freetrial?utm_medium=Content-sponsorship
   
 # Links to include in footer navigation
 # For external links add external: true
