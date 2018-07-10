@@ -35,7 +35,7 @@ bing_verify:
 
 # If there is a sponsor
 sponsor:
-  active: false
+  active: true
   text: "TestBash is returning to Manchester, UK on the 26-28th September, get your tickets now! "
   link: https://ministryoftesting.com/events/testbash-manchester-2018
   
