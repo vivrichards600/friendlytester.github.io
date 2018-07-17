@@ -13,7 +13,7 @@ modified_time: '2018-07-16T14:23:39.450+01:00'
 permalink: /2018/06/using-automator-on-a-mac-to-convert-pdf-to-images
 comments: true
 ---
-So, I'm currently editing some videos for a conference that Ministry of Testing sponsored, this is a great new initiative which I'll write about on MoT soon. Now, I've never edited conference videos, but I've recorded and edited lots of training material for YouTube and The Dojo, so, I wanted to give it a go, to see if I can learn more about Camtasia and the process as a whole. I did expect to find myself creating some awesome automation to help me, but I did!
+So, I'm currently editing some videos for a conference that Ministry of Testing sponsored, this is a great new initiative which I'll write about on MoT soon. Now, I've never edited conference videos, but I've recorded and edited lots of training material for YouTube and The Dojo, so, I wanted to give it a go, to see if I can learn more about Camtasia and the process as a whole. I didn't expect to find myself creating some awesome automation to help me, but I did!
 
 Today I discovered, [Automator](https://support.apple.com/en-gb/guide/automator/welcome/mac) on MacOS. I'd never heard of this before today, but it's provided by Apple and it allows you to create your own little apps/batch jobs/workflows on MacOS by combining existing functions available in MacOS applications. If you have a Mac and never explored this tool, I encourage you to open it and take a look, you could create some really interesting workflows.
 
