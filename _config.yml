@@ -36,8 +36,8 @@ bing_verify:
 # If there is a sponsor
 sponsor:
   active: true
-  text: "TestBash is returning to Manchester, UK on the 26-28th September, get your tickets now! "
-  link: https://ministryoftesting.com/events/testbash-manchester-2018
+  text: "A TestBash solely dedicated to Automation and Technical Testing. Manchester, UK, 28th September "
+  link: https://ministryoftesting.com/events/test-dot-bash-2018
   
 # Links to include in footer navigation
 # For external links add external: true
