@@ -36,8 +36,8 @@ bing_verify:
 # If there is a sponsor
 sponsor:
   active: true
-  text: "A TestBash solely dedicated to Automation and Technical Testing. Manchester, UK, 28th September "
-  link: https://ministryoftesting.com/events/test-dot-bash-2018
+  text: "SauceCon 2019 CFP is now open, travel & accommodation is covered. They're looking for talks on Mobile App Testing, DevOps, CI/CD and Automation etc. Go submit! "
+  link: https://goo.gl/forms/e1SgEXn5B6Q1eyPN2
   
 # Links to include in footer navigation
 # For external links add external: true
