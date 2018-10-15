@@ -31,13 +31,13 @@ My travel to and from my main means of transport will also be covered, such as t
 Your event will have an inclusive and enforced code of conduct. It's hard to know if an event will enforce their code of conduct or just list one to appear inclusive. However, people talk and usually, news spreads when code of conducts are not being enforced, plus physical things should be present at the event which usually aid in believing if it will be enforced or not. Code of conducts are designed to create a safe environment for all attendees, they are needed.
 
 ## Diverse Speakers
-**An event will have a minimum of 40% women speakers**  
+**An event will have a minimum of 30% women speakers**  
 **An event will have at least one speaker who is a person of colour, BAME**  
 **An event will have at least one first time speaker**
 
 The majority of conferences interpret diversity as male and female speakers, I believe diversity is far more than this, but it's also a complicated space, and one I've personally found difficult to write about in an inclusive manner. So, if my choice of words offends anyone, it's not my intention at all, and I'm open to improvements.
 
-I want to speak on lineups that contain at least 40% women speakers, selected for their subjects and expertise, not their gender. A lot of events have done fantastic work to increase their number of women speakers, it's not difficult to achieve if you put the work in. I've specifically mentioned 40% as we've been achieving this with Ministry of Testing, and I hope to increase it in the future. I'm of course not excluded other gender identities and would love to see lineups containing as many as possible. 
+I want to speak on lineups that contain at least 30% women speakers, selected for their subjects and expertise, not their gender. A lot of events have done fantastic work to increase their number of women speakers, it's not difficult to achieve if you put the work in. I've specifically mentioned 30% as we've been achieving this with Ministry of Testing, and I hope to increase it in the future. I'm of course not excluded other gender identities and would love to see lineups containing as many as possible. 
 
 I'm not going to lie, I've struggled to word this, words aren't my forte, especially in this area. But in short, what I'm trying to say is a speaker line up consisting of only white people is not acceptable to me. The world is a diverse and beautiful place, I want to hear from all who call it home. So if you are as a person of colour, or prefer BAME (Black, Asian and minority ethnic) or another term, what I'm trying to say is I'm here to support you.
 
