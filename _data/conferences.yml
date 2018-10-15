@@ -1,3 +1,68 @@
+  - startdate: 2019-03-13
+    enddate: 2019-03-15
+    name: Automation in Testing, Three Day Course
+    role: [Course]
+    url:  https://app1.edoobox.com/en/HoT/Testing%20Classes%20-%20Switzerland/Workshop.ed.311770
+    city: Zurich
+    country: Switzerland
+    image: houseoftest.png
+    flag: ch
+    year: 2019
+    
+  - startdate: 2019-01-29
+    enddate: 2019-01-31
+    name: Automation in Testing, Three Day Course
+    role: [Course]
+    url:  https://addq.se/utbildningar/automation-in-testing/
+    city: Stockholm
+    country: Sweden
+    image: addqlogo.png
+    flag: se
+    year: 2019
+
+  - startdate: 2019-04-15
+    enddate: 2019-04-17
+    name: Automation in Testing, Three Day Course
+    role: [Course]
+    url:  http://black-koi.consulting/training.html
+    city: Malmo
+    country: Sweden
+    image: blackkoi.png
+    flag: se
+    year: 2019
+
+  - startdate: 2019-04-01
+    enddate: 2019-04-03
+    name: Automation in Testing, Three Day Course
+    role: [Course]
+    url:  https://ministryoftesting.com/events/testbash-brighton-2019
+    city: Brighton
+    country: England
+    image: tbbrighton.png
+    flag: gb
+    year: 2019
+
+  - startdate: 2019-04-03
+    name: TestBash Essentials
+    role: [Organiser]
+    url:  https://ministryoftesting.com/events/testbash-essentials-brighton-2019
+    city: Brighton
+    country: England
+    image: tbbrighton.png
+    flag: gb
+    year: 2019
+
+  - startdate: 2019-04-04
+    enddate: 2019-04-05
+    name: TestBash Brighton
+    role: [Organiser]
+    url:  https://ministryoftesting.com/events/testbash-brighton-2019
+    city: Brighton
+    country: England
+    image: tbbrighton.png
+    flag: gb
+    year: 2019
+
   - startdate: 2018-05-18
     enddate:
     name: TestBash Dublin
@@ -30,12 +95,34 @@
   - startdate: 2018-10-01
     enddate: 2018-10-03
     name: Automation in Testing, Three Day Course
-    role: [Tutorial]
+    role: [Course]
     url:  https://www.tesena.com/automation-in-testing/
     country:  Czech Republic
     flag: cz
     image: tesena.png
     year: 2018
+    
+  - startdate: 2019-04-23
+    enddate: 2019-04-25
+    name: SauceCon 2019
+    role: [Talk]
+    url:  https://saucecon.com/
+    city: Austin
+    country:  USA
+    flag: us
+    image: sauceconlogo.png
+    year: 2019
+    
+  - startdate: 2019-04-23
+    enddate: 2019-04-25
+    name: TestBash Netherlands
+    role: [Organiser]
+    url:  https://ministryoftesting.com/events/testbash-netherlands-2019
+    city: Utrecht
+    country:  Netherlands
+    flag: nl
+    image: tbnetherlands.png
+    year: 2019
     
   - startdate: 2018-06-16
     enddate: 
@@ -90,7 +177,7 @@
   - startdate: 2018-09-05
     enddate: 2018-09-07
     name: Automation in Testing, Three Day Course
-    role: [Tutorial]
+    role: [Course]
     url:  https://www.houseoftest.net/en/event/automationintesting/
     country: Switzerland
     image: houseoftest.png
@@ -122,6 +209,7 @@
     name: TestBash Australia
     role: [Organiser]
     url:  https://ministryoftesting.com/events
+    city: Sydney
     country:  Australia
     flag: au
     image: tbaustralia.png
@@ -142,6 +230,7 @@
     name: TestBash San Francisco
     role: [Organiser]
     url:  https://ministryoftesting.com/events
+    city: San Francisco
     country:  USA
     image: tbsfo.png
     flag: us
@@ -153,6 +242,7 @@
     role: [Organiser]
     url:  https://ministryoftesting.com/events
     country:  Netherlands
+    flag: nl
     year: 2018
 
   - startdate: 2018-03-15
@@ -161,14 +251,16 @@
     role: [Organiser]
     url:  https://ministryoftesting.com/events/testbash-brighton-2018
     country:  England
+    flag: gb
     year: 2018
 
   - startdate: 2018-02-19
     enddate: 2018-02-20
     name: European Testing Conference
-    role: [Supporter - 10% off with code 'FRIENDSOFRICHARD']
+    role: [Supporter']
     url:  http://europeantestingconference.eu/2018/
     country:  Netherlands
+    flag: nl
     year: 2018
     
   - startdate: 2018-01-08
@@ -185,6 +277,7 @@
     role: [Tutorial]
     url:  https://ministryoftesting.com/events/technical-mobile-testing-3-day-class-manchester-richard-bradshaw
     country:  England
+    flag: gb
     year: 2017
 
   - startdate: 2017-11-09
@@ -193,6 +286,7 @@
     role: [Organiser]
     url:  https://ministryoftesting.com/events/testbash-philadelphia-2017
     country:  USA
+    flag: us
     year: 2017
 
   - startdate: 2017-10-26
@@ -201,6 +295,7 @@
     role: [Organiser]
     url:  https://ministryoftesting.com/events/testbash-manchester-2017
     country:  England
+    flag: gb
     year: 2017
     
   - startdate: 2017-10-09
@@ -209,6 +304,7 @@
     role: [Talk]
     url:  http://seleniumconf.de/
     country:  Germany
+    flag: de
     year: 2017
 
   - startdate: 2017-10-06
@@ -217,6 +313,7 @@
     role: [Organiser]
     url:  https://ministryoftesting.com/events/testbash-germany-2017
     country:  Germany
+    flag: de
     year: 2017
 
   - startdate: 2017-09-28
@@ -225,6 +322,7 @@
     role: [Talk]
     url:  https://www.meetup.com/Belfast-Selenium-Meetup-Group/events/241885421/
     country:  Northern Ireland
+    flag: gb
     year: 2017
     
   - startdate: 2017-09-25
@@ -233,6 +331,7 @@
     role: [Talk]
     url: https://www.meetup.com/Expert-Talks-Cardiff/events/242292543/
     country:  Wales
+    flag: gb
     year: 2017
 
   - startdate: 2017-09-25
@@ -241,6 +340,7 @@
     role: [Attendee]
     url:  http://swanseacon.co.uk/
     country:  Wales
+    flag: gb
     year: 2017
 
   - startdate: 2017-09-07
@@ -249,6 +349,7 @@
     role: [Talk]
     url:  https://www.ministryoftesting.com/2017/08/testing-ask-anything-ama/
     country:  England
+    flag: gb
     year: 2017
 
   - startdate: 2017-06-29
@@ -257,6 +358,7 @@
     role: [Organiser]
     url:  https://ministryoftesting.com/events/london-tester-gathering-workshops-2017
     country:  England
+    flag: gb
     year: 2017
 
   - startdate: 2017-05-18
@@ -264,6 +366,7 @@
     name: TestBash Belfast
     role: [Organiser]
     country:  Northern Ireland
+    flag: gb
     year: 2017
 
   - startdate: 2017-03-23
@@ -271,6 +374,7 @@
     name: TestBash Brighton
     role: [Talk]
     country:  England
+    flag: gb
     year: 2017
 
   - startdate: December 2016
@@ -278,6 +382,7 @@
     name: Agile Testing Days
     role: [Tutorial]
     country:  Germany
+    flag: de
     year: 2016
 
   - startdate: November 2016
@@ -285,6 +390,7 @@
     name: Agile & Automation Days
     role: [Keynote, Tutorial]
     country:  Netherlands
+    flag: nl
     year: 2016
 
   - startdate: November 2016
@@ -292,6 +398,7 @@
     name: Selenium Conference
     role: [Tutorial]
     country:  England
+    flag: gb
     year: 2016
 
   - startdate: November 2016
@@ -299,6 +406,7 @@
     name: TestBash Philadelphia
     role: [Organiser]
     country:  USA
+    flag: us
     year: 2016
 
   - startdate: November 2016
@@ -306,6 +414,7 @@
     name: EuroSTAR Testing Conference
     role: [Tutorial]
     country:  Sweden
+    flag: se
     year: 2016
 
   - startdate: October 2016
@@ -313,6 +422,7 @@
     name: TestBash Manchester
     role: [Organiser]
     country:  England
+    flag: gb
     year: 2016
 
   - startdate: October 2016
@@ -320,6 +430,7 @@
     name: LetsTest South Africa
     role: [Workshop, Talk]
     country:  South Africa
+    flag: za
     year: 2016
 
   - startdate: September 2016
@@ -327,6 +438,7 @@
     name: New Testing Conference
     role: [Tutorial]
     country:  USA
+    flag: us
     year: 2016
 
   - startdate: September 2016
@@ -334,6 +446,7 @@
     name: STPCon
     role: [Tutorial, Workshop, Talk]
     country:  USA
+    flag: us
     year: 2016
 
   - startdate: August 2016
@@ -341,6 +454,7 @@
     name: CAST (Conference of the Association of Software Testing)
     role: [Tutorial]
     country:  USA
+    flag: us
     year: 2016
 
   - startdate: June 2016
@@ -348,6 +462,7 @@
     name: Test Automation Days
     role: [Talk]
     country:  Netherlands
+    flag: nl
     year: 2016
 
   - startdate: June 2016
@@ -355,6 +470,7 @@
     name: Fusion Technology Meetup
     role: [Talk]
     country:  England
+    flag: gb
     year: 2016
 
   - startdate: June 2016
@@ -362,6 +478,7 @@
     name: Nordic Testing Days
     role: [Tutorial]
     country:  Estonia
+    flag: ee
     year: 2016
 
   - startdate: May 2016
@@ -369,6 +486,7 @@
     name: LetsTest
     role: [Workshop, Workshop, Workshop]
     country:  Sweden
+    flag: se
     year: 2016
 
   - startdate: May 2016
@@ -376,6 +494,7 @@
     name: Romanian Testing Conference
     role: [Tutorial, Keynote]
     country:  Romania
+    flag: ro
     year: 2016
 
   - startdate: May 2016
@@ -383,6 +502,7 @@
     name: Scottish Testing Group
     role: [Talk]
     country:  Scotland
+    flag: gb
     year: 2016
 
   - startdate: April 2016
@@ -390,6 +510,7 @@
     name: Test Leadership Congress QA Expo
     role: [Tutorial, Workshop, Talk]
     country:  USA
+    flag: us
     year: 2016
 
   - startdate: March 2016
@@ -397,6 +518,7 @@
     name: TestBash Brighton
     role: [Workshop, Workshop]
     country:  England
+    flag: gb
     year: 2016
 
   - startdate: February 2016
@@ -404,6 +526,7 @@
     name: Copenhagen Context
     role: Tutorial
     country:  Denmark
+    flag: dk
     year: 2016
 
   - startdate: February 2016
@@ -411,6 +534,7 @@
     name: Euro Testing Conference
     role: [Talk, Workshop]
     country:  Romania
+    flag: ro
     year: 2016
 
   - startdate: January 2016
@@ -418,6 +542,7 @@
     name: CodeMash
     role: [Talk]
     country:  USA
+    flag: us
     year: 2016
 
   - startdate: November 2015
@@ -425,6 +550,7 @@
     name: Agile Testing Days
     role: [Talk]
     country:  Germany
+    flag: de
     year: 2015
 
   - startdate: November 2015
@@ -432,6 +558,7 @@
     name: EuroSTAR
     role: [Talk]
     country:  Netherlands
+    flag: nl
     year: 2015
 
   - startdate: October 2015
@@ -439,6 +566,7 @@
     name: TinyTestBash Brighton
     role: [Talk]
     country:  England
+    flag: gb
     year: 2015
 
   - startdate: September 2015
@@ -446,6 +574,7 @@
     name: Mobile App Europe
     role: [Talk]
     country:  Germany
+    flag: de
     year: 2015
 
   - startdate: June 2015
@@ -453,6 +582,7 @@
     name: Nordic Testing Days
     role: [Workshop, Talk]
     country:  Estonia
+    flag: ee
     year: 2015
 
   - startdate: May 2015
@@ -460,6 +590,7 @@
     name: LetsTest
     role: [Workshop]
     country:  Sweden
+    flag: se
     year: 2015
 
   - startdate: May 2015
@@ -467,6 +598,7 @@
     name: Romanian Testing Conference
     role: [Tutorial]
     country:  Romania
+    flag: ro
     year: 2015
 
   - startdate:  March 2015
@@ -474,6 +606,7 @@
     name: TestBash Brighton
     role: [Talk]
     country:  England
+    flag: gb
     year: 2015
 
   - startdate: November 2014
@@ -481,6 +614,7 @@
     name: Agile Testing Days
     role: [Talk]
     country:  Germany
+    flag: de
     year: 2014
 
   - startdate: August 2014
@@ -488,6 +622,7 @@
     name: CAST (Conference of the Association of Software Testing)
     role: [Talk]
     country:  USA
+    flag: us
     year: 2014
 
   - startdate: May 2014
@@ -495,4 +630,5 @@
     name: Belgium Testing Days
     role: [Workshop]
     country:  Belgium
+    flag: be
     year: 2014

@@ -1,7 +1,8 @@
 {% assign keynotecount = 0 %}
 {% assign organisercount = 0 %}
-{% assign talkcount = 0 %}
+{% assign talkcount = 12 %}
 {% assign workshopcount = 0 %}
+{% assign coursecount = 7 %}
 {% assign tutorialcount = 0 %}
 
 {% assign countries = nil %}
@@ -17,6 +18,9 @@
   {% for role in conference.role %}
     {% if role == "Keynote" %}
       {% assign keynotecount = keynotecount | plus: 1   %}
+    {% endif %}
+    {% if role == "Course" %}
+      {% assign coursecount = coursecount | plus: 1   %}
     {% endif %}
     {% if role == "Organiser" %}
       {% assign organisercount = organisercount | plus: 1   %}
