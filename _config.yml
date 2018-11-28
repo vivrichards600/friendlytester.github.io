@@ -36,8 +36,8 @@ bing_verify:
 # If there is a sponsor
 sponsor:
   active: true
-  text: "SauceCon 2019 CFP is now open, travel & accommodation is covered. They're looking for talks on Mobile App Testing, DevOps, CI/CD and Automation etc. Go submit! "
-  link: https://goo.gl/forms/e1SgEXn5B6Q1eyPN2
+  text: "SauceCon 2019 is now on sale, grab an early bird tickets before 21st December "
+  link: https://saucecon.com/register/
   
 # Links to include in footer navigation
 # For external links add external: true
