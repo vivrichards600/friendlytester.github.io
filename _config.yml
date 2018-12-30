@@ -36,7 +36,7 @@ bing_verify:
 # If there is a sponsor
 sponsor:
   active: true
-  text: "SauceCon 2019 is now on sale, check out the lineup and grab an early bird ticket before 21st December "
+  text: "SauceCon 2019 is now on sale, I'm talking amongst many other great speakers, grab your ticket! "
   link: https://saucecon.com/register/
   
 # Links to include in footer navigation
