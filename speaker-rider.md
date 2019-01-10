@@ -55,7 +55,7 @@ All public speaking engagements take a lot of preparation time, however, I belie
 ## Workshop and Tutorial Attendance
 **The number of attendees in a workshop and tutorial is decided by me**
 
-If I'm invited to deliver a workshop or a tutorial at your event, I'll be able to set the max attendance for it. I don't have a fixed number for this, as it depends on the type of workshop. If it involves a laptop it will be somewhere between 24-30, as then I'll actually stand a chance of getting around people when they need help. For a class that doesn't involve a laptop, this could be significantly higher, for example, my famous LegoAutomation class I've done with up to 80 people. 
+If I'm invited to deliver a workshop or a tutorial at your event, I'll be able to set the max attendance for it. I don't have a fixed number for this, as it depends on the type of workshop. If it involves a laptop it will be somewhere between 24-30, as then I'll actually stand a chance of getting around people when they need help. For a class that doesn't involve a laptop, this could be significantly higher, for example, my famous [LegoAutomation class](/training/legoautomation/index.html) I've done with up to 80 people. 
 
 <hr>
 This isn't an exhaustive list, but the ones that initially came to me. I aim to treat this as a living document and continue to improve as my views change. I'll blog when I do make changes and why I'm making them. I strongly urge you to adopt something similar for your own believes and ethics on inclusion. I want to see more change, and I hope my actions bring it and inspire others to take a similar stance and question the status quo.
