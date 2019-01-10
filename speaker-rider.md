@@ -61,3 +61,5 @@ If I'm invited to deliver a workshop or a tutorial at your event, I'll be able t
 This isn't an exhaustive list, but the ones that initially came to me. I aim to treat this as a living document and continue to improve as my views change. I'll blog when I do make changes and why I'm making them. I strongly urge you to adopt something similar for your own believes and ethics on inclusion. I want to see more change, and I hope my actions bring it and inspire others to take a similar stance and question the status quo.
 
 Huge thanks to [Karolina/@fox](https://twitter.com/fox) for inspiring me to share my stance. Also, to [Ash Coleman](https://twitter.com/AshColeman30), [Vernon Richards](https://twitter.com/TesterFromLeic), [Cassandra H. Leung](https://twitter.com/Tweet_Cassandra), [Melissa Eaden](https://twitter.com/melthetester), [Abby Bangser](https://twitter.com/a_bangser) and [Rosie Sherry](https://twitter.com/rosiesherry) for helping me review it.
+
+***Written by Richard Bradshaw on 12th June 2018***
