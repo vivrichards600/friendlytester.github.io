@@ -36,8 +36,8 @@ bing_verify:
 # If there is a sponsor
 sponsor:
   active: true
-  text: "SauceCon 2019 is now on sale, I'm talking amongst many other great speakers, grab your ticket! "
-  link: https://saucecon.com/register/
+  text: "I’m speaking at SauceCon 2019 and hope you’ll be there! Until March 1, use the promo code meetmeinaustin to get 10% off your conference pass. See you in Austin!"
+  link: https://saucecon.com/register?promo=meetmeinaustin
   
 # Links to include in footer navigation
 # For external links add external: true
