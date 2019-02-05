@@ -36,8 +36,8 @@ bing_verify:
 # If there is a sponsor
 sponsor:
   active: true
-  text: "I’m speaking at SauceCon 2019 and hope you’ll be there! Until March 1, use the promo code meetmeinaustin to get 10% off your conference pass. See you in Austin!"
-  link: https://saucecon.com/register?promo=meetmeinaustin
+  text: "TestBash is returning to the Netherlands, May 23rd-24th, a fantastic selection of workshops and insightful talks, full details "
+  link: https://ministryoftesting.com/events/testbash-netherlands-2019
   
 # Links to include in footer navigation
 # For external links add external: true
