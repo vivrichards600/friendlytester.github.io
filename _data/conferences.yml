@@ -1,25 +1,3 @@
-  - startdate: 2019-03-25
-    enddate: 2019-03-27
-    name: Automation in Testing, Three Day Course
-    role: [Course]
-    url:  https://app1.edoobox.com/en/HoT/Testing%20Classes%20-%20Switzerland/Workshop.ed.311770
-    city: Zurich
-    country: Switzerland
-    image: houseoftest.png
-    flag: ch
-    year: 2019
-    
-  - startdate: 2019-01-29
-    enddate: 2019-01-31
-    name: Automation in Testing, Three Day Course
-    role: [Course]
-    url:  https://addq.se/utbildningar/automation-in-testing/
-    city: Stockholm
-    country: Sweden
-    image: addqlogo.png
-    flag: se
-    year: 2019
-
   - startdate: 2019-04-15
     enddate: 2019-04-17
     name: Automation in Testing, Three Day Course
@@ -30,15 +8,136 @@
     image: blackkoi.png
     flag: se
     year: 2019
-
-  - startdate: 2019-04-01
-    enddate: 2019-04-03
+    
+  - startdate: 2019-06-26
+    enddate: 2019-06-28
+    name: London Tester Gathering Workshops
+    role: [Organiser]
+    url:  https://ministryoftesting.com/events/london-tester-gathering-workshops-2019
+    city: London
+    country: England
+    image: ltgw.png
+    flag: gb
+    year: 2019
+    
+  - startdate: 2019-09-09
+    enddate: 2019-09-11
     name: Automation in Testing, Three Day Course
     role: [Course]
-    url:  https://ministryoftesting.com/events/testbash-brighton-2019
-    city: Brighton
+    url:  https://ministryoftesting.com/events/testbash-germany-2019
+    city: Munich
+    country: Germany
+    image: ait.png
+    flag: de
+    year: 2019
+    
+  - startdate: 2019-09-12
+    enddate: 2019-09-13
+    name: TestBash Germany
+    role: [Organiser]
+    url:  https://ministryoftesting.com/events/testbash-germany-2019
+    city: Munich
+    country: Germany
+    image: tbgermany.png
+    flag: de
+    year: 2019
+    
+  - startdate: 2019-09-30
+    enddate: 2019-10-02
+    name: Automation in Testing, Three Day Course
+    role: [Course]
+    url:  https://ministryoftesting.com/events/testbash-manchester-2019
+    city: Manchester
     country: England
-    image: tbbrighton.png
+    image: ait.png
+    flag: gb
+    year: 2019
+    
+  - startdate: 2019-10-02
+    enddate: 2019-10-03
+    name: TestBash Manchester
+    role: [Organiser]
+    url:  https://ministryoftesting.com/events/testbash-manchester-2019
+    city: Manchester
+    country: England
+    image: tbmanchester.png
+    flag: gb
+    year: 2019
+    
+  - startdate: 2019-10-02
+    enddate: 2019-10-03
+    name: Test.bash(); Manchester
+    role: [Organiser]
+    url:  https://ministryoftesting.com/events/test-dot-bash-2019
+    city: Manchester
+    country: England
+    image: testdotbash.png
+    flag: gb
+    year: 2019
+    
+  - startdate: 2019-10-21
+    enddate: 2019-10-23
+    name: Automation in Testing, Three Day Course
+    role: [Course]
+    url:  https://ministryoftesting.com/events/testbash-australia-2019
+    city: Sydney
+    country: Australia
+    image: ait.png
+    flag: au
+    year: 2019
+    
+  - startdate: 2019-10-24
+    enddate: 2019-10-25
+    name: TestBash Australia
+    role: [Organiser]
+    url:  https://ministryoftesting.com/events/testbash-australia-2019
+    city: Sydney
+    country: Australia
+    image: tbaustralia.png
+    flag: au
+    year: 2019
+  
+  - startdate: 2019-10-29
+    enddate: 
+    name: TestBash New Zealand
+    role: [Organiser]
+    url:  https://ministryoftesting.com/events/testbash-australia-2019
+    city: Wellington
+    country: New Zealand
+    image: tbnz.png
+    flag: nz
+    year: 2019
+  
+  - startdate: 2019-10-30
+    enddate: 2019-11-01
+    name: Automation in Testing, Three Day Course
+    role: [Course]
+    url:  https://ministryoftesting.com/events/testbash-new-zealand-2019
+    city: Wellington
+    country: New Zealand
+    image: ait.png
+    flag: nz
+    year: 2019
+    
+  - startdate: 2019-11-06
+    enddate: 2019-11-07
+    name: TestBash San Francisco
+    role: [Organiser]
+    url:  https://ministryoftesting.com/events/testbash-san-francisco-2019
+    city: San Francisco
+    country:  USA
+    image: tbsfo.png
+    flag: us
+    year: 2019
+
+  - startdate: 2019-10-07
+    enddate: 2019-10-08
+    name: Selenium Conference
+    role: [Keynote]
+    url:  https://seleniumconf.co.uk/
+    city: London
+    country: England
+    image: seconf.png
     flag: gb
     year: 2019
 
@@ -133,6 +232,28 @@
     country:  Netherlands
     flag: nl
     image: tbnetherlands.png
+    year: 2019
+    
+  - startdate: 2019-03-25
+    enddate: 2019-03-27
+    name: Automation in Testing, Three Day Course
+    role: [Course]
+    url:  https://app1.edoobox.com/en/HoT/Testing%20Classes%20-%20Switzerland/Workshop.ed.311770
+    city: Zurich
+    country: Switzerland
+    image: houseoftest.png
+    flag: ch
+    year: 2019
+    
+  - startdate: 2019-01-29
+    enddate: 2019-01-31
+    name: Automation in Testing, Three Day Course
+    role: [Course]
+    url:  https://addq.se/utbildningar/automation-in-testing/
+    city: Stockholm
+    country: Sweden
+    image: addqlogo.png
+    flag: se
     year: 2019
     
   - startdate: 2018-06-16
@@ -643,3 +764,14 @@
     country:  Belgium
     flag: be
     year: 2014
+    
+  - startdate: 2019-04-01
+    enddate: 2019-04-03
+    name: Automation in Testing, Three Day Course
+    role: [Course]
+    url:  https://ministryoftesting.com/events/testbash-brighton-2019
+    city: Brighton
+    country: England
+    image: tbbrighton.png
+    flag: gb
+    year: 2019
