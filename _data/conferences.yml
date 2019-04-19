@@ -1,14 +1,3 @@
-  - startdate: 2019-04-15
-    enddate: 2019-04-17
-    name: Automation in Testing, Three Day Course
-    role: [Course]
-    url:  http://black-koi.consulting/training.html
-    city: Malmo
-    country: Sweden
-    image: blackkoi.png
-    flag: se
-    year: 2019
-    
   - startdate: 2019-06-26
     enddate: 2019-06-28
     name: London Tester Gathering Workshops
@@ -17,6 +6,28 @@
     city: London
     country: England
     image: ltgw.png
+    flag: gb
+    year: 2019
+
+  - startdate: 2019-06-13
+    enddate: 
+    name: Taking Automated Checks Beyond WebDriver/UI Testing
+    role: [Course]
+    url:  https://www.eventbrite.com/e/taking-automated-checks-beyond-webdriverui-testing-workshop-tickets-59432634610
+    city: Birmingham
+    country: England
+    image: fusionworkshop.png
+    flag: gb
+    year: 2019
+    
+  - startdate: 2019-06-12
+    enddate: 
+    name: Coding for Testers ni C# Workshop
+    role: [Course]
+    url:  https://www.eventbrite.com/e/coding-for-testers-day-workshop-c-tickets-58817943051
+    city: Birmingham
+    country: England
+    image: fusionworkshop.png
     flag: gb
     year: 2019
     
@@ -201,6 +212,17 @@
     flag: ro
     image: rtc.png
     year: 2018
+    
+  - startdate: 2019-04-15
+    enddate: 2019-04-17
+    name: Automation in Testing, Three Day Course
+    role: [Course]
+    url:  http://black-koi.consulting/training.html
+    city: Malmo
+    country: Sweden
+    image: blackkoi.png
+    flag: se
+    year: 2019
     
   - startdate: 2018-10-01
     enddate: 2018-10-03
