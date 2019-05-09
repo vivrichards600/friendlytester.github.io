@@ -24,7 +24,7 @@ This a tough question, usually the type of question I avoid answering because it
 
 ## State of Play
 
-For me, there is only one place to start with this question, what does automation look like right now? This question I can answer, but in doing so, it reveals a huge gulf, a gulf that is probably about ten years in the making! There are still many teams who don't utilise automation at all, some genuinely don't need to, and others that just haven't been able to get going for one reason or another. Then at the other end of the scale with have teams who've adopted continuous deployment and are running thousands of automated checks on all layers of their application umpteen times a day. Then, of course, they are teams who have thrown some AI magic into the mix, but we'll get to that.
+For me, there is only one place to start with this question, what does automation look like right now? This question I can answer, but in doing so, it reveals a huge gulf, a gulf that is probably about ten years in the making! There are still many teams who don't utilise automation at all, some genuinely don't need to, and others that just haven't been able to get going for one reason or another. Then at the other end of the scale we have teams who've adopted continuous deployment and are running thousands of automated checks on all layers of their application umpteen times a day. Then, of course, they are teams who have thrown some AI magic into the mix, but we'll get to that.
 
 However, I feel the majority of teams sit somewhere between these two points on the scale, with a large proportion of them having some form of continuous integration with thousands of UI and API automated checks.
 
