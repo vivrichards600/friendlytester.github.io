@@ -36,8 +36,8 @@ bing_verify:
 # If there is a sponsor
 sponsor:
   active: true
-  text: "The London Tester Gathering Workshops are back! June 26th-28th, a fantastic three-days of testing focused workshops!  "
-  link: https://ministryoftesting.com/events/london-tester-gathering-workshops-2019
+  text: "TestBash is returning to San Francisco for its second year! You won't want to miss the only TestBash in the US!  "
+  link: https://ministryoftesting.com/events/testbash-san-francisco-2019
   
 # Links to include in footer navigation
 # For external links add external: true
