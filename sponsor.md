@@ -50,7 +50,7 @@ Sponsors will be thanked publicly via both my [Twitter](https://twitter.com/frie
 I value my brand and reputation highly, and with this sponsorship being placed directly above my own content, it's important sponsors align with my values. This will mean some just don't fit, such as PayToSpeak conferences, they won't be advertised on my site.
 
 ### Pricing
-The cost is £250 a week, I'm happy to chat if people are interested in sponsoring longer, however, I feel there is more value for all involved with weekly engagements.
+The cost is £200 a week, I'm happy to offer discounts if people are interested in sponsoring longer.
 
 ### Potential Customers
 I see such sponsorship providing value for those looking to promote:
